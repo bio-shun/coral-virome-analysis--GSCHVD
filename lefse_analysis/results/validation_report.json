@@ -1,0 +1,264 @@
+{
+  "status": "PASS",
+  "science": {
+    "status": "PASS",
+    "table_counts": {
+      "all_strata": 222,
+      "all_tested": 2199,
+      "selected": 84,
+      "comparison_key": 28,
+      "comparison_summary": 28,
+      "sample_membership": 572,
+      "selected_LDA2.5_display": 74,
+      "project_integrity_QC": 28,
+      "phylum_order_LDA2.5": 10
+    },
+    "main_table_columns": [
+      "Virome",
+      "Condition",
+      "Stratum_ID",
+      "Analysis_Project",
+      "Raw_Projects",
+      "Ocean_Basin",
+      "Coral_Host_Species",
+      "Sample_Type",
+      "Locations",
+      "Family",
+      "Healthy_n",
+      "Condition_n",
+      "Healthy_mean_CPM",
+      "Condition_mean_CPM",
+      "KW_P",
+      "KW_P_BH_within_stratum",
+      "Retained",
+      "LDA_Threshold",
+      "KW_Threshold",
+      "Fit_Warnings",
+      "LDA_Signed",
+      "LDA_Abs",
+      "Enriched_In",
+      "Phylum",
+      "Comparison_ID",
+      "N_Raw_Projects",
+      "N_Locations",
+      "Comparison_Order",
+      "Selected_Order",
+      "Display_Flag",
+      "Direction_Matches_Group_Mean",
+      "Healthy_Samples",
+      "Condition_Samples",
+      "Healthy_Original_Statuses",
+      "Condition_Original_Statuses"
+    ],
+    "checks": [
+      {
+        "check": "Original analysis, filtering, fitting, marker selection and panel code retained",
+        "pass": true
+      },
+      {
+        "check": "No RDS or second-script input dependency",
+        "pass": true
+      },
+      {
+        "check": "No precomputed results reader",
+        "pass": true
+      },
+      {
+        "check": "Exactly one R script in package",
+        "pass": true
+      },
+      {
+        "check": "Raw input SHA256 unchanged: 24083_metagenome_TPM.tsv",
+        "pass": true
+      },
+      {
+        "check": "Raw input SHA256 unchanged: dna_virus_taxonomy.tsv",
+        "pass": true
+      },
+      {
+        "check": "Raw input SHA256 unchanged: sample_info_metagenome.tsv",
+        "pass": true
+      },
+      {
+        "check": "Raw input SHA256 unchanged: rna_virus_tpm.tsv",
+        "pass": true
+      },
+      {
+        "check": "Raw input SHA256 unchanged: rna_virus_taxonomy.tsv",
+        "pass": true
+      },
+      {
+        "check": "Raw input SHA256 unchanged: sample_info_metatranscriptome.tsv",
+        "pass": true
+      },
+      {
+        "check": "All scientific fields exactly equal: all_strata",
+        "pass": true,
+        "rows": 222,
+        "fields": 14
+      },
+      {
+        "check": "All scientific fields exactly equal: all_tested",
+        "pass": true,
+        "rows": 2199,
+        "fields": 25
+      },
+      {
+        "check": "All scientific fields exactly equal: selected",
+        "pass": true,
+        "rows": 84,
+        "fields": 24
+      },
+      {
+        "check": "All scientific fields exactly equal: comparison_key",
+        "pass": true,
+        "rows": 28,
+        "fields": 14
+      },
+      {
+        "check": "All scientific fields exactly equal: comparison_summary",
+        "pass": true,
+        "rows": 28,
+        "fields": 17
+      },
+      {
+        "check": "All scientific fields exactly equal: sample_membership",
+        "pass": true,
+        "rows": 572,
+        "fields": 12
+      },
+      {
+        "check": "All scientific fields exactly equal: selected_LDA2.5_display",
+        "pass": true,
+        "rows": 74,
+        "fields": 24
+      },
+      {
+        "check": "All scientific fields exactly equal: project_integrity_QC",
+        "pass": true,
+        "rows": 28,
+        "fields": 15
+      },
+      {
+        "check": "All scientific fields exactly equal: phylum_order_LDA2.5",
+        "pass": true,
+        "rows": 10,
+        "fields": 5
+      },
+      {
+        "check": "2199 tests, 84 analysis-selected, 74 displayed, 28 comparisons",
+        "pass": true
+      },
+      {
+        "check": "Unified result table includes every test exactly once",
+        "pass": true
+      },
+      {
+        "check": "Unified table preserves all original calculation fields",
+        "pass": true
+      },
+      {
+        "check": "Retained/display flags, selected ordering and direction match fit outputs",
+        "pass": true
+      },
+      {
+        "check": "Unified table sample accessions, JSON original statuses, n and traceability match membership/key",
+        "pass": true
+      },
+      {
+        "check": "DSS exact original status labels only and 6 + 6 accessions",
+        "pass": true
+      }
+    ]
+  },
+  "relocation": {
+    "status": "PASS",
+    "input_dependency": "one R script and six input tables only",
+    "run_from_different_working_directory": true,
+    "all_12_audit_tables_exactly_equal": true,
+    "consolidated_table_exactly_equal": true,
+    "PNG_pixels_identical": true,
+    "RStudio_source_entry_point": "PASS"
+  },
+  "figure": {
+    "status": "PASS",
+    "PNG_pixel_identical_to_confirmed_figure": true,
+    "PDF": {
+      "effective_minimum_font_pt": 6.117343,
+      "fonts": [
+        "IHWJZP+Arial-ItalicMT",
+        "RGJVSS+ArialMT",
+        "XLWBLO+Arial-BoldMT"
+      ],
+      "font_embeddings": [
+        {
+          "resource": "f-0-0",
+          "embedded": true,
+          "base_font": "/'IHWJZP+Arial-ItalicMT'"
+        },
+        {
+          "resource": "f-1-0",
+          "embedded": true,
+          "base_font": "/'RGJVSS+ArialMT'"
+        },
+        {
+          "resource": "f-2-0",
+          "embedded": true,
+          "base_font": "/'XLWBLO+Arial-BoldMT'"
+        }
+      ],
+      "glyphs": 1518,
+      "all_glyphs_within_page": true,
+      "aligned_labels": 35,
+      "maximum_label_offset_pt": 0.4664065845146297,
+      "dimensions_mm": [
+        266.7,
+        246.2388888888889
+      ]
+    },
+    "rasters": [
+      {
+        "format": "png",
+        "pixels": [
+          3151,
+          2910
+        ],
+        "dpi": 300
+      },
+      {
+        "format": "tiff",
+        "pixels": [
+          6302,
+          5820
+        ],
+        "dpi": 600
+      }
+    ],
+    "SVG_editable_text_elements": 103,
+    "source_preflight": {
+      "ready": true,
+      "strict": false,
+      "counts": {
+        "PASS": 17,
+        "WARN": 3,
+        "FAIL": 0
+      }
+    },
+    "PDF_Tf_operator_audit": {
+      "raw_minimum_found_pt": 1.0,
+      "interpretation": "Cairo uses Tf=1 with text-matrix scaling; effective glyph sizes measured from matrix norms exceed 5 pt."
+    },
+    "backend": "All figure files produced by R; Python inspected existing files only.",
+    "source_warning_review": {
+      "SOURCE-SYNTAX": "The complete R pipeline has executed successfully, providing the requested runtime parse verification.",
+      "FINAL-WIDTH": "The established composition uses a dynamic 5.6 mm cell grid. Its intended size is 266.8 by 246.4 mm; final target-journal production resize is not part of this code-packaging request.",
+      "UNCERTAINTY-ENCODING": "This is a feature/comparison LDA marker grid, not a seed/fold aggregate estimate. Bubble area encodes absolute LDA and color encodes enrichment; no interval estimate is claimed."
+    },
+    "visual_inspection": {
+      "DNA": "31 family or higher-rank fallback rows and 14 displayed comparisons; family labels aligned, distinct condition boundaries, no visible text/point collisions.",
+      "RNA": "4 family rows and 4 displayed comparisons; row labels, top annotation strips, diagonal host labels readable and clear.",
+      "complete_figure": "Shared enrichment, size, sampling-region, compartment and phylum legends readable; no visible clipping or collisions. Complete plot matches established figure exactly."
+    }
+  },
+  "scope": "Validation of the supplied LEfSe source package; numerical outputs and figure checks are recorded below."
+}

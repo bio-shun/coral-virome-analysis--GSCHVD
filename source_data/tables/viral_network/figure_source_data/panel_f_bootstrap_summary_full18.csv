@@ -1,0 +1,3 @@
+"Metric","Metric_Label","Group_Label","N_Resamples","Median","Q025","Q25","Q75","Q975"
+"Components","f  Connected components","Healthy / Normal (Exposed)",500,8,5,7,9,11
+"Components","f  Connected components","SCTLD",500,10,6,9,11,13

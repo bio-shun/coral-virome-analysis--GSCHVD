@@ -1,0 +1,161 @@
+Table,Field,Type,Description
+Panel_A_global_marginal,Figure,character,Composite figure filename stem; no extension.
+Panel_A_global_marginal,Panel,character,"Composite panel A-D, or Supporting for saved results not directly plotted."
+Panel_A_global_marginal,Virus,character,DNA and RNA communities are analysed separately.
+Panel_A_global_marginal,Factor,character,Original machine-readable ecological factor identifier.
+Panel_A_global_marginal,Factor_label,character,"Human-readable factor name, without replacing the original Factor."
+Panel_A_global_marginal,Factor_order,integer,"Display order (1 Coral_taxa, 2 Sampling_region, 3 Compartments, 4 Status): top to bottom for horizontal Panels A/B and left to right for Panels C/D. Panels A/B reverse the internal factor levels before coord_flip to achieve this order."
+Panel_A_global_marginal,Colour,character,"Factor colour used by the renderer: Coral_taxa #3B6FB6, Sampling_region #2A9D8F, Compartments #E9A23B, Status #C65A64."
+Panel_A_global_marginal,Analysis,character,Saved analysis/model label.
+Panel_A_global_marginal,Df,integer,Saved degrees of freedom for the focal term.
+Panel_A_global_marginal,SumOfSqs,numeric,Saved distance-based sum of squares for the focal term.
+Panel_A_global_marginal,R2,numeric,"Saved unadjusted R-squared, on its original 0-1 scale; not rounded."
+Panel_A_global_marginal,F,numeric,"Saved PERMANOVA pseudo-F or dbRDA F statistic, as identified by Analysis."
+Panel_A_global_marginal,P,numeric,Saved unrounded permutation P value; no new test or threshold substitution.
+Panel_A_global_marginal,Q,numeric,Saved Benjamini-Hochberg-adjusted P value; no new correction is performed.
+Panel_A_global_marginal,Source_table,character,Portable filename of the original saved analysis table.
+Panel_A_global_marginal,Source_row,integer,"One-based data-row index in Source_table, excluding its header."
+Panel_A_global_marginal,Plotted_value_percent,numeric,"Panel A/D: 100*R2. Panel B: 0 when !Estimable or Adj_R2 is missing, otherwise max(0,100*Adj_R2), matching the renderer. This is the data value before decorative point jitter."
+Panel_A_global_marginal,Plotted_label,character,"Exact displayed data label used by the renderer; empty for Panel D points, which have no point-specific text label."
+Panel_A_global_marginal,Plotted_value_rule,character,Explicit transformation used for this panel's display data.
+Panel_B_project_conditioned,Figure,character,Composite figure filename stem; no extension.
+Panel_B_project_conditioned,Panel,character,"Composite panel A-D, or Supporting for saved results not directly plotted."
+Panel_B_project_conditioned,Virus,character,DNA and RNA communities are analysed separately.
+Panel_B_project_conditioned,Factor,character,Original machine-readable ecological factor identifier.
+Panel_B_project_conditioned,Factor_label,character,"Human-readable factor name, without replacing the original Factor."
+Panel_B_project_conditioned,Factor_order,integer,"Display order (1 Coral_taxa, 2 Sampling_region, 3 Compartments, 4 Status): top to bottom for horizontal Panels A/B and left to right for Panels C/D. Panels A/B reverse the internal factor levels before coord_flip to achieve this order."
+Panel_B_project_conditioned,Colour,character,"Factor colour used by the renderer: Coral_taxa #3B6FB6, Sampling_region #2A9D8F, Compartments #E9A23B, Status #C65A64."
+Panel_B_project_conditioned,Analysis,character,Saved analysis/model label.
+Panel_B_project_conditioned,Df,integer,Saved degrees of freedom for the focal term.
+Panel_B_project_conditioned,R2,numeric,"Saved unadjusted R-squared, on its original 0-1 scale; not rounded."
+Panel_B_project_conditioned,Adj_R2,numeric,Saved adjusted partial R-squared on its original scale; negative/nonestimable values are preserved.
+Panel_B_project_conditioned,F,numeric,"Saved PERMANOVA pseudo-F or dbRDA F statistic, as identified by Analysis."
+Panel_B_project_conditioned,P,numeric,Saved unrounded permutation P value; no new test or threshold substitution.
+Panel_B_project_conditioned,Estimable,logical,Saved analysis reporting flag; preserved exactly and used by the existing Panel B renderer.
+Panel_B_project_conditioned,Note,character,"Saved analysis or test-status note, including reasons a value is unavailable."
+Panel_B_project_conditioned,Eligible_projects,integer,"Projects containing at least two retained focal-factor levels, each represented by at least two samples."
+Panel_B_project_conditioned,Total_projects,integer,Total study Projects in the corresponding filtered viral dataset.
+Panel_B_project_conditioned,Coverage,character,Saved within-Project evidence-coverage category.
+Panel_B_project_conditioned,Model_estimable,logical,"Saved model-rank estimability flag, distinct from study-coverage/reporting estimability; NA if absent from the source table."
+Panel_B_project_conditioned,Source_table,character,Portable filename of the original saved analysis table.
+Panel_B_project_conditioned,Source_row,integer,"One-based data-row index in Source_table, excluding its header."
+Panel_B_project_conditioned,Raw_Adj_R2_percent,numeric,"100*Adj_R2 without clamping, retaining negative values and missing values."
+Panel_B_project_conditioned,Plotted_value_percent,numeric,"Panel A/D: 100*R2. Panel B: 0 when !Estimable or Adj_R2 is missing, otherwise max(0,100*Adj_R2), matching the renderer. This is the data value before decorative point jitter."
+Panel_B_project_conditioned,Plotted_label,character,"Exact displayed data label used by the renderer; empty for Panel D points, which have no point-specific text label."
+Panel_B_project_conditioned,Plotted_value_rule,character,Explicit transformation used for this panel's display data.
+Panel_C_within_project_coverage,Figure,character,Composite figure filename stem; no extension.
+Panel_C_within_project_coverage,Panel,character,"Composite panel A-D, or Supporting for saved results not directly plotted."
+Panel_C_within_project_coverage,Virus,character,DNA and RNA communities are analysed separately.
+Panel_C_within_project_coverage,Factor,character,Original machine-readable ecological factor identifier.
+Panel_C_within_project_coverage,Factor_label,character,"Human-readable factor name, without replacing the original Factor."
+Panel_C_within_project_coverage,Factor_order,integer,"Display order (1 Coral_taxa, 2 Sampling_region, 3 Compartments, 4 Status): top to bottom for horizontal Panels A/B and left to right for Panels C/D. Panels A/B reverse the internal factor levels before coord_flip to achieve this order."
+Panel_C_within_project_coverage,Colour,character,"Factor colour used by the renderer: Coral_taxa #3B6FB6, Sampling_region #2A9D8F, Compartments #E9A23B, Status #C65A64."
+Panel_C_within_project_coverage,Eligible_projects,integer,"Projects containing at least two retained focal-factor levels, each represented by at least two samples."
+Panel_C_within_project_coverage,Total_projects,integer,Total study Projects in the corresponding filtered viral dataset.
+Panel_C_within_project_coverage,Eligible_samples,integer,Samples in retained levels of eligible within-Project comparisons.
+Panel_C_within_project_coverage,Coverage,character,Saved within-Project evidence-coverage category.
+Panel_C_within_project_coverage,Source_table,character,Portable filename of the original saved analysis table.
+Panel_C_within_project_coverage,Source_row,integer,"One-based data-row index in Source_table, excluding its header."
+Panel_C_within_project_coverage,Plotted_value_fraction,numeric,"Panel C bar height: Eligible_projects/Total_projects, before percent axis formatting."
+Panel_C_within_project_coverage,Plotted_value_percent,numeric,"Panel A/D: 100*R2. Panel B: 0 when !Estimable or Adj_R2 is missing, otherwise max(0,100*Adj_R2), matching the renderer. This is the data value before decorative point jitter."
+Panel_C_within_project_coverage,Plotted_label,character,"Exact displayed data label used by the renderer; empty for Panel D points, which have no point-specific text label."
+Panel_C_within_project_coverage,Plotted_value_rule,character,Explicit transformation used for this panel's display data.
+Panel_D_project_specific,Figure,character,Composite figure filename stem; no extension.
+Panel_D_project_specific,Panel,character,"Composite panel A-D, or Supporting for saved results not directly plotted."
+Panel_D_project_specific,Virus,character,DNA and RNA communities are analysed separately.
+Panel_D_project_specific,Factor,character,Original machine-readable ecological factor identifier.
+Panel_D_project_specific,Factor_label,character,"Human-readable factor name, without replacing the original Factor."
+Panel_D_project_specific,Factor_order,integer,"Display order (1 Coral_taxa, 2 Sampling_region, 3 Compartments, 4 Status): top to bottom for horizontal Panels A/B and left to right for Panels C/D. Panels A/B reverse the internal factor levels before coord_flip to achieve this order."
+Panel_D_project_specific,Colour,character,"Factor colour used by the renderer: Coral_taxa #3B6FB6, Sampling_region #2A9D8F, Compartments #E9A23B, Status #C65A64."
+Panel_D_project_specific,Project,character,Study identifier; each Panel D row is one eligible Project-factor comparison.
+Panel_D_project_specific,N,integer,Number of analysed samples in the corresponding saved comparison.
+Panel_D_project_specific,Levels,integer,Number of retained levels of the focal factor.
+Panel_D_project_specific,R2,numeric,"Saved unadjusted R-squared, on its original 0-1 scale; not rounded."
+Panel_D_project_specific,F,numeric,"Saved PERMANOVA pseudo-F or dbRDA F statistic, as identified by Analysis."
+Panel_D_project_specific,P,numeric,Saved unrounded permutation P value; no new test or threshold substitution.
+Panel_D_project_specific,Dispersion_F,numeric,Saved PERMDISP F statistic using distances to group spatial medians.
+Panel_D_project_specific,Dispersion_P,numeric,Saved unrounded PERMDISP permutation P value.
+Panel_D_project_specific,Note,logical,"Saved analysis or test-status note, including reasons a value is unavailable."
+Panel_D_project_specific,Q,numeric,Saved Benjamini-Hochberg-adjusted P value; no new correction is performed.
+Panel_D_project_specific,Dispersion_Q,numeric,Saved Benjamini-Hochberg-adjusted PERMDISP P value.
+Panel_D_project_specific,Source_table,character,Portable filename of the original saved analysis table.
+Panel_D_project_specific,Source_row,integer,"One-based data-row index in Source_table, excluding its header."
+Panel_D_project_specific,Plotted_value_percent,numeric,"Panel A/D: 100*R2. Panel B: 0 when !Estimable or Adj_R2 is missing, otherwise max(0,100*Adj_R2), matching the renderer. This is the data value before decorative point jitter."
+Panel_D_project_specific,Plotted_label,character,"Exact displayed data label used by the renderer; empty for Panel D points, which have no point-specific text label."
+Panel_D_project_specific,Plotted_value_rule,character,Explicit transformation used for this panel's display data.
+Supporting/02_global_partial_dbrda,Figure,character,Composite figure filename stem; no extension.
+Supporting/02_global_partial_dbrda,Panel,character,"Composite panel A-D, or Supporting for saved results not directly plotted."
+Supporting/02_global_partial_dbrda,Virus,character,DNA and RNA communities are analysed separately.
+Supporting/02_global_partial_dbrda,Factor,character,Original machine-readable ecological factor identifier.
+Supporting/02_global_partial_dbrda,Factor_label,character,"Human-readable factor name, without replacing the original Factor."
+Supporting/02_global_partial_dbrda,Analysis,character,Saved analysis/model label.
+Supporting/02_global_partial_dbrda,Df,integer,Saved degrees of freedom for the focal term.
+Supporting/02_global_partial_dbrda,R2,numeric,"Saved unadjusted R-squared, on its original 0-1 scale; not rounded."
+Supporting/02_global_partial_dbrda,Adj_R2,numeric,Saved adjusted partial R-squared on its original scale; negative/nonestimable values are preserved.
+Supporting/02_global_partial_dbrda,F,numeric,"Saved PERMANOVA pseudo-F or dbRDA F statistic, as identified by Analysis."
+Supporting/02_global_partial_dbrda,P,numeric,Saved unrounded permutation P value; no new test or threshold substitution.
+Supporting/02_global_partial_dbrda,Estimable,logical,Saved analysis reporting flag; preserved exactly and used by the existing Panel B renderer.
+Supporting/02_global_partial_dbrda,Note,logical,"Saved analysis or test-status note, including reasons a value is unavailable."
+Supporting/02_global_partial_dbrda,Source_table,character,Portable filename of the original saved analysis table.
+Supporting/02_global_partial_dbrda,Source_row,integer,"One-based data-row index in Source_table, excluding its header."
+Supporting/04_global_permdisp,Figure,character,Composite figure filename stem; no extension.
+Supporting/04_global_permdisp,Panel,character,"Composite panel A-D, or Supporting for saved results not directly plotted."
+Supporting/04_global_permdisp,Virus,character,DNA and RNA communities are analysed separately.
+Supporting/04_global_permdisp,Factor,character,Original machine-readable ecological factor identifier.
+Supporting/04_global_permdisp,Factor_label,character,"Human-readable factor name, without replacing the original Factor."
+Supporting/04_global_permdisp,Dispersion_F,numeric,Saved PERMDISP F statistic using distances to group spatial medians.
+Supporting/04_global_permdisp,Dispersion_P,numeric,Saved unrounded PERMDISP permutation P value.
+Supporting/04_global_permdisp,Note,logical,"Saved analysis or test-status note, including reasons a value is unavailable."
+Supporting/04_global_permdisp,Dispersion_Q,numeric,Saved Benjamini-Hochberg-adjusted PERMDISP P value.
+Supporting/04_global_permdisp,Source_table,character,Portable filename of the original saved analysis table.
+Supporting/04_global_permdisp,Source_row,integer,"One-based data-row index in Source_table, excluding its header."
+Supporting/08_sample_summary,Figure,character,Composite figure filename stem; no extension.
+Supporting/08_sample_summary,Panel,character,"Composite panel A-D, or Supporting for saved results not directly plotted."
+Supporting/08_sample_summary,Virus,character,DNA and RNA communities are analysed separately.
+Supporting/08_sample_summary,Factor_label,character,"Human-readable factor name, without replacing the original Factor."
+Supporting/08_sample_summary,Final_samples,integer,Total samples retained after the saved filtering rules.
+Supporting/08_sample_summary,Viral_features,integer,Number of nonzero viral features retained by the saved workflow.
+Supporting/08_sample_summary,Projects,integer,Number of study Projects in the filtered dataset.
+Supporting/08_sample_summary,Sampling_region_levels,integer,Number of retained Sampling region levels.
+Supporting/08_sample_summary,Coral_taxa_levels,integer,Number of retained Coral taxa levels.
+Supporting/08_sample_summary,Compartments_levels,integer,Number of retained Compartments levels.
+Supporting/08_sample_summary,Status_levels,integer,Number of retained Status levels.
+Supporting/08_sample_summary,Source_table,character,Portable filename of the original saved analysis table.
+Supporting/08_sample_summary,Source_row,integer,"One-based data-row index in Source_table, excluding its header."
+Supporting/test_context_map,Virus,character,DNA and RNA communities are analysed separately.
+Supporting/test_context_map,Analysis,character,Saved analysis/model label.
+Supporting/test_context_map,Factor,character,Original machine-readable ecological factor identifier.
+Supporting/test_context_map,Stratum,logical,"Saved ecological-stratum context, when applicable."
+Supporting/test_context_map,Project,character,Study identifier; each Panel D row is one eligible Project-factor comparison.
+Supporting/test_context_map,Test_ID,character,Saved native permutation-test identifier; links execution audit and context map.
+Supporting/test_context_map,Type,character,"Saved native test type: PERMANOVA, partial dbRDA or PERMDISP."
+Supporting/test_context_map,N,integer,Number of analysed samples in the corresponding saved comparison.
+Supporting/test_context_map,Requested_permutations,integer,Requested number of permutations for the saved native test.
+Supporting/test_context_map,Actual_permutations,integer,Actual number of nonidentity permutations executed; finite spaces can be enumerated.
+Supporting/test_context_map,Complete_enumeration,logical,Saved flag indicating exhaustive finite-space permutation enumeration.
+Supporting/test_context_map,Minimum_P_resolution,numeric,"Saved numerical permutation P resolution, based on the actual execution count."
+Supporting/test_context_map,Seed,integer,Saved per-test random seed.
+Supporting/test_context_map,Workers,integer,Saved number of execution workers.
+Supporting/test_context_map,Elapsed_seconds,numeric,Saved native-test elapsed runtime in seconds.
+Supporting/test_context_map,Checkpoint,character,"Saved relative checkpoint reference, or basename when an absolute local path was recorded; checkpoint files are not copied."
+Supporting/test_context_map,Original_test_ID,character,Additional original saved field; retained without modification.
+Supporting/test_context_map,Permutation_SHA256,character,Additional original saved field; retained without modification.
+Supporting/test_context_map,Cache_origin,character,"Saved origin of the native result, for example computed or verified archive replay."
+Supporting/test_context_map,Audit_scope,character,Whether trace records are explicitly selected by global context or are the complete legacy audit without inferred test mappings.
+Supporting/permutation_execution_audit,Test_ID,character,Saved native permutation-test identifier; links execution audit and context map.
+Supporting/permutation_execution_audit,Virus,character,DNA and RNA communities are analysed separately.
+Supporting/permutation_execution_audit,Type,character,"Saved native test type: PERMANOVA, partial dbRDA or PERMDISP."
+Supporting/permutation_execution_audit,N,integer,Number of analysed samples in the corresponding saved comparison.
+Supporting/permutation_execution_audit,Requested_permutations,integer,Requested number of permutations for the saved native test.
+Supporting/permutation_execution_audit,Actual_permutations,integer,Actual number of nonidentity permutations executed; finite spaces can be enumerated.
+Supporting/permutation_execution_audit,Complete_enumeration,logical,Saved flag indicating exhaustive finite-space permutation enumeration.
+Supporting/permutation_execution_audit,Minimum_P_resolution,numeric,"Saved numerical permutation P resolution, based on the actual execution count."
+Supporting/permutation_execution_audit,Seed,integer,Saved per-test random seed.
+Supporting/permutation_execution_audit,Workers,integer,Saved number of execution workers.
+Supporting/permutation_execution_audit,Elapsed_seconds,numeric,Saved native-test elapsed runtime in seconds.
+Supporting/permutation_execution_audit,Model,character,"Saved model text, rather than a newly fitted model."
+Supporting/permutation_execution_audit,Checkpoint,character,"Saved relative checkpoint reference, or basename when an absolute local path was recorded; checkpoint files are not copied."
+Supporting/permutation_execution_audit,Original_test_ID,character,Additional original saved field; retained without modification.
+Supporting/permutation_execution_audit,Permutation_SHA256,character,Additional original saved field; retained without modification.
+Supporting/permutation_execution_audit,Cache_origin,character,"Saved origin of the native result, for example computed or verified archive replay."
+Supporting/permutation_execution_audit,Audit_scope,character,Whether trace records are explicitly selected by global context or are the complete legacy audit without inferred test mappings.

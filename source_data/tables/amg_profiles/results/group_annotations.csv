@@ -1,0 +1,71 @@
+,Project,Species,Tissue,Ocean,Block,Detail,Display_Label
+PRJNA757245||Porites lutea||Red Sea||Healthy||Healthy/Normal||Coral skeleton,PRJNA757245,Porites lutea,Coral skeleton,Red Sea,Healthy,Healthy/Normal,PRJNA757245_Porites lutea
+PRJNA757245||Porites lutea||Red Sea||Stressed||Stressed(Heat stress)||Coral skeleton,PRJNA757245,Porites lutea,Coral skeleton,Red Sea,Stressed,Stressed(Heat stress),PRJNA757245_Porites lutea
+PRJNA545004||Porites lutea||Pacific Ocean||Healthy||Healthy/Normal||Coral tissue,PRJNA545004,Porites lutea,Coral tissue,Pacific Ocean,Healthy,Healthy/Normal,PRJNA545004_Porites lutea
+PRJNA437202||Porites lutea||Red Sea||Healthy||Healthy/Normal||Coral tissue,PRJNA437202,Porites lutea,Coral tissue,Red Sea,Healthy,Healthy/Normal,PRJNA437202_Porites lutea
+PRJNA757245||Porites lutea||Red Sea||Healthy||Healthy/Normal||Other,PRJNA757245,Porites lutea,Other,Red Sea,Healthy,Healthy/Normal,PRJNA757245_Porites lutea
+PRJNA757245||Porites lutea||Red Sea||Stressed||Stressed(Heat stress)||Other,PRJNA757245,Porites lutea,Other,Red Sea,Stressed,Stressed(Heat stress),PRJNA757245_Porites lutea
+PRJEB48073||Balanophyllia europaea||Mediterranean Sea||Healthy||Healthy/Normal||Coral mucus,PRJEB48073,Balanophyllia europaea,Coral mucus,Mediterranean Sea,Healthy,Healthy/Normal,PRJEB48073_Balanophyllia europaea
+PRJEB48073||Balanophyllia europaea||Mediterranean Sea||Stressed||Stressed(Acidification stress)||Coral mucus,PRJEB48073,Balanophyllia europaea,Coral mucus,Mediterranean Sea,Stressed,Stressed(Acidification stress),PRJEB48073_Balanophyllia europaea
+PRJEB48073||Balanophyllia europaea||Mediterranean Sea||Healthy||Healthy/Normal||Coral skeleton,PRJEB48073,Balanophyllia europaea,Coral skeleton,Mediterranean Sea,Healthy,Healthy/Normal,PRJEB48073_Balanophyllia europaea
+PRJEB48073||Balanophyllia europaea||Mediterranean Sea||Healthy||Healthy/Normal||Coral tissue,PRJEB48073,Balanophyllia europaea,Coral tissue,Mediterranean Sea,Healthy,Healthy/Normal,PRJEB48073_Balanophyllia europaea
+PRJEB48073||Balanophyllia europaea||Mediterranean Sea||Stressed||Stressed(Acidification stress)||Coral tissue,PRJEB48073,Balanophyllia europaea,Coral tissue,Mediterranean Sea,Stressed,Stressed(Acidification stress),PRJEB48073_Balanophyllia europaea
+PRJNA1001615||Acropora pharaonis||Arabian Gulf||Healthy||Healthy/Normal||Coral tissue,PRJNA1001615,Acropora pharaonis,Coral tissue,Arabian Gulf,Healthy,Healthy/Normal,PRJNA1001615_Acropora pharaonis
+PRJNA1001615||Acropora pharaonis||Arabian Gulf||Disease||Disease (Bleaching lesion)||Coral tissue,PRJNA1001615,Acropora pharaonis,Coral tissue,Arabian Gulf,Disease,Disease (Bleaching lesion),PRJNA1001615_Acropora pharaonis
+PRJNA1001615||Acropora pharaonis||Arabian Gulf||Stressed||Stressed(Heat stress)||Coral tissue,PRJNA1001615,Acropora pharaonis,Coral tissue,Arabian Gulf,Stressed,Stressed(Heat stress),PRJNA1001615_Acropora pharaonis
+PRJNA1001615||Acropora pharaonis||Arabian Gulf||Other||Treated/Recovery||Coral tissue,PRJNA1001615,Acropora pharaonis,Coral tissue,Arabian Gulf,Other,Treated/Recovery,PRJNA1001615_Acropora pharaonis
+PRJNA995890||Galaxea fascicularis||Pacific Ocean||Healthy||Healthy/Normal||Coral fragment,PRJNA995890,Galaxea fascicularis,Coral fragment,Pacific Ocean,Healthy,Healthy/Normal,PRJNA995890_Galaxea fascicularis
+PRJNA995890||Galaxea fascicularis||Pacific Ocean||Bleached||Bleached||Coral fragment,PRJNA995890,Galaxea fascicularis,Coral fragment,Pacific Ocean,Bleached,Bleached,PRJNA995890_Galaxea fascicularis
+PRJNA1023010||Galaxea fascicularis||Pacific Ocean||Healthy||Healthy/Normal||Coral tissue,PRJNA1023010,Galaxea fascicularis,Coral tissue,Pacific Ocean,Healthy,Healthy/Normal,PRJNA1023010_Galaxea fascicularis
+PRJNA437202||Galaxea fascicularis||Red Sea||Healthy||Healthy/Normal||Coral tissue,PRJNA437202,Galaxea fascicularis,Coral tissue,Red Sea,Healthy,Healthy/Normal,PRJNA437202_Galaxea fascicularis
+PRJNA757245||Goniastrea edwardsi||Red Sea||Healthy||Healthy/Normal||Coral skeleton,PRJNA757245,Goniastrea edwardsi,Coral skeleton,Red Sea,Healthy,Healthy/Normal,PRJNA757245_Goniastrea edwardsi
+PRJNA757245||Goniastrea edwardsi||Red Sea||Stressed||Stressed(Heat stress)||Coral skeleton,PRJNA757245,Goniastrea edwardsi,Coral skeleton,Red Sea,Stressed,Stressed(Heat stress),PRJNA757245_Goniastrea edwardsi
+PRJNA757245||Goniastrea edwardsi||Red Sea||Healthy||Healthy/Normal||Other,PRJNA757245,Goniastrea edwardsi,Other,Red Sea,Healthy,Healthy/Normal,PRJNA757245_Goniastrea edwardsi
+PRJNA757245||Goniastrea edwardsi||Red Sea||Stressed||Stressed(Heat stress)||Other,PRJNA757245,Goniastrea edwardsi,Other,Red Sea,Stressed,Stressed(Heat stress),PRJNA757245_Goniastrea edwardsi
+PRJNA1061506||Orbicella faveolata||Caribbean Sea||Healthy||Healthy/Normal||Coral fragment,PRJNA1061506,Orbicella faveolata,Coral fragment,Caribbean Sea,Healthy,Healthy/Normal,PRJNA1061506_Orbicella faveolata
+PRJNA597953||Orbicella faveolata||Caribbean Sea||Healthy||Healthy/Normal||Coral mucus,PRJNA597953,Orbicella faveolata,Coral mucus,Caribbean Sea,Healthy,Healthy/Normal,PRJNA597953_Orbicella faveolata
+PRJNA925892||Orbicella faveolata||Atlantic Ocean||Healthy||Healthy/Normal||Coral tissue,PRJNA925892,Orbicella faveolata,Coral tissue,Atlantic Ocean,Healthy,Healthy/Normal,PRJNA925892_Orbicella faveolata
+PRJNA925892||Orbicella faveolata||Atlantic Ocean||Disease||Disease(SCTLD)||Coral tissue,PRJNA925892,Orbicella faveolata,Coral tissue,Atlantic Ocean,Disease,Disease(SCTLD),PRJNA925892_Orbicella faveolata
+PRJNA1034677||Acropora carduus||Pacific Ocean||Healthy||Healthy/Normal||Coral fragment,PRJNA1034677,Acropora carduus,Coral fragment,Pacific Ocean,Healthy,Healthy/Normal,PRJNA1034677_Acropora carduus
+PRJNA1034677||Acropora carduus||Pacific Ocean||Disease||Disease (Pathogen-induced disease)||Coral fragment,PRJNA1034677,Acropora carduus,Coral fragment,Pacific Ocean,Disease,Disease (Pathogen-induced disease),PRJNA1034677_Acropora carduus
+PRJNA1034677||Acropora carduus||Pacific Ocean||Other||Treated/Recovery||Coral fragment,PRJNA1034677,Acropora carduus,Coral fragment,Pacific Ocean,Other,Treated/Recovery,PRJNA1034677_Acropora carduus
+PRJNA1061506||Diploria labyrinthiformis||Caribbean Sea||Healthy||Healthy/Normal||Coral fragment,PRJNA1061506,Diploria labyrinthiformis,Coral fragment,Caribbean Sea,Healthy,Healthy/Normal,PRJNA1061506_Diploria labyrinthiformis
+PRJNA576217||Diploria labyrinthiformis||Atlantic Ocean||Healthy||Healthy/Normal||Coral tissue,PRJNA576217,Diploria labyrinthiformis,Coral tissue,Atlantic Ocean,Healthy,Healthy/Normal,PRJNA576217_Diploria labyrinthiformis
+PRJNA576217||Diploria labyrinthiformis||Atlantic Ocean||Disease||Disease(SCTLD)||Coral tissue,PRJNA576217,Diploria labyrinthiformis,Coral tissue,Atlantic Ocean,Disease,Disease(SCTLD),PRJNA576217_Diploria labyrinthiformis
+PRJNA525179||Pocillopora verrucosa||Pacific Ocean||Healthy||Healthy/Normal||Coral fragment,PRJNA525179,Pocillopora verrucosa,Coral fragment,Pacific Ocean,Healthy,Healthy/Normal,PRJNA525179_Pocillopora verrucosa
+PRJNA525179||Pocillopora verrucosa||Pacific Ocean||Bleached||Bleached||Coral fragment,PRJNA525179,Pocillopora verrucosa,Coral fragment,Pacific Ocean,Bleached,Bleached,PRJNA525179_Pocillopora verrucosa
+PRJNA437202||Pocillopora verrucosa||Red Sea||Healthy||Healthy/Normal||Coral tissue,PRJNA437202,Pocillopora verrucosa,Coral tissue,Red Sea,Healthy,Healthy/Normal,PRJNA437202_Pocillopora verrucosa
+PRJNA435753||Siderastrea siderea||Atlantic Ocean||Healthy||Healthy/Normal||Coral mucus,PRJNA435753,Siderastrea siderea,Coral mucus,Atlantic Ocean,Healthy,Healthy/Normal,PRJNA435753_Siderastrea siderea
+PRJNA435753||Siderastrea siderea||Atlantic Ocean||Disease||Disease(Dark Spot Syndrome)||Coral mucus,PRJNA435753,Siderastrea siderea,Coral mucus,Atlantic Ocean,Disease,Disease(Dark Spot Syndrome),PRJNA435753_Siderastrea siderea
+PRJNA435753||Siderastrea siderea||Atlantic Ocean||Other||Other||Coral mucus,PRJNA435753,Siderastrea siderea,Coral mucus,Atlantic Ocean,Other,Other,PRJNA435753_Siderastrea siderea
+PRJNA995890||Acropora digitifera||Pacific Ocean||Healthy||Healthy/Normal||Coral fragment,PRJNA995890,Acropora digitifera,Coral fragment,Pacific Ocean,Healthy,Healthy/Normal,PRJNA995890_Acropora digitifera
+PRJNA995890||Acropora digitifera||Pacific Ocean||Bleached||Bleached||Coral fragment,PRJNA995890,Acropora digitifera,Coral fragment,Pacific Ocean,Bleached,Bleached,PRJNA995890_Acropora digitifera
+PRJNA954896||Acropora muricata||Pacific Ocean||Healthy||Healthy/Normal||Coral tissue,PRJNA954896,Acropora muricata,Coral tissue,Pacific Ocean,Healthy,Healthy/Normal,PRJNA954896_Acropora muricata
+PRJNA954896||Acropora muricata||Pacific Ocean||Bleached||Bleached||Coral tissue,PRJNA954896,Acropora muricata,Coral tissue,Pacific Ocean,Bleached,Bleached,PRJNA954896_Acropora muricata
+PRJNA525179||Acropora tenuis||Pacific Ocean||Healthy||Healthy/Normal||Coral fragment,PRJNA525179,Acropora tenuis,Coral fragment,Pacific Ocean,Healthy,Healthy/Normal,PRJNA525179_Acropora tenuis
+PRJNA525179||Acropora tenuis||Pacific Ocean||Bleached||Bleached||Coral fragment,PRJNA525179,Acropora tenuis,Coral fragment,Pacific Ocean,Bleached,Bleached,PRJNA525179_Acropora tenuis
+PRJNA576217||Dichocoenia stokesii||Atlantic Ocean||Healthy||Healthy/Normal||Coral tissue,PRJNA576217,Dichocoenia stokesii,Coral tissue,Atlantic Ocean,Healthy,Healthy/Normal,PRJNA576217_Dichocoenia stokesii
+PRJNA576217||Dichocoenia stokesii||Atlantic Ocean||Disease||Disease(SCTLD)||Coral tissue,PRJNA576217,Dichocoenia stokesii,Coral tissue,Atlantic Ocean,Disease,Disease(SCTLD),PRJNA576217_Dichocoenia stokesii
+PRJNA525179||Goniastrea minuta||Pacific Ocean||Healthy||Healthy/Normal||Coral fragment,PRJNA525179,Goniastrea minuta,Coral fragment,Pacific Ocean,Healthy,Healthy/Normal,PRJNA525179_Goniastrea minuta
+PRJNA525179||Goniastrea minuta||Pacific Ocean||Bleached||Bleached||Coral fragment,PRJNA525179,Goniastrea minuta,Coral fragment,Pacific Ocean,Bleached,Bleached,PRJNA525179_Goniastrea minuta
+PRJNA1061506||Montastraea cavernosa||Atlantic Ocean||Healthy||Healthy/Normal||Coral fragment,PRJNA1061506,Montastraea cavernosa,Coral fragment,Atlantic Ocean,Healthy,Healthy/Normal,PRJNA1061506_Montastraea cavernosa
+PRJNA388052||Montastraea cavernosa||Atlantic Ocean||Other||Other||Coral mucus,PRJNA388052,Montastraea cavernosa,Coral mucus,Atlantic Ocean,Other,Other,PRJNA388052_Montastraea cavernosa
+PRJNA647466||Pocillopora sp.||Pacific Ocean||Healthy||Healthy/Normal||Coral tissue,PRJNA647466,Pocillopora sp.,Coral tissue,Pacific Ocean,Healthy,Healthy/Normal,PRJNA647466_Pocillopora sp.
+PRJNA647466||Pocillopora sp.||Pacific Ocean||Bleached||Bleached||Coral tissue,PRJNA647466,Pocillopora sp.,Coral tissue,Pacific Ocean,Bleached,Bleached,PRJNA647466_Pocillopora sp.
+PRJNA995890||Porites pukoensis||Pacific Ocean||Healthy||Healthy/Normal||Coral fragment,PRJNA995890,Porites pukoensis,Coral fragment,Pacific Ocean,Healthy,Healthy/Normal,PRJNA995890_Porites pukoensis
+PRJNA995890||Porites pukoensis||Pacific Ocean||Bleached||Bleached||Coral fragment,PRJNA995890,Porites pukoensis,Coral fragment,Pacific Ocean,Bleached,Bleached,PRJNA995890_Porites pukoensis
+PRJNA1061506||Pseudodiploria strigosa||Atlantic Ocean||Healthy||Healthy/Normal||Coral fragment,PRJNA1061506,Pseudodiploria strigosa,Coral fragment,Atlantic Ocean,Healthy,Healthy/Normal,PRJNA1061506_Pseudodiploria strigosa
+PRJNA595374||Pseudodiploria strigosa||Atlantic Ocean||Healthy||Healthy/Normal||Coral mucus,PRJNA595374,Pseudodiploria strigosa,Coral mucus,Atlantic Ocean,Healthy,Healthy/Normal,PRJNA595374_Pseudodiploria strigosa
+PRJNA576217||Stephanocoenia intersepta||Atlantic Ocean||Healthy||Healthy/Normal||Coral tissue,PRJNA576217,Stephanocoenia intersepta,Coral tissue,Atlantic Ocean,Healthy,Healthy/Normal,PRJNA576217_Stephanocoenia intersepta
+PRJNA576217||Stephanocoenia intersepta||Atlantic Ocean||Disease||Disease(SCTLD)||Coral tissue,PRJNA576217,Stephanocoenia intersepta,Coral tissue,Atlantic Ocean,Disease,Disease(SCTLD),PRJNA576217_Stephanocoenia intersepta
+PRJNA437202||Acanthastrea echinata||Red Sea||Healthy||Healthy/Normal||Coral tissue,PRJNA437202,Acanthastrea echinata,Coral tissue,Red Sea,Healthy,Healthy/Normal,PRJNA437202_Acanthastrea echinata
+PRJNA437202||Acropora cytherea||Red Sea||Healthy||Healthy/Normal||Coral tissue,PRJNA437202,Acropora cytherea,Coral tissue,Red Sea,Healthy,Healthy/Normal,PRJNA437202_Acropora cytherea
+PRJNA1035279||Acropora pruinosa||Pacific Ocean||Healthy||Healthy/Normal||Coral mucus,PRJNA1035279,Acropora pruinosa,Coral mucus,Pacific Ocean,Healthy,Healthy/Normal,PRJNA1035279_Acropora pruinosa
+PRJNA437202||Diploastrea heliopora||Red Sea||Healthy||Healthy/Normal||Coral tissue,PRJNA437202,Diploastrea heliopora,Coral tissue,Red Sea,Healthy,Healthy/Normal,PRJNA437202_Diploastrea heliopora
+PRJNA928230||Favites abdita||Indian Ocean||Other||Other||Other,PRJNA928230,Favites abdita,Other,Indian Ocean,Other,Other,PRJNA928230_Favites abdita
+PRJNA437202||Fungia sp.||Red Sea||Healthy||Healthy/Normal||Coral tissue,PRJNA437202,Fungia sp.,Coral tissue,Red Sea,Healthy,Healthy/Normal,PRJNA437202_Fungia sp.
+PRJNA1028846||Galaxea astreata||Pacific Ocean||Healthy||Healthy/Normal||Other,PRJNA1028846,Galaxea astreata,Other,Pacific Ocean,Healthy,Healthy/Normal,PRJNA1028846_Galaxea astreata
+PRJNA477682||Isopora palifera||Pacific Ocean||Healthy||Healthy/Normal||Coral skeleton,PRJNA477682,Isopora palifera,Coral skeleton,Pacific Ocean,Healthy,Healthy/Normal,PRJNA477682_Isopora palifera
+PRJNA576217||Meandrina meandrites||Atlantic Ocean||Disease||Disease(SCTLD)||Coral tissue,PRJNA576217,Meandrina meandrites,Coral tissue,Atlantic Ocean,Disease,Disease(SCTLD),PRJNA576217_Meandrina meandrites
+PRJNA437202||Mycedium elephantotus||Red Sea||Healthy||Healthy/Normal||Coral tissue,PRJNA437202,Mycedium elephantotus,Coral tissue,Red Sea,Healthy,Healthy/Normal,PRJNA437202_Mycedium elephantotus
+PRJNA437202||Stylophora pistillata||Red Sea||Healthy||Healthy/Normal||Coral tissue,PRJNA437202,Stylophora pistillata,Coral tissue,Red Sea,Healthy,Healthy/Normal,PRJNA437202_Stylophora pistillata

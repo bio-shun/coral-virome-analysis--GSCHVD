@@ -1,0 +1,42 @@
+Workflow: Nested beta diversity and PCoA
+Mode: all
+Generated UTC: 2026-11-05 19:20:22 UTC
+Input directory: <release_root>/beta_diversity/inputs
+Analysis directory: <run_root>/beta_diversity/nested/Data/Analysis_Results
+Requested permutations: 9999
+Legacy replay: none
+
+R version 4.4.1 (2024-06-14 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+
+
+locale:
+[1] C
+system code page: 65001
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] dplyr_1.1.4
+
+loaded via a namespace (and not attached):
+ [1] bit_4.6.0          Matrix_1.7-0       gtable_0.3.6       crayon_1.5.3      
+ [5] vegan_2.7-2        compiler_4.4.1     tidyselect_1.2.1   Rcpp_1.0.13       
+ [9] stringr_1.5.1      parallel_4.4.1     cluster_2.1.6      textshaping_1.0.1 
+[13] systemfonts_1.3.2  splines_4.4.1      scales_1.4.0       lattice_0.22-6    
+[17] ggplot2_4.0.1      readr_2.1.5        R6_2.6.1           labeling_0.4.3    
+[21] generics_0.1.4     patchwork_1.3.2    MASS_7.3-60.2      ggrepel_0.9.8     
+[25] tibble_3.2.1       svglite_2.2.2      tzdb_0.5.0         pillar_1.11.1     
+[29] RColorBrewer_1.1-3 rlang_1.2.0        stringi_1.8.4      S7_0.2.0          
+[33] bit64_4.6.0-1      cli_3.6.3          withr_3.0.2        magrittr_2.0.3    
+[37] mgcv_1.9-1         digest_0.6.37      grid_4.4.1         vroom_1.6.5       
+[41] permute_0.9-8      hms_1.1.4          cowplot_1.2.0      lifecycle_1.0.5   
+[45] nlme_3.1-164       vctrs_0.6.5        glue_1.8.0         farver_2.1.2      
+[49] ragg_1.4.0         ape_5.8-1          tools_4.4.1        pkgconfig_2.0.3   

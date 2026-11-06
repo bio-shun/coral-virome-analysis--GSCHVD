@@ -1,0 +1,226 @@
+"Package"	"Version"	"Priority"	"Repository"	"biocViews"	"RemoteType"	"RemoteUrl"	"RemoteSha"	"Direct"
+"Biobase"	"2.66.0"	""	"Bioconductor 3.20"	"Infrastructure"	""	""	""	TRUE
+"BiocGenerics"	"0.52.0"	""	"Bioconductor 3.20"	"Infrastructure"	""	""	""	TRUE
+"DBI"	"1.3.0"	""	"CRAN"	""	""	""	""	FALSE
+"DelayedArray"	"0.32.0"	""	"Bioconductor 3.20"	"Infrastructure, DataRepresentation, Annotation,
+GenomeAnnotation"	""	""	""	FALSE
+"Deriv"	"4.2.0"	""	"CRAN"	""	""	""	""	FALSE
+"Formula"	"1.2-5"	""	"CRAN"	""	""	""	""	FALSE
+"GenomeInfoDb"	"1.42.3"	""	"Bioconductor 3.20"	"Genetics, DataRepresentation, Annotation, GenomeAnnotation"	""	""	""	FALSE
+"GenomeInfoDbData"	"1.2.13"	""	""	"AnnotationData, Organism"	""	""	""	FALSE
+"GenomicRanges"	"1.58.0"	""	"Bioconductor 3.20"	"Genetics, Infrastructure, DataRepresentation, Sequencing,
+Annotation, GenomeAnnotation, Coverage"	""	""	""	FALSE
+"IRanges"	"2.40.1"	""	"Bioconductor 3.20"	"Infrastructure, DataRepresentation"	""	""	""	FALSE
+"MASS"	"7.3-60.2"	"recommended"	"CRAN"	""	""	""	""	FALSE
+"Matrix"	"1.7-0"	"recommended"	"CRAN"	""	""	""	""	FALSE
+"MatrixGenerics"	"1.18.1"	""	"Bioconductor 3.20"	"Infrastructure, Software"	""	""	""	FALSE
+"MatrixModels"	"0.5-4"	""	"CRAN"	""	""	""	""	FALSE
+"R6"	"2.6.1"	""	"CRAN"	""	""	""	""	FALSE
+"RColorBrewer"	"1.1-3"	""	"CRAN"	""	""	""	""	TRUE
+"Rcpp"	"1.0.13"	""	"CRAN"	""	""	""	""	FALSE
+"RcppArmadillo"	"15.2.6-1"	""	"CRAN"	""	""	""	""	FALSE
+"RcppEigen"	"0.3.4.0.2"	""	"CRAN"	""	""	""	""	FALSE
+"Rdpack"	"2.6.6"	""	"CRAN"	""	""	""	""	FALSE
+"S4Arrays"	"1.6.0"	""	"Bioconductor 3.20"	"Infrastructure, DataRepresentation"	""	""	""	FALSE
+"S4Vectors"	"0.44.0"	""	"Bioconductor 3.20"	"Infrastructure, DataRepresentation"	""	""	""	TRUE
+"S7"	"0.2.0"	""	"CRAN"	""	""	""	""	FALSE
+"SparseArray"	"1.6.2"	""	"Bioconductor 3.20"	"Infrastructure, DataRepresentation"	""	""	""	FALSE
+"SparseM"	"1.84-2"	""	"CRAN"	""	""	""	""	FALSE
+"SummarizedExperiment"	"1.36.0"	""	"Bioconductor 3.20"	"Genetics, Infrastructure, Sequencing, Annotation, Coverage,
+GenomeAnnotation"	""	""	""	TRUE
+"TH.data"	"1.1-5"	""	"CRAN"	""	""	""	""	FALSE
+"UCSC.utils"	"1.2.0"	""	"Bioconductor 3.20"	"Infrastructure, GenomeAssembly, Annotation,
+GenomeAnnotation, DataImport"	""	""	""	FALSE
+"XVector"	"0.46.0"	""	"Bioconductor 3.20"	"Infrastructure, DataRepresentation"	""	""	""	FALSE
+"abind"	"1.4-8"	""	"CRAN"	""	""	""	""	FALSE
+"ape"	"5.8-1"	""	"CRAN"	""	""	""	""	TRUE
+"aplot"	"0.2.9"	""	"CRAN"	""	""	""	""	FALSE
+"askpass"	"1.2.1"	""	"CRAN"	""	""	""	""	FALSE
+"backports"	"1.5.0"	""	"CRAN"	""	""	""	""	FALSE
+"base64enc"	"0.1-6"	""	"CRAN"	""	""	""	""	FALSE
+"bit"	"4.6.0"	""	"CRAN"	""	""	""	""	FALSE
+"bit64"	"4.6.0-1"	""	"CRAN"	""	""	""	""	FALSE
+"blob"	"1.3.0"	""	"CRAN"	""	""	""	""	FALSE
+"boot"	"1.3-32"	"recommended"	"CRAN"	""	""	""	""	FALSE
+"brio"	"1.1.5"	""	"CRAN"	""	""	""	""	FALSE
+"broom"	"1.0.13"	""	"CRAN"	""	""	""	""	FALSE
+"bslib"	"0.11.0"	""	"CRAN"	""	""	""	""	FALSE
+"cachem"	"1.1.0"	""	"CRAN"	""	""	""	""	FALSE
+"callr"	"3.8.0"	""	"CRAN"	""	""	""	""	FALSE
+"car"	"3.1-5"	""	"CRAN"	""	""	""	""	FALSE
+"carData"	"3.0-6"	""	"CRAN"	""	""	""	""	FALSE
+"cellranger"	"1.1.0"	""	"CRAN"	""	""	""	""	FALSE
+"cli"	"3.6.3"	""	"CRAN"	""	""	""	""	FALSE
+"clipr"	"0.8.1"	""	"CRAN"	""	""	""	""	FALSE
+"cluster"	"2.1.6"	"recommended"	"CRAN"	""	""	""	""	FALSE
+"codetools"	"0.2-20"	"recommended"	"CRAN"	""	""	""	""	FALSE
+"coin"	"1.4-3"	""	"CRAN"	""	""	""	""	FALSE
+"colorspace"	"2.1-2"	""	"CRAN"	""	""	""	""	FALSE
+"compiler"	"4.4.1"	"base"	""	""	""	""	""	FALSE
+"conflicted"	"1.2.0"	""	"CRAN"	""	""	""	""	FALSE
+"corrplot"	"0.95"	""	"CRAN"	""	""	""	""	FALSE
+"cowplot"	"1.2.0"	""	"CRAN"	""	""	""	""	TRUE
+"cpp11"	"0.5.5"	""	"CRAN"	""	""	""	""	FALSE
+"crayon"	"1.5.3"	""	"CRAN"	""	""	""	""	FALSE
+"curl"	"7.1.0"	""	"CRAN"	""	""	""	""	FALSE
+"data.table"	"1.18.2.1"	""	"CRAN"	""	""	""	""	TRUE
+"dbplyr"	"2.5.2"	""	"CRAN"	""	""	""	""	FALSE
+"desc"	"1.4.3"	""	"CRAN"	""	""	""	""	FALSE
+"diffobj"	"0.3.6"	""	"CRAN"	""	""	""	""	FALSE
+"digest"	"0.6.37"	""	"CRAN"	""	""	""	""	TRUE
+"doBy"	"4.7.1"	""	"CRAN"	""	""	""	""	FALSE
+"dplyr"	"1.1.4"	""	"CRAN"	""	""	""	""	TRUE
+"dtplyr"	"1.3.3"	""	"CRAN"	""	""	""	""	FALSE
+"evaluate"	"1.0.5"	""	"CRAN"	""	""	""	""	FALSE
+"fansi"	"1.0.6"	""	"CRAN"	""	""	""	""	FALSE
+"farver"	"2.1.2"	""	"CRAN"	""	""	""	""	FALSE
+"fastmap"	"1.2.0"	""	"CRAN"	""	""	""	""	FALSE
+"fontawesome"	"0.5.3"	""	"CRAN"	""	""	""	""	FALSE
+"forcats"	"1.0.0"	""	"CRAN"	""	""	""	""	FALSE
+"forecast"	"9.0.2"	""	"CRAN"	""	""	""	""	FALSE
+"fracdiff"	"1.5-3"	""	"CRAN"	""	""	""	""	FALSE
+"fs"	"2.1.0"	""	"CRAN"	""	""	""	""	FALSE
+"gargle"	"1.6.1"	""	"CRAN"	""	""	""	""	FALSE
+"generics"	"0.1.4"	""	"CRAN"	""	""	""	""	FALSE
+"ggforce"	"0.5.0"	""	"CRAN"	""	""	""	""	FALSE
+"ggfun"	"0.2.0"	""	"CRAN"	""	""	""	""	FALSE
+"ggh4x"	"0.3.1"	""	"CRAN"	""	""	""	""	TRUE
+"ggplot2"	"4.0.1"	""	"CRAN"	""	""	""	""	TRUE
+"ggplotify"	"0.1.3"	""	"CRAN"	""	""	""	""	FALSE
+"ggpubr"	"0.6.2"	""	"CRAN"	""	""	""	""	TRUE
+"ggraph"	"2.2.2"	""	"CRAN"	""	""	""	""	TRUE
+"ggrepel"	"0.9.8"	""	"CRAN"	""	""	""	""	TRUE
+"ggsci"	"5.0.0"	""	"CRAN"	""	""	""	""	FALSE
+"ggsignif"	"0.6.4"	""	"CRAN"	""	""	""	""	FALSE
+"ggtree"	"3.14.0"	""	"Bioconductor 3.20"	"Alignment, Annotation, Clustering, DataImport,
+MultipleSequenceAlignment, Phylogenetics, ReproducibleResearch,
+Software, Visualization"	""	""	""	FALSE
+"glue"	"1.8.0"	""	"CRAN"	""	""	""	""	FALSE
+"googledrive"	"2.1.2"	""	"CRAN"	""	""	""	""	FALSE
+"googlesheets4"	"1.1.2"	""	"CRAN"	""	""	""	""	FALSE
+"grDevices"	"4.4.1"	"base"	""	""	""	""	""	TRUE
+"graphics"	"4.4.1"	"base"	""	""	""	""	""	FALSE
+"graphlayouts"	"1.2.3"	""	"CRAN"	""	""	""	""	FALSE
+"grid"	"4.4.1"	"base"	""	""	""	""	""	TRUE
+"gridExtra"	"2.3"	""	"CRAN"	""	""	""	""	TRUE
+"gridGraphics"	"0.5-1"	""	"CRAN"	""	""	""	""	FALSE
+"gtable"	"0.3.6"	""	"CRAN"	""	""	""	""	FALSE
+"haven"	"2.5.5"	""	"CRAN"	""	""	""	""	FALSE
+"highr"	"0.12"	""	"CRAN"	""	""	""	""	FALSE
+"hms"	"1.1.4"	""	"CRAN"	""	""	""	""	FALSE
+"htmltools"	"0.5.9"	""	"CRAN"	""	""	""	""	FALSE
+"httr"	"1.4.8"	""	"CRAN"	""	""	""	""	FALSE
+"ids"	"1.0.1"	""	"CRAN"	""	""	""	""	FALSE
+"igraph"	"2.3.0"	""	"CRAN"	""	""	""	""	TRUE
+"isoband"	"0.3.0"	""	"CRAN"	""	""	""	""	FALSE
+"jquerylib"	"0.1.4"	""	"CRAN"	""	""	""	""	FALSE
+"jsonlite"	"2.0.0"	""	"CRAN"	""	""	""	""	TRUE
+"knitr"	"1.51"	""	"CRAN"	""	""	""	""	FALSE
+"labeling"	"0.4.3"	""	"CRAN"	""	""	""	""	FALSE
+"lattice"	"0.22-6"	"recommended"	"CRAN"	""	""	""	""	FALSE
+"lazyeval"	"0.2.3"	""	"CRAN"	""	""	""	""	FALSE
+"lefser"	"1.16.2"	""	"Bioconductor 3.20"	"Software, Sequencing, DifferentialExpression, Microbiome,
+StatisticalMethod, Classification"	""	""	""	TRUE
+"libcoin"	"1.0-12"	""	"CRAN"	""	""	""	""	FALSE
+"lifecycle"	"1.0.5"	""	"CRAN"	""	""	""	""	FALSE
+"lme4"	"2.0-1"	""	"CRAN"	""	""	""	""	FALSE
+"lmtest"	"0.9-40"	""	"CRAN"	""	""	""	""	FALSE
+"lubridate"	"1.9.4"	""	"CRAN"	""	""	""	""	FALSE
+"magrittr"	"2.0.3"	""	"CRAN"	""	""	""	""	FALSE
+"matrixStats"	"1.5.0"	""	"CRAN"	""	""	""	""	FALSE
+"memoise"	"2.0.1"	""	"CRAN"	""	""	""	""	FALSE
+"methods"	"4.4.1"	"base"	""	""	""	""	""	FALSE
+"mgcv"	"1.9-1"	"recommended"	"CRAN"	""	""	""	""	FALSE
+"microbenchmark"	"1.5.0"	""	"CRAN"	""	""	""	""	FALSE
+"mime"	"0.13"	""	"CRAN"	""	""	""	""	FALSE
+"minqa"	"1.2.8"	""	"CRAN"	""	""	""	""	FALSE
+"modelr"	"0.1.11"	""	"CRAN"	""	""	""	""	FALSE
+"modeltools"	"0.2-24"	""	"CRAN"	""	""	""	""	FALSE
+"multcomp"	"1.4-31"	""	"CRAN"	""	""	""	""	FALSE
+"mvtnorm"	"1.3-7"	""	"CRAN"	""	""	""	""	FALSE
+"nlme"	"3.1-164"	"recommended"	"CRAN"	""	""	""	""	FALSE
+"nloptr"	"2.2.1"	""	"CRAN"	""	""	""	""	FALSE
+"nnet"	"7.3-20"	"recommended"	"CRAN"	""	""	""	""	FALSE
+"numDeriv"	"2016.8-1.1"	""	"CRAN"	""	""	""	""	FALSE
+"openssl"	"2.4.0"	""	"CRAN"	""	""	""	""	FALSE
+"otel"	"0.2.0"	""	"CRAN"	""	""	""	""	FALSE
+"parallel"	"4.4.1"	"base"	""	""	""	""	""	TRUE
+"patchwork"	"1.3.2"	""	"CRAN"	""	""	""	""	TRUE
+"pbkrtest"	"0.5.5"	""	"CRAN"	""	""	""	""	FALSE
+"permute"	"0.9-8"	""	"CRAN"	""	""	""	""	TRUE
+"pheatmap"	"1.0.13"	""	"CRAN"	""	""	""	""	TRUE
+"pillar"	"1.11.1"	""	"CRAN"	""	""	""	""	FALSE
+"pkgbuild"	"1.4.8"	""	"CRAN"	""	""	""	""	FALSE
+"pkgconfig"	"2.0.3"	""	"CRAN"	""	""	""	""	FALSE
+"pkgload"	"1.5.2"	""	"CRAN"	""	""	""	""	FALSE
+"polyclip"	"1.10-7"	""	"CRAN"	""	""	""	""	FALSE
+"polynom"	"1.4-1"	""	"CRAN"	""	""	""	""	FALSE
+"praise"	"1.0.0"	""	"CRAN"	""	""	""	""	FALSE
+"prettyunits"	"1.2.0"	""	"CRAN"	""	""	""	""	FALSE
+"processx"	"3.9.0"	""	"CRAN"	""	""	""	""	FALSE
+"progress"	"1.2.3"	""	"CRAN"	""	""	""	""	FALSE
+"ps"	"1.9.3"	""	"CRAN"	""	""	""	""	FALSE
+"purrr"	"1.0.2"	""	"CRAN"	""	""	""	""	FALSE
+"quantreg"	"6.1"	""	"CRAN"	""	""	""	""	FALSE
+"ragg"	"1.4.0"	""	"CRAN"	""	""	""	""	TRUE
+"rappdirs"	"0.3.4"	""	"CRAN"	""	""	""	""	FALSE
+"rbibutils"	"2.4.1"	""	"CRAN"	""	""	""	""	FALSE
+"readr"	"2.1.5"	""	"CRAN"	""	""	""	""	TRUE
+"readxl"	"1.4.5"	""	"CRAN"	""	""	""	""	FALSE
+"reformulas"	"0.4.4"	""	"CRAN"	""	""	""	""	FALSE
+"rematch"	"2.0.0"	""	"CRAN"	""	""	""	""	FALSE
+"rematch2"	"2.1.2"	""	"CRAN"	""	""	""	""	FALSE
+"reprex"	"2.1.1"	""	"CRAN"	""	""	""	""	FALSE
+"rlang"	"1.2.0"	""	"CRAN"	""	""	""	""	TRUE
+"rmarkdown"	"2.31"	""	"CRAN"	""	""	""	""	FALSE
+"rprojroot"	"2.1.1"	""	"CRAN"	""	""	""	""	FALSE
+"rstatix"	"0.7.3"	""	"CRAN"	""	""	""	""	FALSE
+"rstudioapi"	"0.18.0"	""	"CRAN"	""	""	""	""	FALSE
+"rvest"	"1.0.5"	""	"CRAN"	""	""	""	""	FALSE
+"sandwich"	"3.1-3"	""	"CRAN"	""	""	""	""	FALSE
+"sass"	"0.4.10"	""	"CRAN"	""	""	""	""	FALSE
+"scales"	"1.4.0"	""	"CRAN"	""	""	""	""	TRUE
+"selectr"	"0.5-1"	""	"CRAN"	""	""	""	""	FALSE
+"splines"	"4.4.1"	"base"	""	""	""	""	""	FALSE
+"stats"	"4.4.1"	"base"	""	""	""	""	""	TRUE
+"stats4"	"4.4.1"	"base"	""	""	""	""	""	FALSE
+"stringi"	"1.8.4"	""	"CRAN"	""	""	""	""	FALSE
+"stringr"	"1.5.1"	""	"CRAN"	""	""	""	""	TRUE
+"survival"	"3.8-6"	"recommended"	"CRAN"	""	""	""	""	FALSE
+"svglite"	"2.2.2"	""	"CRAN"	""	""	""	""	TRUE
+"sys"	"3.4.3"	""	"CRAN"	""	""	""	""	FALSE
+"systemfonts"	"1.3.2"	""	"CRAN"	""	""	""	""	TRUE
+"testthat"	"3.3.2"	""	"CRAN"	""	""	""	""	FALSE
+"textshaping"	"1.0.1"	""	"CRAN"	""	""	""	""	FALSE
+"tibble"	"3.2.1"	""	"CRAN"	""	""	""	""	FALSE
+"tidygraph"	"1.3.1"	""	"CRAN"	""	""	""	""	FALSE
+"tidyr"	"1.3.1"	""	"CRAN"	""	""	""	""	TRUE
+"tidyselect"	"1.2.1"	""	"CRAN"	""	""	""	""	FALSE
+"tidytree"	"0.4.7"	""	"CRAN"	""	""	""	""	FALSE
+"tidyverse"	"2.0.0"	""	"CRAN"	""	""	""	""	TRUE
+"timeDate"	"4052.112"	""	"CRAN"	""	""	""	""	FALSE
+"timechange"	"0.3.0"	""	"CRAN"	""	""	""	""	FALSE
+"tinytex"	"0.59"	""	"CRAN"	""	""	""	""	FALSE
+"tools"	"4.4.1"	"base"	""	""	""	""	""	TRUE
+"treeio"	"1.30.0"	""	"Bioconductor 3.20"	"Software, Annotation, Clustering, DataImport,
+DataRepresentation, Alignment, MultipleSequenceAlignment,
+Phylogenetics"	""	""	""	FALSE
+"tweenr"	"2.0.3"	""	"CRAN"	""	""	""	""	FALSE
+"tzdb"	"0.5.0"	""	"CRAN"	""	""	""	""	FALSE
+"urca"	"1.3-4"	""	"CRAN"	""	""	""	""	FALSE
+"utf8"	"1.2.4"	""	"CRAN"	""	""	""	""	FALSE
+"utils"	"4.4.1"	"base"	""	""	""	""	""	TRUE
+"uuid"	"1.2-2"	""	"CRAN"	""	""	""	""	FALSE
+"vctrs"	"0.6.5"	""	"CRAN"	""	""	""	""	TRUE
+"vegan"	"2.7-2"	""	"CRAN"	""	""	""	""	TRUE
+"viridis"	"0.6.5"	""	"CRAN"	""	""	""	""	FALSE
+"viridisLite"	"0.4.3"	""	"CRAN"	""	""	""	""	FALSE
+"vroom"	"1.6.5"	""	"CRAN"	""	""	""	""	FALSE
+"waldo"	"0.6.2"	""	"CRAN"	""	""	""	""	FALSE
+"withr"	"3.0.2"	""	"CRAN"	""	""	""	""	FALSE
+"xfun"	"0.57"	""	"CRAN"	""	""	""	""	FALSE
+"xml2"	"1.5.2"	""	"CRAN"	""	""	""	""	FALSE
+"yaml"	"2.3.12"	""	"CRAN"	""	""	""	""	FALSE
+"yulab.utils"	"0.2.4"	""	"CRAN"	""	""	""	""	FALSE
+"zlibbioc"	"1.52.0"	""	"Bioconductor 3.20"	"Infrastructure"	""	""	""	FALSE
+"zoo"	"1.8-15"	""	"CRAN"	""	""	""	""	FALSE

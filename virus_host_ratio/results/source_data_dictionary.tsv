@@ -1,0 +1,72 @@
+column	record_types_with_values	description
+record_type	comparison,group_summary,sample	Row class: sample, comparison or group_summary.
+Record_ID	comparison,group_summary,sample	Unique record identifier within this source table.
+Sample	sample	Original sample accession; sample records only.
+Linked_Virus_Signal	sample	Sum of abundance of unique matched linked viruses in this sample; original input scale.
+Linked_Host_Signal	sample	Sum of abundance of unique matched linked hosts in this sample; original input scale.
+n_detected_linked_viruses	sample	Number of unique linked entities with abundance>0 in this sample.
+n_detected_linked_hosts	sample	Number of unique linked entities with abundance>0 in this sample.
+n_codetected_predicted_pairs	sample	Number of predicted unique links with both linked entities positive in this sample.
+Zero_Status	sample	Original classification of zero viral/host signals.
+Pass_Nonzero_Filter	sample	Both linked viral and linked host signals are positive.
+Analysis_Project	comparison,group_summary,sample	Analysis project identity from Project; never pooled across projects.
+Project	sample	Original project identity after whitespace trimming.
+Ocean_Basin	comparison,group_summary,sample	Sampling-region label used as a context factor.
+Species	comparison,group_summary,sample	Coral host species label used as a context factor.
+Sample_Type	comparison,group_summary,sample	Coral compartment used as a context factor.
+Status_Original	sample	Unmodified original metadata status.
+Status_Detail	group_summary,sample	Original VHR normalized analysis status; nutrient-enrichment labels retained by original rule.
+Data_Type	sample	Retained metadata or original-layout field; original values preserved; see README and R source.
+Coral_host_Family	sample	Retained metadata or original-layout field; original values preserved; see README and R source.
+Coral_host_Genus	sample	Retained metadata or original-layout field; original values preserved; see README and R source.
+Coral_Host_Species	sample	Retained metadata or original-layout field; original values preserved; see README and R source.
+Status	sample	Retained metadata or original-layout field; original values preserved; see README and R source.
+Latitude/N	sample	Retained metadata or original-layout field; original values preserved; see README and R source.
+Longitude/E	sample	Retained metadata or original-layout field; original values preserved; see README and R source.
+Location	sample	Retained metadata or original-layout field; original values preserved; see README and R source.
+Country	sample	Retained metadata or original-layout field; original values preserved; see README and R source.
+Region	sample	Retained metadata or original-layout field; original values preserved; see README and R source.
+Linkage_informed_total_VHR	sample	Linked_Virus_Signal/Linked_Host_Signal, only when both are positive.
+log10_Linkage_informed_total_VHR	sample	Base10 log of the aggregate linked signal ratio.
+In_Testing_And_Figure	sample	Whether sample belongs to an eligible testing/plotted context-status group.
+Display_Species	comparison,sample	Plot display label; project prefix is used when necessary to avoid merging projects.
+X_Base	sample	Species group base x coordinate in original layout.
+Box_X	sample	Explicit status-specific box center x coordinate.
+Point_X	sample	Box_X + deterministic Point_Offset for this sample.
+Point_Offset	sample	Deterministic horizontal offset (absolute value<=0.055); not a random draw.
+Group_Ref	comparison	Reference status: Healthy/Normal.
+Group_Test	comparison	Status compared with the reference.
+Sample_Size_Ref	comparison	Number of retained sample accessions in reference group.
+Sample_Size_Test	comparison	Number of retained sample accessions in test group.
+Mean_Ref	comparison	Mean log10 ratio in reference group (not original-scale ratio).
+Mean_Test	comparison	Mean log10 ratio in test group (not original-scale ratio).
+Median_Ref	comparison	Median log10 ratio in reference group (not original-scale ratio).
+Median_Test	comparison	Median log10 ratio in test group (not original-scale ratio).
+Delta_Median	comparison	Median_Test-Median_Ref on log10 scale.
+Direction	comparison	Direction of Delta_Median.
+Test	comparison	Statistical test name.
+P_Value	comparison	Two-sided asymptotic Wilcoxon rank-sum P with continuity correction.
+P_Adjust_Within_Context	comparison	Primary BH adjustment within Analysis_Project x Ocean_Basin x Sample_Type x Species.
+Significance_Within_Context	comparison	q threshold symbol:***<.001,**<.01,*<.05,trend<.1,ns otherwise.
+P_Adjust_Global	comparison	Supplementary BH adjustment across all status comparisons.
+Significance_Global	comparison	q threshold symbol:***<.001,**<.01,*<.05,trend<.1,ns otherwise.
+P_Value_Formatted	comparison	Display-formatted corresponding P/q value; use numeric column for calculation.
+P_Adjust_Within_Context_Formatted	comparison	Display-formatted corresponding P/q value; use numeric column for calculation.
+P_Adjust_Global_Formatted	comparison	Display-formatted corresponding P/q value; use numeric column for calculation.
+N_Project	comparison	Number of distinct eligible Analysis_Project values sharing Ocean_Basin x Sample_Type x Species; controls project prefix in Display_Species.
+n_samples_nonzero	group_summary	Number of distinct double-positive sample accessions in this context-status group.
+sum_linked_virus_signal	group_summary	Context-status summary of sample linked signal totals on original input scale.
+mean_linked_virus_signal	group_summary	Context-status summary of sample linked signal totals on original input scale.
+median_linked_virus_signal	group_summary	Context-status summary of sample linked signal totals on original input scale.
+sum_linked_host_signal	group_summary	Context-status summary of sample linked signal totals on original input scale.
+mean_linked_host_signal	group_summary	Context-status summary of sample linked signal totals on original input scale.
+median_linked_host_signal	group_summary	Context-status summary of sample linked signal totals on original input scale.
+mean_total_VHR	group_summary	Context-status summary (mean/median/sample SD) of original-scale positive ratios.
+median_total_VHR	group_summary	Context-status summary (mean/median/sample SD) of original-scale positive ratios.
+sd_total_VHR	group_summary	Context-status summary (mean/median/sample SD) of original-scale positive ratios.
+mean_log10_total_VHR	group_summary	Context-status summary (mean/median/sample SD) of log10 positive ratios.
+median_log10_total_VHR	group_summary	Context-status summary (mean/median/sample SD) of log10 positive ratios.
+sd_log10_total_VHR	group_summary	Context-status summary (mean/median/sample SD) of log10 positive ratios.
+mean_n_detected_linked_viruses	group_summary	Group mean of the corresponding detection/count field.
+mean_n_detected_linked_hosts	group_summary	Group mean of the corresponding detection/count field.
+mean_n_codetected_predicted_pairs	group_summary	Group mean of the corresponding detection/count field.

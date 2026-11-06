@@ -1,0 +1,6 @@
+Complete viral network pipeline
+Mode: full
+Analysis source: <run_root>/viral_network
+Output: <run_root>/viral_network
+Panel c display: one decimal place on absolute retention and retention-difference labels.
+No numerical values are rounded in the source data or master result table.

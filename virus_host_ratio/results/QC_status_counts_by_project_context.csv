@@ -1,0 +1,40 @@
+"Analysis_Project","Ocean_Basin","Species","Sample_Type","Status_Detail","n_nonzero"
+"PRJNA1001615","Arabian Gulf","Acropora pharaonis","Coral tissue","Disease: Bleaching lesion",3
+"PRJNA1001615","Arabian Gulf","Acropora pharaonis","Coral tissue","Healthy/Normal",3
+"PRJNA1001615","Arabian Gulf","Acropora pharaonis","Coral tissue","Stressed: Heat stress",4
+"PRJNA1023010","Pacific Ocean","Galaxea fascicularis","Coral tissue","Healthy/Normal",1
+"PRJNA1028846","Pacific Ocean","Galaxea astreata","Coral surface and interior segments","Healthy/Normal",1
+"PRJNA1034677","Pacific Ocean","Acropora carduus","Coral fragment","Disease: Pathogen-induced disease",3
+"PRJNA1034677","Pacific Ocean","Acropora carduus","Coral fragment","Healthy/Normal",5
+"PRJNA1035279","Pacific Ocean","Acropora pruinosa","Coral mucus","Healthy/Normal",6
+"PRJNA1061506","Atlantic Ocean","Montastraea cavernosa","Coral fragment","Healthy/Normal",4
+"PRJNA1061506","Atlantic Ocean","Pseudodiploria strigosa","Coral fragment","Healthy/Normal",1
+"PRJNA1061506","Caribbean Sea","Orbicella faveolata","Coral fragment","Healthy/Normal",26
+"PRJNA437202","Red Sea","Acropora cytherea","Coral tissue","Healthy/Normal",1
+"PRJNA477682","Pacific Ocean","Isopora palifera","Coral skeleton","Healthy/Normal",9
+"PRJNA525179","Pacific Ocean","Acropora tenuis","Coral fragment","Bleached",1
+"PRJNA525179","Pacific Ocean","Goniastrea minuta","Coral fragment","Bleached",1
+"PRJNA525179","Pacific Ocean","Goniastrea minuta","Coral fragment","Healthy/Normal",1
+"PRJNA545004","Pacific Ocean","Porites lutea","Coral tissue","Healthy/Normal",17
+"PRJNA576217","Atlantic Ocean","Dichocoenia stokesii","Coral tissue","Disease: SCTLD",2
+"PRJNA576217","Atlantic Ocean","Diploria labyrinthiformis","Coral tissue","Disease: SCTLD",4
+"PRJNA576217","Atlantic Ocean","Meandrina meandrites","Coral tissue","Disease: SCTLD",10
+"PRJNA576217","Atlantic Ocean","Meandrina meandrites","Coral tissue","Healthy/Normal",3
+"PRJNA576217","Atlantic Ocean","Stephanocoenia intersepta","Coral tissue","Disease: SCTLD",5
+"PRJNA595374","Atlantic Ocean","Pseudodiploria strigosa","Coral mucus","Healthy/Normal",6
+"PRJNA757245","Red Sea","Goniastrea edwardsi","Coral endolithic band","Healthy/Normal",5
+"PRJNA757245","Red Sea","Goniastrea edwardsi","Coral endolithic band","Stressed: Heat stress",6
+"PRJNA757245","Red Sea","Goniastrea edwardsi","Coral skeleton","Healthy/Normal",6
+"PRJNA757245","Red Sea","Goniastrea edwardsi","Coral skeleton","Stressed: Heat stress",6
+"PRJNA757245","Red Sea","Porites lutea","Coral endolithic band","Healthy/Normal",5
+"PRJNA757245","Red Sea","Porites lutea","Coral endolithic band","Stressed: Heat stress",6
+"PRJNA757245","Red Sea","Porites lutea","Coral skeleton","Healthy/Normal",6
+"PRJNA757245","Red Sea","Porites lutea","Coral skeleton","Stressed: Heat stress",6
+"PRJNA925892","Atlantic Ocean","Orbicella faveolata","Coral tissue","Disease: SCTLD",41
+"PRJNA925892","Atlantic Ocean","Orbicella faveolata","Coral tissue","Healthy/Normal",18
+"PRJNA954896","Pacific Ocean","Acropora muricata","Coral tissue","Bleached",3
+"PRJNA954896","Pacific Ocean","Acropora muricata","Coral tissue","Healthy/Normal",3
+"PRJNA995890","Pacific Ocean","Acropora digitifera","Coral fragment","Healthy/Normal",1
+"PRJNA995890","Pacific Ocean","Galaxea fascicularis","Coral fragment","Bleached",3
+"PRJNA995890","Pacific Ocean","Porites pukoensis","Coral fragment","Bleached",3
+"PRJNA995890","Pacific Ocean","Porites pukoensis","Coral fragment","Healthy/Normal",3

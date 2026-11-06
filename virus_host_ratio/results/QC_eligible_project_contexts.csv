@@ -1,0 +1,11 @@
+"Analysis_Project","Ocean_Basin","Species","Sample_Type","has_ref","n_status"
+"PRJNA1001615","Arabian Gulf","Acropora pharaonis","Coral tissue",TRUE,3
+"PRJNA1034677","Pacific Ocean","Acropora carduus","Coral fragment",TRUE,2
+"PRJNA576217","Atlantic Ocean","Meandrina meandrites","Coral tissue",TRUE,2
+"PRJNA757245","Red Sea","Goniastrea edwardsi","Coral endolithic band",TRUE,2
+"PRJNA757245","Red Sea","Goniastrea edwardsi","Coral skeleton",TRUE,2
+"PRJNA757245","Red Sea","Porites lutea","Coral endolithic band",TRUE,2
+"PRJNA757245","Red Sea","Porites lutea","Coral skeleton",TRUE,2
+"PRJNA925892","Atlantic Ocean","Orbicella faveolata","Coral tissue",TRUE,2
+"PRJNA954896","Pacific Ocean","Acropora muricata","Coral tissue",TRUE,2
+"PRJNA995890","Pacific Ocean","Porites pukoensis","Coral fragment",TRUE,2

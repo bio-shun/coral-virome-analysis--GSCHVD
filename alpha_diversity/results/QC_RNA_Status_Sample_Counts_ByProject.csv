@@ -1,0 +1,60 @@
+"Analysis_Project","Ocean_Basin","Clean_Type","Species","Status_Group","n"
+"Avila2021","Caribbean Sea","Tissue","Diploria clivosa","Healthy",3
+"Avila2021","Caribbean Sea","Tissue","Diploria clivosa","Stressed(Heat stress)",3
+"Avila2021","Caribbean Sea","Tissue","Orbicella faveolata","Healthy",6
+"Avila2021","Caribbean Sea","Tissue","Orbicella faveolata","Stressed(Heat stress)",2
+"Avila2021","Caribbean Sea","Tissue","Siderastrea radians","Healthy",3
+"Avila2021","Caribbean Sea","Tissue","Siderastrea radians","Stressed(Heat stress)",3
+"PRJEB47249(PRJEB52301)","Pacific Ocean","Fragment","Pocillopora meandrina","Healthy",5
+"PRJNA1025981","Pacific Ocean","Fragment","Porites lutea","Healthy",1
+"PRJNA1025981","Pacific Ocean","Fragment","Porites lutea","Stressed(Heat stress)",2
+"PRJNA317245","Pacific Ocean","Polyp","Galaxea fascicularis","Healthy",6
+"PRJNA559028","Pacific Ocean","Fragment","Pocillopora damicornis","Healthy",3
+"PRJNA559028","Pacific Ocean","Fragment","Pocillopora damicornis","Stressed(Heat stress)",9
+"PRJNA638625","Red Sea","Fragment","Stylophora pistillata","Healthy",2
+"PRJNA638625","Red Sea","Fragment","Stylophora pistillata","Stressed(Heat stress)",3
+"PRJNA638633","Red Sea","Tissue","Acropora cytherea","Healthy",1
+"PRJNA638633","Red Sea","Tissue","Diploastrea heliopora","Healthy",2
+"PRJNA638633","Red Sea","Tissue","Galaxea fascicularis","Healthy",2
+"PRJNA638633","Red Sea","Tissue","Mycedium elephantotus","Healthy",2
+"PRJNA638633","Red Sea","Tissue","Pocillopora verrucosa","Healthy",2
+"PRJNA649484","Atlantic Ocean","Fragment","Mussismilia hispida","Healthy",27
+"PRJNA649484","Atlantic Ocean","Fragment","Mussismilia hispida","Stressed(Heat stress)",13
+"PRJNA694677","Pacific Ocean","Fragment","Montipora capitata","Healthy",1
+"PRJNA694677","Pacific Ocean","Fragment","Montipora capitata","Stressed(Heat stress)",2
+"PRJNA716052","Caribbean Sea","Tissue","Colpophyllia natans","Diseased(white plague disease)",1
+"PRJNA716052","Caribbean Sea","Tissue","Colpophyllia natans","Healthy",6
+"PRJNA716052","Caribbean Sea","Tissue","Montastraea cavernosa","Healthy",10
+"PRJNA716052","Caribbean Sea","Tissue","Orbicella annularis","Diseased(white plague disease)",3
+"PRJNA716052","Caribbean Sea","Tissue","Orbicella annularis","Healthy",4
+"PRJNA716052","Caribbean Sea","Tissue","Orbicella faveolata","Diseased(white plague disease)",5
+"PRJNA716052","Caribbean Sea","Tissue","Orbicella faveolata","Healthy",4
+"PRJNA716052","Caribbean Sea","Tissue","Porites astreoides","Diseased(white plague disease)",1
+"PRJNA716052","Caribbean Sea","Tissue","Porites astreoides","Healthy",4
+"PRJNA716052","Caribbean Sea","Tissue","Porites porites","Healthy",6
+"PRJNA716052","Caribbean Sea","Tissue","Siderastrea siderea","Diseased(white plague disease)",2
+"PRJNA716052","Caribbean Sea","Tissue","Siderastrea siderea","Healthy",7
+"PRJNA731596","Pacific Ocean","Fragment","Montipora capitata","Healthy",32
+"PRJNA731596","Pacific Ocean","Fragment","Montipora capitata","Stressed(Acidification stress)",24
+"PRJNA731596","Pacific Ocean","Fragment","Montipora capitata","Stressed(Combined)",27
+"PRJNA731596","Pacific Ocean","Fragment","Montipora capitata","Stressed(Heat stress)",27
+"PRJNA731596","Pacific Ocean","Fragment","Pocillopora acuta","Healthy",38
+"PRJNA731596","Pacific Ocean","Fragment","Pocillopora acuta","Stressed(Acidification stress)",27
+"PRJNA731596","Pacific Ocean","Fragment","Pocillopora acuta","Stressed(Combined)",23
+"PRJNA731596","Pacific Ocean","Fragment","Pocillopora acuta","Stressed(Heat stress)",27
+"PRJNA761443","Pacific Ocean","Fragment","Pocillopora meandrina","Bleached",1
+"PRJNA764551","Pacific Ocean","Fragment","Galaxea fascicularis","Healthy",6
+"PRJNA764551","Pacific Ocean","Fragment","Galaxea fascicularis","Stressed(Heat stress)",6
+"PRJNA788911","Caribbean Sea","Tissue","Montastraea cavernosa","Diseased(SCTLD)",2
+"PRJNA788911","Caribbean Sea","Tissue","Montastraea cavernosa","Healthy",6
+"PRJNA788911","Caribbean Sea","Tissue","Porites astreoides","Diseased(SCTLD)",1
+"PRJNA788911","Caribbean Sea","Tissue","Porites astreoides","Healthy",1
+"PRJNA788911","Caribbean Sea","Tissue","Pseudodiploria strigosa","Healthy",1
+"PRJNA821612","Pacific Ocean","Fragment","Montipora peltiformis","Bleached",2
+"PRJNA821612","Pacific Ocean","Fragment","Montipora peltiformis","Healthy",8
+"PRJNA821612","Pacific Ocean","Fragment","Platygyra carnosa","Bleached",4
+"PRJNA821612","Pacific Ocean","Fragment","Platygyra carnosa","Healthy",8
+"PRJNA931253","Atlantic Ocean","Mucus-tissue slurry","Montastraea cavernosa","Diseased(SCTLD)",7
+"PRJNA931253","Atlantic Ocean","Mucus-tissue slurry","Montastraea cavernosa","Healthy",5
+"PRJNA950916","Atlantic Ocean","Tissue","Montastraea cavernosa","Diseased(SCTLD)",4
+"PRJNA950916","Atlantic Ocean","Tissue","Montastraea cavernosa","Healthy",4

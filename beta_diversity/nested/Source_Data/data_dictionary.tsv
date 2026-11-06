@@ -1,0 +1,265 @@
+Table	Column	Description
+Sampling_region/points	Figure	Composite figure filename stem
+Sampling_region/points	Composite_panel_order	Order among displayed panels, reset within each figure; NA for omitted comparisons
+Sampling_region/points	Composite_panel_label	Lowercase panel tag in the composite; NA for omitted comparisons
+Sampling_region/points	Virus	DNA or RNA viral dataset
+Sampling_region/points	Factor	Internal focal-factor key
+Sampling_region/points	Factor_label	Manuscript factor name
+Sampling_region/points	Stratum	Ecological subset; key with Virus and Factor
+Sampling_region/points	Figure_panel_included	TRUE if shown; Status requires nominal pooled P < 0.05, without BH filtering
+Sampling_region/points	Sample	Sample accession/identifier; unique within each comparison
+Sampling_region/points	Group	Focal-factor level used for colour and geometry
+Sampling_region/points	Axis1	Archived first PCoA coordinate, not recomputed
+Sampling_region/points	Axis2	Archived second PCoA coordinate, not recomputed
+Sampling_region/points	CentroidX	Group mean of Axis1
+Sampling_region/points	CentroidY	Group mean of Axis2
+Sampling_region/points	Group_n	Number of retained samples in the group
+Sampling_region/points	Project	Study identifier used for permutation blocks
+Sampling_region/points	Sampling_region	Sampling region
+Sampling_region/points	Coral_taxa	Coral taxon
+Sampling_region/points	Compartments	Sample compartment
+Sampling_region/points	Status	Harmonised sample status
+Sampling_region/points	PCoA1_percent	First-axis percentage as used in the archived plot
+Sampling_region/points	PCoA2_percent	Second-axis percentage as used in the archived plot
+Sampling_region/points	Colour	Hexadecimal group colour in the archived palette
+Sampling_region/points	Group_envelope	Geometric envelope rule; unrelated to statistical significance
+Sampling_region/statistics	Figure	Composite figure filename stem
+Sampling_region/statistics	Composite_panel_order	Order among displayed panels, reset within each figure; NA for omitted comparisons
+Sampling_region/statistics	Composite_panel_label	Lowercase panel tag in the composite; NA for omitted comparisons
+Sampling_region/statistics	Virus	DNA or RNA viral dataset
+Sampling_region/statistics	Factor	Internal focal-factor key
+Sampling_region/statistics	Factor_label	Manuscript factor name
+Sampling_region/statistics	Stratum	Ecological subset; key with Virus and Factor
+Sampling_region/statistics	Figure_panel_included	TRUE if shown; Status requires nominal pooled P < 0.05, without BH filtering
+Sampling_region/statistics	N	Retained samples in the comparison
+Sampling_region/statistics	Levels	Retained focal-factor levels
+Sampling_region/statistics	Projects	Represented Projects
+Sampling_region/statistics	Projects_within_factor_variation	Projects containing eligible within-Project focal-factor variation
+Sampling_region/statistics	R2_pooled	Pooled one-factor PERMANOVA R-squared, fraction
+Sampling_region/statistics	F_pooled	Pooled PERMANOVA pseudo-F
+Sampling_region/statistics	P_pooled	Unadjusted pooled PERMANOVA P
+Sampling_region/statistics	R2_blocked	One-factor PERMANOVA R-squared; blocking changes permutation inference, not the fitted effect
+Sampling_region/statistics	F_blocked	Project-blocked PERMANOVA pseudo-F
+Sampling_region/statistics	P_blocked	Unadjusted PERMANOVA P from within-Project permutations
+Sampling_region/statistics	Dispersion_F_pooled	Unblocked PERMDISP F
+Sampling_region/statistics	Dispersion_P_pooled	Unadjusted unblocked PERMDISP P
+Sampling_region/statistics	Dispersion_F_blocked	Project-blocked PERMDISP F
+Sampling_region/statistics	Dispersion_P_blocked	Unadjusted Project-blocked PERMDISP P
+Sampling_region/statistics	Blocked_note	Eligibility or failure note for blocked inference; NA is not a null result
+Sampling_region/statistics	Q_pooled	BH-adjusted pooled PERMANOVA P within Virus x Factor
+Sampling_region/statistics	Q_blocked	BH-adjusted blocked PERMANOVA P within Virus x Factor
+Sampling_region/statistics	Q_dispersion_pooled	BH-adjusted pooled PERMDISP P within Virus x Factor
+Sampling_region/statistics	Q_dispersion_blocked	BH-adjusted blocked PERMDISP P within Virus x Factor
+Sampling_region/statistics	PCoA1_percent	First-axis percentage as used in the archived plot
+Sampling_region/statistics	PCoA2_percent	Second-axis percentage as used in the archived plot
+Sampling_region/statistics	P_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Sampling_region/statistics	P_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Sampling_region/statistics	Dispersion_P_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Sampling_region/statistics	Dispersion_P_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Sampling_region/statistics	Q_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Sampling_region/statistics	Q_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Sampling_region/statistics	Q_dispersion_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Sampling_region/statistics	Q_dispersion_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Sampling_region/statistics	Permutations_requested	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Sampling_region/statistics	Nominal_minimum_Monte_Carlo_P	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Sampling_region/statistics	Permutation_count_note	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Sampling_region/statistics	Figure_P_source	Statistic used for displayed significance annotation
+Sampling_region/statistics	Source_coordinate_file	Relative archived coordinate filename
+Coral_taxa/points	Figure	Composite figure filename stem
+Coral_taxa/points	Composite_panel_order	Order among displayed panels, reset within each figure; NA for omitted comparisons
+Coral_taxa/points	Composite_panel_label	Lowercase panel tag in the composite; NA for omitted comparisons
+Coral_taxa/points	Virus	DNA or RNA viral dataset
+Coral_taxa/points	Factor	Internal focal-factor key
+Coral_taxa/points	Factor_label	Manuscript factor name
+Coral_taxa/points	Stratum	Ecological subset; key with Virus and Factor
+Coral_taxa/points	Figure_panel_included	TRUE if shown; Status requires nominal pooled P < 0.05, without BH filtering
+Coral_taxa/points	Sample	Sample accession/identifier; unique within each comparison
+Coral_taxa/points	Group	Focal-factor level used for colour and geometry
+Coral_taxa/points	Axis1	Archived first PCoA coordinate, not recomputed
+Coral_taxa/points	Axis2	Archived second PCoA coordinate, not recomputed
+Coral_taxa/points	CentroidX	Group mean of Axis1
+Coral_taxa/points	CentroidY	Group mean of Axis2
+Coral_taxa/points	Group_n	Number of retained samples in the group
+Coral_taxa/points	Project	Study identifier used for permutation blocks
+Coral_taxa/points	Sampling_region	Sampling region
+Coral_taxa/points	Coral_taxa	Coral taxon
+Coral_taxa/points	Compartments	Sample compartment
+Coral_taxa/points	Status	Harmonised sample status
+Coral_taxa/points	PCoA1_percent	First-axis percentage as used in the archived plot
+Coral_taxa/points	PCoA2_percent	Second-axis percentage as used in the archived plot
+Coral_taxa/points	Colour	Hexadecimal group colour in the archived palette
+Coral_taxa/points	Group_envelope	Geometric envelope rule; unrelated to statistical significance
+Coral_taxa/statistics	Figure	Composite figure filename stem
+Coral_taxa/statistics	Composite_panel_order	Order among displayed panels, reset within each figure; NA for omitted comparisons
+Coral_taxa/statistics	Composite_panel_label	Lowercase panel tag in the composite; NA for omitted comparisons
+Coral_taxa/statistics	Virus	DNA or RNA viral dataset
+Coral_taxa/statistics	Factor	Internal focal-factor key
+Coral_taxa/statistics	Factor_label	Manuscript factor name
+Coral_taxa/statistics	Stratum	Ecological subset; key with Virus and Factor
+Coral_taxa/statistics	Figure_panel_included	TRUE if shown; Status requires nominal pooled P < 0.05, without BH filtering
+Coral_taxa/statistics	N	Retained samples in the comparison
+Coral_taxa/statistics	Levels	Retained focal-factor levels
+Coral_taxa/statistics	Projects	Represented Projects
+Coral_taxa/statistics	Projects_within_factor_variation	Projects containing eligible within-Project focal-factor variation
+Coral_taxa/statistics	R2_pooled	Pooled one-factor PERMANOVA R-squared, fraction
+Coral_taxa/statistics	F_pooled	Pooled PERMANOVA pseudo-F
+Coral_taxa/statistics	P_pooled	Unadjusted pooled PERMANOVA P
+Coral_taxa/statistics	R2_blocked	One-factor PERMANOVA R-squared; blocking changes permutation inference, not the fitted effect
+Coral_taxa/statistics	F_blocked	Project-blocked PERMANOVA pseudo-F
+Coral_taxa/statistics	P_blocked	Unadjusted PERMANOVA P from within-Project permutations
+Coral_taxa/statistics	Dispersion_F_pooled	Unblocked PERMDISP F
+Coral_taxa/statistics	Dispersion_P_pooled	Unadjusted unblocked PERMDISP P
+Coral_taxa/statistics	Dispersion_F_blocked	Project-blocked PERMDISP F
+Coral_taxa/statistics	Dispersion_P_blocked	Unadjusted Project-blocked PERMDISP P
+Coral_taxa/statistics	Blocked_note	Eligibility or failure note for blocked inference; NA is not a null result
+Coral_taxa/statistics	Q_pooled	BH-adjusted pooled PERMANOVA P within Virus x Factor
+Coral_taxa/statistics	Q_blocked	BH-adjusted blocked PERMANOVA P within Virus x Factor
+Coral_taxa/statistics	Q_dispersion_pooled	BH-adjusted pooled PERMDISP P within Virus x Factor
+Coral_taxa/statistics	Q_dispersion_blocked	BH-adjusted blocked PERMDISP P within Virus x Factor
+Coral_taxa/statistics	PCoA1_percent	First-axis percentage as used in the archived plot
+Coral_taxa/statistics	PCoA2_percent	Second-axis percentage as used in the archived plot
+Coral_taxa/statistics	P_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Coral_taxa/statistics	P_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Coral_taxa/statistics	Dispersion_P_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Coral_taxa/statistics	Dispersion_P_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Coral_taxa/statistics	Q_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Coral_taxa/statistics	Q_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Coral_taxa/statistics	Q_dispersion_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Coral_taxa/statistics	Q_dispersion_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Coral_taxa/statistics	Permutations_requested	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Coral_taxa/statistics	Nominal_minimum_Monte_Carlo_P	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Coral_taxa/statistics	Permutation_count_note	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Coral_taxa/statistics	Figure_P_source	Statistic used for displayed significance annotation
+Coral_taxa/statistics	Source_coordinate_file	Relative archived coordinate filename
+Compartments/points	Figure	Composite figure filename stem
+Compartments/points	Composite_panel_order	Order among displayed panels, reset within each figure; NA for omitted comparisons
+Compartments/points	Composite_panel_label	Lowercase panel tag in the composite; NA for omitted comparisons
+Compartments/points	Virus	DNA or RNA viral dataset
+Compartments/points	Factor	Internal focal-factor key
+Compartments/points	Factor_label	Manuscript factor name
+Compartments/points	Stratum	Ecological subset; key with Virus and Factor
+Compartments/points	Figure_panel_included	TRUE if shown; Status requires nominal pooled P < 0.05, without BH filtering
+Compartments/points	Sample	Sample accession/identifier; unique within each comparison
+Compartments/points	Group	Focal-factor level used for colour and geometry
+Compartments/points	Axis1	Archived first PCoA coordinate, not recomputed
+Compartments/points	Axis2	Archived second PCoA coordinate, not recomputed
+Compartments/points	CentroidX	Group mean of Axis1
+Compartments/points	CentroidY	Group mean of Axis2
+Compartments/points	Group_n	Number of retained samples in the group
+Compartments/points	Project	Study identifier used for permutation blocks
+Compartments/points	Sampling_region	Sampling region
+Compartments/points	Coral_taxa	Coral taxon
+Compartments/points	Compartments	Sample compartment
+Compartments/points	Status	Harmonised sample status
+Compartments/points	PCoA1_percent	First-axis percentage as used in the archived plot
+Compartments/points	PCoA2_percent	Second-axis percentage as used in the archived plot
+Compartments/points	Colour	Hexadecimal group colour in the archived palette
+Compartments/points	Group_envelope	Geometric envelope rule; unrelated to statistical significance
+Compartments/statistics	Figure	Composite figure filename stem
+Compartments/statistics	Composite_panel_order	Order among displayed panels, reset within each figure; NA for omitted comparisons
+Compartments/statistics	Composite_panel_label	Lowercase panel tag in the composite; NA for omitted comparisons
+Compartments/statistics	Virus	DNA or RNA viral dataset
+Compartments/statistics	Factor	Internal focal-factor key
+Compartments/statistics	Factor_label	Manuscript factor name
+Compartments/statistics	Stratum	Ecological subset; key with Virus and Factor
+Compartments/statistics	Figure_panel_included	TRUE if shown; Status requires nominal pooled P < 0.05, without BH filtering
+Compartments/statistics	N	Retained samples in the comparison
+Compartments/statistics	Levels	Retained focal-factor levels
+Compartments/statistics	Projects	Represented Projects
+Compartments/statistics	Projects_within_factor_variation	Projects containing eligible within-Project focal-factor variation
+Compartments/statistics	R2_pooled	Pooled one-factor PERMANOVA R-squared, fraction
+Compartments/statistics	F_pooled	Pooled PERMANOVA pseudo-F
+Compartments/statistics	P_pooled	Unadjusted pooled PERMANOVA P
+Compartments/statistics	R2_blocked	One-factor PERMANOVA R-squared; blocking changes permutation inference, not the fitted effect
+Compartments/statistics	F_blocked	Project-blocked PERMANOVA pseudo-F
+Compartments/statistics	P_blocked	Unadjusted PERMANOVA P from within-Project permutations
+Compartments/statistics	Dispersion_F_pooled	Unblocked PERMDISP F
+Compartments/statistics	Dispersion_P_pooled	Unadjusted unblocked PERMDISP P
+Compartments/statistics	Dispersion_F_blocked	Project-blocked PERMDISP F
+Compartments/statistics	Dispersion_P_blocked	Unadjusted Project-blocked PERMDISP P
+Compartments/statistics	Blocked_note	Eligibility or failure note for blocked inference; NA is not a null result
+Compartments/statistics	Q_pooled	BH-adjusted pooled PERMANOVA P within Virus x Factor
+Compartments/statistics	Q_blocked	BH-adjusted blocked PERMANOVA P within Virus x Factor
+Compartments/statistics	Q_dispersion_pooled	BH-adjusted pooled PERMDISP P within Virus x Factor
+Compartments/statistics	Q_dispersion_blocked	BH-adjusted blocked PERMDISP P within Virus x Factor
+Compartments/statistics	PCoA1_percent	First-axis percentage as used in the archived plot
+Compartments/statistics	PCoA2_percent	Second-axis percentage as used in the archived plot
+Compartments/statistics	P_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Compartments/statistics	P_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Compartments/statistics	Dispersion_P_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Compartments/statistics	Dispersion_P_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Compartments/statistics	Q_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Compartments/statistics	Q_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Compartments/statistics	Q_dispersion_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Compartments/statistics	Q_dispersion_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Compartments/statistics	Permutations_requested	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Compartments/statistics	Nominal_minimum_Monte_Carlo_P	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Compartments/statistics	Permutation_count_note	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Compartments/statistics	Figure_P_source	Statistic used for displayed significance annotation
+Compartments/statistics	Source_coordinate_file	Relative archived coordinate filename
+Status/points	Figure	Composite figure filename stem
+Status/points	Composite_panel_order	Order among displayed panels, reset within each figure; NA for omitted comparisons
+Status/points	Composite_panel_label	Lowercase panel tag in the composite; NA for omitted comparisons
+Status/points	Virus	DNA or RNA viral dataset
+Status/points	Factor	Internal focal-factor key
+Status/points	Factor_label	Manuscript factor name
+Status/points	Stratum	Ecological subset; key with Virus and Factor
+Status/points	Figure_panel_included	TRUE if shown; Status requires nominal pooled P < 0.05, without BH filtering
+Status/points	Sample	Sample accession/identifier; unique within each comparison
+Status/points	Group	Focal-factor level used for colour and geometry
+Status/points	Axis1	Archived first PCoA coordinate, not recomputed
+Status/points	Axis2	Archived second PCoA coordinate, not recomputed
+Status/points	CentroidX	Group mean of Axis1
+Status/points	CentroidY	Group mean of Axis2
+Status/points	Group_n	Number of retained samples in the group
+Status/points	Project	Study identifier used for permutation blocks
+Status/points	Sampling_region	Sampling region
+Status/points	Coral_taxa	Coral taxon
+Status/points	Compartments	Sample compartment
+Status/points	Status	Harmonised sample status
+Status/points	PCoA1_percent	First-axis percentage as used in the archived plot
+Status/points	PCoA2_percent	Second-axis percentage as used in the archived plot
+Status/points	Colour	Hexadecimal group colour in the archived palette
+Status/points	Group_envelope	Geometric envelope rule; unrelated to statistical significance
+Status/statistics	Figure	Composite figure filename stem
+Status/statistics	Composite_panel_order	Order among displayed panels, reset within each figure; NA for omitted comparisons
+Status/statistics	Composite_panel_label	Lowercase panel tag in the composite; NA for omitted comparisons
+Status/statistics	Virus	DNA or RNA viral dataset
+Status/statistics	Factor	Internal focal-factor key
+Status/statistics	Factor_label	Manuscript factor name
+Status/statistics	Stratum	Ecological subset; key with Virus and Factor
+Status/statistics	Figure_panel_included	TRUE if shown; Status requires nominal pooled P < 0.05, without BH filtering
+Status/statistics	N	Retained samples in the comparison
+Status/statistics	Levels	Retained focal-factor levels
+Status/statistics	Projects	Represented Projects
+Status/statistics	Projects_within_factor_variation	Projects containing eligible within-Project focal-factor variation
+Status/statistics	R2_pooled	Pooled one-factor PERMANOVA R-squared, fraction
+Status/statistics	F_pooled	Pooled PERMANOVA pseudo-F
+Status/statistics	P_pooled	Unadjusted pooled PERMANOVA P
+Status/statistics	R2_blocked	One-factor PERMANOVA R-squared; blocking changes permutation inference, not the fitted effect
+Status/statistics	F_blocked	Project-blocked PERMANOVA pseudo-F
+Status/statistics	P_blocked	Unadjusted PERMANOVA P from within-Project permutations
+Status/statistics	Dispersion_F_pooled	Unblocked PERMDISP F
+Status/statistics	Dispersion_P_pooled	Unadjusted unblocked PERMDISP P
+Status/statistics	Dispersion_F_blocked	Project-blocked PERMDISP F
+Status/statistics	Dispersion_P_blocked	Unadjusted Project-blocked PERMDISP P
+Status/statistics	Blocked_note	Eligibility or failure note for blocked inference; NA is not a null result
+Status/statistics	Q_pooled	BH-adjusted pooled PERMANOVA P within Virus x Factor
+Status/statistics	Q_blocked	BH-adjusted blocked PERMANOVA P within Virus x Factor
+Status/statistics	Q_dispersion_pooled	BH-adjusted pooled PERMDISP P within Virus x Factor
+Status/statistics	Q_dispersion_blocked	BH-adjusted blocked PERMDISP P within Virus x Factor
+Status/statistics	PCoA1_percent	First-axis percentage as used in the archived plot
+Status/statistics	PCoA2_percent	Second-axis percentage as used in the archived plot
+Status/statistics	P_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Status/statistics	P_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Status/statistics	Dispersion_P_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Status/statistics	Dispersion_P_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Status/statistics	Q_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Status/statistics	Q_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Status/statistics	Q_dispersion_pooled_label	Display string only; use the corresponding numeric P/Q for analysis
+Status/statistics	Q_dispersion_blocked_label	Display string only; use the corresponding numeric P/Q for analysis
+Status/statistics	Permutations_requested	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Status/statistics	Nominal_minimum_Monte_Carlo_P	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Status/statistics	Permutation_count_note	Retained archived permutation/provenance field; actual counts may differ from requested counts in finite spaces
+Status/statistics	Figure_P_source	Statistic used for displayed significance annotation
+Status/statistics	Source_coordinate_file	Relative archived coordinate filename

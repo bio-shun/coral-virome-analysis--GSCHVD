@@ -1,0 +1,9 @@
+"Group","Key","From","To","Sign","Retained_Replicates","Resample_N","Retention","Mean_Abs_Rho","Median_Abs_Rho"
+"SCTLD","Iridoviridae||Phycodnaviridae","Phycodnaviridae","Iridoviridae","Positive",500,500,1,0.930350885474388,0.935923141186299
+"SCTLD","Phycodnaviridae||Poxviridae","Phycodnaviridae","Poxviridae","Positive",493,500,0.986,0.897561560420724,0.909638554216868
+"SCTLD","Mesomimiviridae||Phycodnaviridae","Phycodnaviridae","Mesomimiviridae","Positive",484,500,0.968,0.873184309312376,0.882308412087324
+"SCTLD","Mesomimiviridae||Poxviridae","Mesomimiviridae","Poxviridae","Positive",481,500,0.962,0.868542109475634,0.879245283018868
+"SCTLD","Nanoviridae||Schizomimiviridae","Schizomimiviridae","Nanoviridae","Positive",433,500,0.866,0.859382675176088,0.873303167420814
+"SCTLD","Iridoviridae||Poxviridae","Iridoviridae","Poxviridae","Positive",430,500,0.86,0.868520726418282,0.885499042136897
+"SCTLD","Microviridae||Straboviridae","Microviridae","Straboviridae","Positive",427,500,0.854,0.879154773974839,0.893152746425884
+"SCTLD","Iridoviridae||Mesomimiviridae","Iridoviridae","Mesomimiviridae","Positive",369,500,0.738,0.828453833901786,0.829433962264151

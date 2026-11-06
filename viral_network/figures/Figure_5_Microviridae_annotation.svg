@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='354.33pt' height='221.10pt' viewBox='0 0 354.33 221.10'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwzNTQuMzN8MC4wMHwyMjEuMTA='>
+    <rect x='0.00' y='0.00' width='354.33' height='221.10' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwzNTQuMzN8MC4wMHwyMjEuMTA=)'>
+<rect x='0.00' y='-0.000000000000028' width='354.33' height='221.10' style='stroke-width: 0.68; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNjYuODZ8MzQ4LjM1fDY0LjQ0fDE5OS4yMA=='>
+    <rect x='66.86' y='64.44' width='281.49' height='134.76' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNjYuODZ8MzQ4LjM1fDY0LjQ0fDE5OS4yMA==)'>
+<rect x='66.86' y='64.44' width='281.49' height='134.76' style='stroke-width: 0.68; stroke: none; fill: #FFFFFF;' />
+<line x1='203.48' y1='199.20' x2='203.48' y2='64.44' style='stroke-width: 0.96; stroke: #8B9398; stroke-dasharray: 2.56,2.56; stroke-linecap: butt;' />
+<line x1='340.10' y1='131.82' x2='103.47' y2='131.82' style='stroke-width: 2.67; stroke: #D2A21D;' />
+<line x1='340.10' y1='89.71' x2='300.21' y2='89.71' style='stroke-width: 2.67; stroke: #D2A21D;' />
+<line x1='335.73' y1='173.93' x2='142.27' y2='173.93' style='stroke-width: 2.67; stroke: #D2A21D;' />
+<circle cx='340.10' cy='131.82' r='3.73' style='stroke-width: 0.64; stroke: #FFFFFF; fill: #2878A8;' />
+<circle cx='340.10' cy='89.71' r='3.73' style='stroke-width: 0.64; stroke: #FFFFFF; fill: #2878A8;' />
+<circle cx='335.73' cy='173.93' r='3.73' style='stroke-width: 0.64; stroke: #FFFFFF; fill: #2878A8;' />
+<circle cx='300.21' cy='89.71' r='3.73' style='stroke-width: 0.64; stroke: #FFFFFF; fill: #D0584B;' />
+<circle cx='142.27' cy='173.93' r='3.73' style='stroke-width: 0.64; stroke: #FFFFFF; fill: #D0584B;' />
+<circle cx='103.47' cy='131.82' r='3.73' style='stroke-width: 0.64; stroke: #FFFFFF; fill: #D0584B;' />
+</g>
+<g clip-path='url(#cpMC4wMHwzNTQuMzN8MC4wMHwyMjEuMTA=)'>
+<polyline points='66.86,199.20 66.86,64.44 ' style='stroke-width: 0.75; stroke: #33383C; stroke-linecap: square;' />
+<text x='63.72' y='176.19' text-anchor='end' style='font-size: 6.30px;fill: #202427; font-family: "Arial";' textLength='33.61px' lengthAdjust='spacingAndGlyphs'>Nanoviridae</text>
+<text x='63.72' y='134.08' text-anchor='end' style='font-size: 6.30px;fill: #202427; font-family: "Arial";' textLength='50.80px' lengthAdjust='spacingAndGlyphs'>Schizomimiviridae</text>
+<text x='63.72' y='91.96' text-anchor='end' style='font-size: 6.30px;fill: #202427; font-family: "Arial";' textLength='37.11px' lengthAdjust='spacingAndGlyphs'>Straboviridae</text>
+<polyline points='65.12,173.93 66.86,173.93 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='65.12,131.82 66.86,131.82 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='65.12,89.71 66.86,89.71 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='66.86,199.20 348.35,199.20 ' style='stroke-width: 0.75; stroke: #33383C; stroke-linecap: square;' />
+<polyline points='66.86,200.94 66.86,199.20 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='135.17,200.94 135.17,199.20 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='203.48,200.94 203.48,199.20 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='271.79,200.94 271.79,199.20 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='340.10,200.94 340.10,199.20 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<text x='66.86' y='206.85' text-anchor='middle' style='font-size: 6.30px;fill: #202427; font-family: "Arial";' textLength='9.09px' lengthAdjust='spacingAndGlyphs'>0%</text>
+<text x='135.17' y='206.85' text-anchor='middle' style='font-size: 6.30px;fill: #202427; font-family: "Arial";' textLength='12.59px' lengthAdjust='spacingAndGlyphs'>25%</text>
+<text x='203.48' y='206.85' text-anchor='middle' style='font-size: 6.30px;fill: #202427; font-family: "Arial";' textLength='12.59px' lengthAdjust='spacingAndGlyphs'>50%</text>
+<text x='271.79' y='206.85' text-anchor='middle' style='font-size: 6.30px;fill: #202427; font-family: "Arial";' textLength='12.59px' lengthAdjust='spacingAndGlyphs'>75%</text>
+<text x='340.10' y='206.85' text-anchor='middle' style='font-size: 6.30px;fill: #202427; font-family: "Arial";' textLength='16.09px' lengthAdjust='spacingAndGlyphs'>100%</text>
+<text x='207.61' y='214.71' text-anchor='middle' style='font-size: 6.70px;fill: #202427; font-family: "Arial";' textLength='56.52px' lengthAdjust='spacingAndGlyphs'>Bootstrap retention</text>
+<text transform='translate(9.77,131.82) rotate(-90)' text-anchor='middle' style='font-size: 6.70px;fill: #202427; font-family: "Arial";' textLength='41.27px' lengthAdjust='spacingAndGlyphs'>Partner family</text>
+<rect x='231.97' y='33.21' width='116.39' height='24.25' style='stroke-width: 0.68; stroke: none; fill: #FFFFFF;' />
+<rect x='235.45' y='36.70' width='17.28' height='17.28' style='stroke-width: 0.68; stroke: none; fill: #FFFFFF;' />
+<circle cx='244.09' cy='45.34' r='3.73' style='stroke-width: 0.64; stroke: #FFFFFF; fill: #2878A8;' />
+<rect x='304.43' y='36.70' width='17.28' height='17.28' style='stroke-width: 0.68; stroke: none; fill: #FFFFFF;' />
+<circle cx='313.07' cy='45.34' r='3.73' style='stroke-width: 0.64; stroke: #FFFFFF; fill: #D0584B;' />
+<text x='256.22' y='47.49' style='font-size: 6.00px; font-family: "Arial";' textLength='44.72px' lengthAdjust='spacingAndGlyphs'>Healthy / Normal</text>
+<text x='325.19' y='47.49' style='font-size: 6.00px; font-family: "Arial";' textLength='19.67px' lengthAdjust='spacingAndGlyphs'>SCTLD</text>
+<text x='66.86' y='21.23' style='font-size: 6.20px;fill: #657078; font-family: "Arial";' textLength='210.27px' lengthAdjust='spacingAndGlyphs'>Descriptive bootstrap retention; no edge-wise differential test was performed.</text>
+<text x='66.86' y='27.92' style='font-size: 6.20px;fill: #657078; font-family: "Arial";' textLength='99.69px' lengthAdjust='spacingAndGlyphs'>Dashed line, 50% stability threshold.</text>
+<text x='66.86' y='11.43' style='font-size: 9.00px; font-weight: bold;fill: #202427; font-family: "Arial";' textLength='170.50px' lengthAdjust='spacingAndGlyphs'>Microviridae-linked association stability</text>
+</g>
+</g>
+</svg>

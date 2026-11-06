@@ -1,0 +1,7 @@
+"Group","Key","From","To","Sign","Retained_Replicates","Resample_N","Retention","Mean_Abs_Rho","Median_Abs_Rho","Edge_Label","Group_Label","Microviridae_Linked","Retention_Percent","Stable_At_50pct","Partner"
+"Healthy","Microviridae||Nanoviridae","Microviridae","Nanoviridae","Positive",492,500,0.984,0.92010916934701,0.930513595166163,"Microviridae - Nanoviridae","Healthy / Normal",TRUE,"98.4%",TRUE,"Nanoviridae"
+"SCTLD","Microviridae||Nanoviridae","Microviridae","Nanoviridae","Positive",138,500,0.276,0.853129823737979,0.858922082889381,"Microviridae - Nanoviridae","SCTLD",TRUE,"27.6%",FALSE,"Nanoviridae"
+"Healthy","Microviridae||Schizomimiviridae","Microviridae","Schizomimiviridae","Positive",500,500,1,0.969815463676378,0.974261908036492,"Microviridae - Schizomimiviridae","Healthy / Normal",TRUE,"100.0%",TRUE,"Schizomimiviridae"
+"SCTLD","Microviridae||Schizomimiviridae","Microviridae","Schizomimiviridae","Positive",67,500,0.134,0.866351643210945,0.886963074604371,"Microviridae - Schizomimiviridae","SCTLD",TRUE,"13.4%",FALSE,"Schizomimiviridae"
+"Healthy","Microviridae||Straboviridae","Microviridae","Straboviridae","Positive",500,500,1,0.956082472049833,0.963718820861678,"Microviridae - Straboviridae","Healthy / Normal",TRUE,"100.0%",TRUE,"Straboviridae"
+"SCTLD","Microviridae||Straboviridae","Microviridae","Straboviridae","Positive",427,500,0.854,0.879154773974839,0.893152746425884,"Microviridae - Straboviridae","SCTLD",TRUE,"85.4%",TRUE,"Straboviridae"

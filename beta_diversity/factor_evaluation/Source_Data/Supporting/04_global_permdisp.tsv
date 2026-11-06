@@ -1,0 +1,9 @@
+Figure	Panel	Virus	Factor	Factor_label	Dispersion_F	Dispersion_P	Note	Dispersion_Q	Source_table	Source_row
+Figure_Global_Four_Factor_Associations	Supporting	DNA	Coral_taxa	Coral taxa	8.01961580919418	1e-4	NA	1e-4	04_global_permdisp.csv	1
+Figure_Global_Four_Factor_Associations	Supporting	DNA	Sampling_region	Sampling region	23.6628720292564	1e-4	NA	1e-4	04_global_permdisp.csv	2
+Figure_Global_Four_Factor_Associations	Supporting	DNA	Compartments	Compartments	10.1477302762589	1e-4	NA	1e-4	04_global_permdisp.csv	3
+Figure_Global_Four_Factor_Associations	Supporting	DNA	Status	Status	132.545618801322	1e-4	NA	1e-4	04_global_permdisp.csv	4
+Figure_Global_Four_Factor_Associations	Supporting	RNA	Coral_taxa	Coral taxa	19.124851902585	1e-4	NA	1e-4	04_global_permdisp.csv	5
+Figure_Global_Four_Factor_Associations	Supporting	RNA	Sampling_region	Sampling region	16.6201006801778	1e-4	NA	1e-4	04_global_permdisp.csv	6
+Figure_Global_Four_Factor_Associations	Supporting	RNA	Compartments	Compartments	43.8425430733905	1e-4	NA	1e-4	04_global_permdisp.csv	7
+Figure_Global_Four_Factor_Associations	Supporting	RNA	Status	Status	7.69126052791486	1e-4	NA	1e-4	04_global_permdisp.csv	8

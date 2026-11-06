@@ -1,0 +1,13 @@
+"Analysis_Project","Ocean_Basin","Clean_Type","Species","Has_Healthy","N_Status"
+"Avila2021","Caribbean Sea","Tissue","Diploria clivosa",TRUE,2
+"Avila2021","Caribbean Sea","Tissue","Siderastrea radians",TRUE,2
+"PRJNA559028","Pacific Ocean","Fragment","Pocillopora damicornis",TRUE,2
+"PRJNA649484","Atlantic Ocean","Fragment","Mussismilia hispida",TRUE,2
+"PRJNA716052","Caribbean Sea","Tissue","Orbicella annularis",TRUE,2
+"PRJNA716052","Caribbean Sea","Tissue","Orbicella faveolata",TRUE,2
+"PRJNA731596","Pacific Ocean","Fragment","Montipora capitata",TRUE,4
+"PRJNA731596","Pacific Ocean","Fragment","Pocillopora acuta",TRUE,4
+"PRJNA764551","Pacific Ocean","Fragment","Galaxea fascicularis",TRUE,2
+"PRJNA821612","Pacific Ocean","Fragment","Platygyra carnosa",TRUE,2
+"PRJNA931253","Atlantic Ocean","Mucus-tissue slurry","Montastraea cavernosa",TRUE,2
+"PRJNA950916","Atlantic Ocean","Tissue","Montastraea cavernosa",TRUE,2

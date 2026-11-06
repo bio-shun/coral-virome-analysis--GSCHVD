@@ -1,0 +1,22 @@
+Nature-figure QA notes
+
+- Backend: R only (ggplot2/patchwork; cairo_pdf and ragg exports).
+- Final composite size: 183 x 245 mm.
+- Separate figures are supplied as PDF, SVG, PNG and 600-dpi TIFF.
+- SVG device: svglite (editable text).
+- Both network panels use the original fixed coordinate map and the same 11-family stable-edge union.
+- Panels a,b retain families that are stable-edge endpoints in at least one health state (18 -> 11 shown per group).
+- panel_a_b_full18_display_audit.csv retains the complete family set, degrees and exact display rule.
+- panel_a_b_excluded7_evidence.csv retains stability evidence for the seven families omitted from panels a,b.
+- Topology distributions and all eight tests remain calculated on the full 18-family set; no new statistical filtering is applied.
+- Network construction did not use LDA. Microviridae is overlaid only after network construction.
+- LDA annotation threshold: |LDA| >= 2.5; only Microviridae is mapped to a named family node.
+- The annotation is extracted from the explicitly supplied current LEfSe source data, with exact sample-membership checks; no unclassified feature is mapped to the network.
+- Panel e explicitly reports the Active_Nodes/connected-families permutation P value and BH-adjusted P value.
+- Formal topology annotations use 999 within-location permutations and BH adjustment across eight metrics.
+- The 500 bootstrap distributions and edge retentions are descriptive stability summaries.
+- Panel c uses one decimal place for both absolute retention labels and retention-difference labels; values are unchanged.
+- Panel c dots denote retention >= 50%, not statistical significance; delta bars are percentage-point differences.
+- No edge-wise differential P values were calculated; panels c and Figure 5 are explicitly descriptive.
+- Healthy/SCTLD colour is reinforced by panel labels; the candidate node uses a separate gold fill.
+- Source data for every quantitative panel are in figure_source_data/.

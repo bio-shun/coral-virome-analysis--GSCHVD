@@ -1,0 +1,751 @@
+Sample	Project	Data_Type	Sample_Type	Coral_host_Family	Coral_host_Genus	Coral_Host_Species	Status	Latitude/N	Longitude/E	Location	Ocean_Basin	Country	Region
+SRR13523373	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523374	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523375	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523376	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523377	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523378	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523379	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523380	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523381	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523382	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523383	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523384	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523385	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523386	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523387	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523388	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523389	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523390	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523391	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523392	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR13523393	PRJNA694677	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	NA	NA	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR18552008	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Bleached	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552009	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Bleached	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552010	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Healthy/Normal	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552011	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Healthy/Normal	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552012	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Healthy/Normal	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552013	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Healthy/Normal	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552014	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Treated/Recovery	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552015	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Treated/Recovery	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552016	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Healthy/Normal	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552017	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Treated/Recovery	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552018	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Treated/Recovery	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552019	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Bleached	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552020	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Bleached	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552021	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Bleached	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552022	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Bleached	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552023	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Healthy/Normal	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552024	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Healthy/Normal	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552025	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Healthy/Normal	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552026	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Healthy/Normal	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552027	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Healthy/Normal	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552028	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Healthy/Normal	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552029	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Healthy/Normal	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552030	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Healthy/Normal	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552031	PRJNA821612	Metatranscriptome	Coral fragment	Merulinidae	Platygyra	Platygyra carnosa	Healthy/Normal	22.32	114.35	China: Lai Chi Wo, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552032	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Treated/Recovery	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552033	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Treated/Recovery	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552034	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Treated/Recovery	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552035	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Treated/Recovery	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552036	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Bleached	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552037	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Bleached	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552038	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Healthy/Normal	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+SRR18552039	PRJNA821612	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora peltiformis	Healthy/Normal	22.32	114.35	China: Bluff Island, Hong Kong	Pacific Ocean	China	Hong Kong
+ERR11417830	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-17.49	-149.76	French Polynesia: Moorea, East Reef	Pacific Ocean	French Polynesia	Moorea
+ERR11417831	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	8.60	-79.02	Panama: Islas de las Perlas, Isla Mogo Mogo	Pacific Ocean	Panama	Pearl Islands
+ERR9592210	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	8.58	-79.02	Panama: Islas de las Perlas, Isla Chapera	Pacific Ocean	Panama	Pearl Islands
+ERR9592214	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	8.58	-79.02	Panama: Islas de las Perlas, Isla Chapera	Pacific Ocean	Panama	Pearl Islands
+ERR9592203	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	8.58	-79.02	Panama: Islas de las Perlas, Isla Chapera	Pacific Ocean	Panama	Pearl Islands
+ERR9592215	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	8.58	-79.02	Panama: Islas de las Perlas, Isla Chapera	Pacific Ocean	Panama	Pearl Islands
+ERR9592211	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	8.60	-79.02	Panama: Islas de las Perlas, Isla Mogo Mogo	Pacific Ocean	Panama	Pearl Islands
+ERR9592209	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	7.87	-81.79	Panama: Coiba, Isla Brincaco	Pacific Ocean	Panama	Coiba National Park
+ERR9592207	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	7.87	-81.79	Panama: Coiba, Isla Brincaco	Pacific Ocean	Panama	Coiba National Park
+ERR9592208	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	7.87	-81.79	Panama: Coiba, Isla Brincaco	Pacific Ocean	Panama	Coiba National Park
+ERR9592216	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	7.65	-81.70	Panama: Coiba, Isla del Canal de Afuera	Pacific Ocean	Panama	Coiba National Park
+ERR9592204	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	7.65	-81.70	Panama: Coiba, Isla del Canal de Afuera	Pacific Ocean	Panama	Coiba National Park
+ERR9592212	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	7.65	-81.70	Panama: Coiba, Isla del Canal de Afuera	Pacific Ocean	Panama	Coiba National Park
+ERR9592213	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	7.21	-81.80	Panama: Coiba, Isla Jicarita	Pacific Ocean	Panama	Coiba National Park
+ERR9592217	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	7.21	-81.80	Panama: Coiba, Isla Jicarita	Pacific Ocean	Panama	Coiba National Park
+ERR9592218	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	7.21	-81.80	Panama: Coiba, Isla Jicarita	Pacific Ocean	Panama	Coiba National Park
+ERR11417832	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	8.65	-79.03	Panama: Islas de las Perlas, Isla Bartolome	Pacific Ocean	Panama	Pearl Islands
+ERR9592205	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	8.65	-79.03	Panama: Islas de las Perlas, Isla Bartolome	Pacific Ocean	Panama	Pearl Islands
+ERR9592206	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	8.65	-79.03	Panama: Islas de las Perlas, Isla Bartolome	Pacific Ocean	Panama	Pearl Islands
+ERR9592165	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Healthy/Normal	3.99	-81.59	Colombia: Malpelo, El Arrecife, East coast	Pacific Ocean	Colombia	Malpelo Island
+ERR9592166	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Diseased	3.99	-81.59	Colombia: Malpelo, El Arrecife, East coast	Pacific Ocean	Colombia	Malpelo Island
+ERR9592167	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Healthy/Normal	3.99	-81.59	Colombia: Malpelo, El Arrecife, East coast	Pacific Ocean	Colombia	Malpelo Island
+ERR9592168	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Diseased	3.99	-81.59	Colombia: Malpelo, El Arrecife, East coast	Pacific Ocean	Colombia	Malpelo Island
+ERR9592169	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Healthy/Normal	3.99	-81.59	Colombia: Malpelo, El Arrecife, East coast	Pacific Ocean	Colombia	Malpelo Island
+ERR9592170	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Diseased	3.99	-81.59	Colombia: Malpelo, El Arrecife, East coast	Pacific Ocean	Colombia	Malpelo Island
+ERR9592171	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Healthy/Normal	3.99	-81.59	Colombia: Malpelo, El Arrecife, East coast	Pacific Ocean	Colombia	Malpelo Island
+ERR9592172	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Diseased	3.99	-81.59	Colombia: Malpelo, El Arrecife, East coast	Pacific Ocean	Colombia	Malpelo Island
+ERR9592173	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Healthy/Normal	3.99	-81.59	Colombia: Malpelo, El Arrecife, East coast	Pacific Ocean	Colombia	Malpelo Island
+ERR9592174	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Diseased	3.99	-81.59	Colombia: Malpelo, El Arrecife, East coast	Pacific Ocean	Colombia	Malpelo Island
+ERR9592192	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.07	-109.32	Chile: Rapa Nui, Anakena	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592193	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.07	-109.32	Chile: Rapa Nui, Anakena	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592194	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.07	-109.32	Chile: Rapa Nui, Anakena	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592187	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.07	-109.34	Chile: Rapa Nui, Anakena	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592188	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.07	-109.34	Chile: Rapa Nui, Anakena	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592189	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.07	-109.34	Chile: Rapa Nui, Anakena	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592190	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.13	-109.43	Chile: Rapa Nui, Motu Taka Rua	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592191	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.13	-109.43	Chile: Rapa Nui, Motu Taka Rua	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592183	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.13	-109.43	Chile: Rapa Nui, Motu Taka Rua	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592236	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-23.24	-134.96	French Polynesia: Gambier, Kamaka Island	Pacific Ocean	French Polynesia	Gambier Islands
+ERR9592243	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-23.24	-134.96	French Polynesia: Gambier, Kamaka Island	Pacific Ocean	French Polynesia	Gambier Islands
+ERR9592240	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-23.24	-134.96	French Polynesia: Gambier, Kamaka Island	Pacific Ocean	French Polynesia	Gambier Islands
+ERR9592175	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-17.48	-149.89	French Polynesia: Moorea, North Reef	Pacific Ocean	French Polynesia	Moorea
+ERR9592176	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-17.48	-149.89	French Polynesia: Moorea, North Reef	Pacific Ocean	French Polynesia	Moorea
+ERR9592177	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-17.48	-149.89	French Polynesia: Moorea, North Reef	Pacific Ocean	French Polynesia	Moorea
+ERR9592178	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-17.52	-149.92	French Polynesia: Moorea, West Reef	Pacific Ocean	French Polynesia	Moorea
+ERR9592179	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-17.52	-149.92	French Polynesia: Moorea, West Reef	Pacific Ocean	French Polynesia	Moorea
+ERR9592180	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-17.52	-149.92	French Polynesia: Moorea, West Reef	Pacific Ocean	French Polynesia	Moorea
+ERR9592181	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-17.49	-149.76	French Polynesia: Moorea, East Reef	Pacific Ocean	French Polynesia	Moorea
+ERR9592182	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-17.49	-149.76	French Polynesia: Moorea, East Reef	Pacific Ocean	French Polynesia	Moorea
+ERR9592153	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.84	-159.80	Cook Islands: Northwest Reef	Pacific Ocean	Cook Islands	Rarotonga
+ERR9592151	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.84	-159.80	Cook Islands: Northwest Reef	Pacific Ocean	Cook Islands	Rarotonga
+ERR9592147	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.84	-159.80	Cook Islands: Northwest Reef	Pacific Ocean	Cook Islands	Rarotonga
+ERR9592152	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.91	-159.85	Cook Islands: Southwest Reef	Pacific Ocean	Cook Islands	Rarotonga
+ERR9592150	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.91	-159.85	Cook Islands: Southwest Reef	Pacific Ocean	Cook Islands	Rarotonga
+ERR9592154	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.91	-159.85	Cook Islands: Southwest Reef	Pacific Ocean	Cook Islands	Rarotonga
+ERR9592149	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.87	-159.82	Cook Islands: Central West Reef	Pacific Ocean	Cook Islands	Rarotonga
+ERR9592148	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.87	-159.82	Cook Islands: Central West Reef	Pacific Ocean	Cook Islands	Rarotonga
+ERR9592155	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.87	-159.82	Cook Islands: Central West Reef	Pacific Ocean	Cook Islands	Rarotonga
+ERR9592157	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-19.11	-169.91	Niue: Southwest Reef	Pacific Ocean	Niue	Niue
+ERR9592158	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-19.11	-169.91	Niue: Southwest Reef	Pacific Ocean	Niue	Niue
+ERR9592163	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-19.11	-169.91	Niue: Southwest Reef	Pacific Ocean	Niue	Niue
+ERR9592156	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.99	-169.90	Niue: Northwest Reef	Pacific Ocean	Niue	Niue
+ERR9592162	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.99	-169.90	Niue: Northwest Reef	Pacific Ocean	Niue	Niue
+ERR9592159	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-18.99	-169.90	Niue: Northwest Reef	Pacific Ocean	Niue	Niue
+ERR9592161	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-19.04	-169.92	Niue: Central West Reef	Pacific Ocean	Niue	Niue
+ERR9592160	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-19.04	-169.92	Niue: Central West Reef	Pacific Ocean	Niue	Niue
+ERR9592164	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-19.04	-169.92	Niue: Central West Reef	Pacific Ocean	Niue	Niue
+ERR9592233	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-14.02	-171.84	Samoa: Upolu, South Reef	Pacific Ocean	Samoa	Upolu
+ERR9592231	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-14.02	-171.84	Samoa: Upolu, South Reef	Pacific Ocean	Samoa	Upolu
+ERR9592232	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-14.02	-171.84	Samoa: Upolu, South Reef	Pacific Ocean	Samoa	Upolu
+ERR9592223	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-14.06	-171.43	Samoa: Upolu, Southeast Reef	Pacific Ocean	Samoa	Upolu
+ERR9592220	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-14.06	-171.43	Samoa: Upolu, Southeast Reef	Pacific Ocean	Samoa	Upolu
+ERR9592224	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-14.06	-171.43	Samoa: Upolu, Southeast Reef	Pacific Ocean	Samoa	Upolu
+ERR9592241	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-13.92	-171.54	Samoa: Upolu, Northeast Reef	Pacific Ocean	Samoa	Upolu
+ERR9592242	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-13.92	-171.54	Samoa: Upolu, Northeast Reef	Pacific Ocean	Samoa	Upolu
+ERR9592234	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-13.92	-171.54	Samoa: Upolu, Northeast Reef	Pacific Ocean	Samoa	Upolu
+ERR9592244	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	13.25	144.64	USA: Guam Island, Southwest Reef	Pacific Ocean	USA	Guam
+ERR9592219	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	13.25	144.64	USA: Guam Island, Southwest Reef	Pacific Ocean	USA	Guam
+ERR9592245	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	13.25	144.64	USA: Guam Island, Southwest Reef	Pacific Ocean	USA	Guam
+ERR9592222	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	13.42	144.64	USA: Guam Island, Northwest Reef	Pacific Ocean	USA	Guam
+ERR9592226	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	13.42	144.64	USA: Guam Island, Northwest Reef	Pacific Ocean	USA	Guam
+ERR9592227	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	13.42	144.64	USA: Guam Island, Northwest Reef	Pacific Ocean	USA	Guam
+ERR9592228	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	13.34	144.64	USA: Guam Island, Central West Reef	Pacific Ocean	USA	Guam
+ERR9592229	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	13.34	144.64	USA: Guam Island, Central West Reef	Pacific Ocean	USA	Guam
+ERR9592230	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	13.34	144.64	USA: Guam Island, Central West Reef	Pacific Ocean	USA	Guam
+ERR9592184	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.15	-109.44	Chile: Rapa Nui, Motu Tau Tara	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592185	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.15	-109.44	Chile: Rapa Nui, Motu Tau Tara	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592186	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-27.15	-109.44	Chile: Rapa Nui, Motu Tau Tara	Pacific Ocean	Chile	Rapa Nui (Easter Island)
+ERR9592197	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-24.70	-124.80	UK (Pitcairn Islands): Ducie Island, Site 1	Pacific Ocean	UK	Pitcairn Islands
+ERR9592195	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-24.70	-124.80	UK (Pitcairn Islands): Ducie Island, Site 1	Pacific Ocean	UK	Pitcairn Islands
+ERR9592196	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-24.70	-124.80	UK (Pitcairn Islands): Ducie Island, Site 1	Pacific Ocean	UK	Pitcairn Islands
+ERR9592146	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-24.70	-124.79	UK (Pitcairn Islands): Ducie Island, Site 2	Pacific Ocean	UK	Pitcairn Islands
+ERR9592201	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-24.70	-124.79	UK (Pitcairn Islands): Ducie Island, Site 2	Pacific Ocean	UK	Pitcairn Islands
+ERR9592202	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-24.70	-124.79	UK (Pitcairn Islands): Ducie Island, Site 2	Pacific Ocean	UK	Pitcairn Islands
+ERR9592198	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-24.67	-124.78	UK (Pitcairn Islands): Ducie Island, Site 3	Pacific Ocean	UK	Pitcairn Islands
+ERR9592200	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-24.67	-124.78	UK (Pitcairn Islands): Ducie Island, Site 3	Pacific Ocean	UK	Pitcairn Islands
+ERR9592199	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-24.67	-124.78	UK (Pitcairn Islands): Ducie Island, Site 3	Pacific Ocean	UK	Pitcairn Islands
+ERR9592225	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-23.07	-135.07	French Polynesia: Gambier, Tenoko Island	Pacific Ocean	French Polynesia	Gambier Islands
+ERR9592221	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-23.07	-135.07	French Polynesia: Gambier, Tenoko Island	Pacific Ocean	French Polynesia	Gambier Islands
+ERR9592237	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-23.07	-135.07	French Polynesia: Gambier, Tenoko Island	Pacific Ocean	French Polynesia	Gambier Islands
+ERR9592238	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-23.17	-134.85	French Polynesia: Gambier, Tenoko Island	Pacific Ocean	French Polynesia	Gambier Islands
+ERR9592239	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-23.17	-134.85	French Polynesia: Gambier, Tenoko Island	Pacific Ocean	French Polynesia	Gambier Islands
+ERR9592235	PRJEB47249(PRJEB52301)	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Unkonwn	-23.17	-134.85	French Polynesia: Gambier, Tenoko Island	Pacific Ocean	French Polynesia	Gambier Islands
+SRR26350437	PRJNA1025981	Metatranscriptome	Coral fragment	Poritidae	Porites	Porites lutea	Stressed(Cold stress)	21.12	109.17	China: Weizhou Island	Pacific Ocean	China	Guangxi
+SRR26350438	PRJNA1025981	Metatranscriptome	Coral fragment	Poritidae	Porites	Porites lutea	Stressed(Cold stress)	21.12	109.17	China: Weizhou Island	Pacific Ocean	China	Guangxi
+SRR26350439	PRJNA1025981	Metatranscriptome	Coral fragment	Poritidae	Porites	Porites lutea	Stressed(Cold stress)	21.12	109.17	China: Weizhou Island	Pacific Ocean	China	Guangxi
+SRR26350440	PRJNA1025981	Metatranscriptome	Coral fragment	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	21.12	109.17	China: Weizhou Island	Pacific Ocean	China	Guangxi
+SRR26350441	PRJNA1025981	Metatranscriptome	Coral fragment	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	21.12	109.17	China: Weizhou Island	Pacific Ocean	China	Guangxi
+SRR26350442	PRJNA1025981	Metatranscriptome	Coral fragment	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	21.12	109.17	China: Weizhou Island	Pacific Ocean	China	Guangxi
+SRR26350443	PRJNA1025981	Metatranscriptome	Coral fragment	Poritidae	Porites	Porites lutea	Healthy/Normal	21.12	109.17	China: Weizhou Island	Pacific Ocean	China	Guangxi
+SRR26350444	PRJNA1025981	Metatranscriptome	Coral fragment	Poritidae	Porites	Porites lutea	Healthy/Normal	21.12	109.17	China: Weizhou Island	Pacific Ocean	China	Guangxi
+SRR26350445	PRJNA1025981	Metatranscriptome	Coral fragment	Poritidae	Porites	Porites lutea	Healthy/Normal	21.12	109.17	China: Weizhou Island	Pacific Ocean	China	Guangxi
+SRR27065493	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065494	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065495	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065496	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065497	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065498	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065499	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065500	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065501	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065502	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065503	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065504	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065505	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065506	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065507	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065508	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065509	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065510	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065511	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065512	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065513	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065514	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065515	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065516	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065517	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065518	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065519	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065520	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065521	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065522	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065523	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065524	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065525	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065526	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065527	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR27065528	PRJNA1046582	Metatranscriptome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Unkonwn	18.20	109.48	China: South China Sea	Pacific Ocean	China	South China Sea
+SRR2102235	PRJNA289876	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Unkonwn	17.89	-67.00	Puerto Rico: Weimberg Reef	Caribbean Sea	USA	Puerto Rico
+SRR3575053	PRJNA317245	Metatranscriptome	Coral polyp	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	19.20	110.63	China: East and West Coast of Hainan Island	Pacific Ocean	China	Hainan
+SRR3575054	PRJNA317245	Metatranscriptome	Coral polyp	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	19.20	110.63	China: East and West Coast of Hainan Island	Pacific Ocean	China	Hainan
+SRR3575055	PRJNA317245	Metatranscriptome	Coral polyp	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	19.20	110.63	China: East and West Coast of Hainan Island	Pacific Ocean	China	Hainan
+SRR3575056	PRJNA317245	Metatranscriptome	Coral polyp	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	19.20	110.63	China: East and West Coast of Hainan Island	Pacific Ocean	China	Hainan
+SRR3575057	PRJNA317245	Metatranscriptome	Coral polyp	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	19.20	110.63	China: East and West Coast of Hainan Island	Pacific Ocean	China	Hainan
+SRR3575058	PRJNA317245	Metatranscriptome	Coral polyp	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	19.20	110.63	China: East and West Coast of Hainan Island	Pacific Ocean	China	Hainan
+SRR4308231	PRJNA338755	Metatranscriptome	Coral tissue	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Diseased(black band disease)	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308232	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella faveolata	Diseased(black band disease)	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308233	PRJNA338755	Metatranscriptome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308234	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308235	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308236	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308237	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308238	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella annularis	Diseased(black band disease)	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308239	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella annularis	Diseased(black band disease)	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308240	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella annularis	Diseased(black band disease)	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308241	PRJNA338755	Metatranscriptome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308242	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308243	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308244	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR4308245	PRJNA338755	Metatranscriptome	Coral mucus	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	16.80	-88.08	Belize: Carrie Bow Cay Field Station	Caribbean Sea	Belize	Stann Creek
+SRR6255880	PRJNA405605	Metatranscriptome	Coral tissue	Mussidae	Pseudodiploria	Diploria clivosa	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255882	PRJNA405606	Metatranscriptome	Coral tissue	Mussidae	Pseudodiploria	Diploria clivosa	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255888	PRJNA405607	Metatranscriptome	Coral tissue	Mussidae	Pseudodiploria	Diploria clivosa	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255887	PRJNA405608	Metatranscriptome	Coral tissue	Mussidae	Pseudodiploria	Diploria clivosa	Stressed(Heat stress)	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255886	PRJNA405609	Metatranscriptome	Coral tissue	Mussidae	Pseudodiploria	Diploria clivosa	Stressed(Heat stress)	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255890	PRJNA405610	Metatranscriptome	Coral tissue	Mussidae	Pseudodiploria	Diploria clivosa	Stressed(Heat stress)	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255844	PRJNA405611	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Stressed(Heat stress)	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255862	PRJNA405612	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Stressed(Heat stress)	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255864	PRJNA405613	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Stressed(Heat stress)	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255863	PRJNA405614	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255866	PRJNA405615	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255865	PRJNA405616	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255878	PRJNA405617	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Treated/Recovery	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255881	PRJNA405618	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Treated/Recovery	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255879	PRJNA405952	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Treated/Recovery	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255889	PRJNA405953	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea radians	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6256312	PRJNA405954	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea radians	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6256323	PRJNA405955	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea radians	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6256322	PRJNA405956	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea radians	Stressed(Heat stress)	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6256324	PRJNA405957	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea radians	Stressed(Heat stress)	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6256325	PRJNA405958	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea radians	Stressed(Heat stress)	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255820	PRJNA405995	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255822	PRJNA405996	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR6255825	PRJNA405997	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	20.93	-86.83	Mexico: Puerto Morelos, Quintana Roo	Caribbean Sea	Mexico	Quintana Roo
+SRR9963831	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Healthy/Normal	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963830	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Healthy/Normal	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963833	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Healthy/Normal	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963832	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Stressed(Heat stress)	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963827	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Stressed(Heat stress)	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963826	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Stressed(Heat stress)	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963829	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Stressed(Heat stress)	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963828	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Stressed(Heat stress)	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963825	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Stressed(Heat stress)	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963824	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Stressed(Heat stress)	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963823	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Stressed(Heat stress)	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR9963822	PRJNA559028	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora damicornis	Stressed(Heat stress)	18.22	109.47	China: Sanya Luhuitou Fringing Reef	Pacific Ocean	China	Hainan
+SRR12011937	PRJNA638625	Metatranscriptome	Coral fragment	Pocilloporidae	Stylophora	Stylophora pistillata	Stressed(Heat stress)	22.30	39.05	Saudi Arabia: Abu Shosha Reef	Red Sea	Saudi Arabia	Red Sea
+SRR12011938	PRJNA638625	Metatranscriptome	Coral fragment	Pocilloporidae	Stylophora	Stylophora pistillata	Stressed(Heat stress)	22.30	39.05	Saudi Arabia: Abu Shosha Reef	Red Sea	Saudi Arabia	Red Sea
+SRR12011939	PRJNA638625	Metatranscriptome	Coral fragment	Pocilloporidae	Stylophora	Stylophora pistillata	Stressed(Heat stress)	22.30	39.05	Saudi Arabia: Abu Shosha Reef	Red Sea	Saudi Arabia	Red Sea
+SRR12011940	PRJNA638625	Metatranscriptome	Coral fragment	Pocilloporidae	Stylophora	Stylophora pistillata	Stressed(Heat stress)	22.30	39.05	Saudi Arabia: Abu Shosha Reef	Red Sea	Saudi Arabia	Red Sea
+SRR12011941	PRJNA638625	Metatranscriptome	Coral fragment	Pocilloporidae	Stylophora	Stylophora pistillata	Stressed(Heat stress)	22.30	39.05	Saudi Arabia: Abu Shosha Reef	Red Sea	Saudi Arabia	Red Sea
+SRR12011942	PRJNA638625	Metatranscriptome	Coral fragment	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	22.30	39.05	Saudi Arabia: Abu Shosha Reef	Red Sea	Saudi Arabia	Red Sea
+SRR12011943	PRJNA638625	Metatranscriptome	Coral fragment	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	22.30	39.05	Saudi Arabia: Abu Shosha Reef	Red Sea	Saudi Arabia	Red Sea
+SRR12011944	PRJNA638625	Metatranscriptome	Coral fragment	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	22.30	39.05	Saudi Arabia: Abu Shosha Reef	Red Sea	Saudi Arabia	Red Sea
+SRR12011945	PRJNA638625	Metatranscriptome	Coral fragment	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	22.30	39.05	Saudi Arabia: Abu Shosha Reef	Red Sea	Saudi Arabia	Red Sea
+SRR12011946	PRJNA638625	Metatranscriptome	Coral fragment	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	22.30	39.05	Saudi Arabia: Abu Shosha Reef	Red Sea	Saudi Arabia	Red Sea
+SRR12012303	PRJNA638633	Metatranscriptome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012304	PRJNA638633	Metatranscriptome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012305	PRJNA638633	Metatranscriptome	Coral tissue	Diploastreidae	Diploastrea	Diploastrea heliopora	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012306	PRJNA638633	Metatranscriptome	Coral tissue	Diploastreidae	Diploastrea	Diploastrea heliopora	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012307	PRJNA638633	Metatranscriptome	Coral tissue	Diploastreidae	Diploastrea	Diploastrea heliopora	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012308	PRJNA638633	Metatranscriptome	Coral tissue	Diploastreidae	Diploastrea	Diploastrea heliopora	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012309	PRJNA638633	Metatranscriptome	Coral tissue	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012310	PRJNA638633	Metatranscriptome	Coral tissue	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012311	PRJNA638633	Metatranscriptome	Coral tissue	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012312	PRJNA638633	Metatranscriptome	Coral tissue	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012313	PRJNA638633	Metatranscriptome	Coral tissue	Acroporidae	Acropora	Acropora cytherea	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012314	PRJNA638633	Metatranscriptome	Coral tissue	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012315	PRJNA638633	Metatranscriptome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora verrucosa	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012316	PRJNA638633	Metatranscriptome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora verrucosa	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012317	PRJNA638633	Metatranscriptome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora verrucosa	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012318	PRJNA638633	Metatranscriptome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora verrucosa	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012319	PRJNA638633	Metatranscriptome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012320	PRJNA638633	Metatranscriptome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012321	PRJNA638633	Metatranscriptome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012322	PRJNA638633	Metatranscriptome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012323	PRJNA638633	Metatranscriptome	Coral tissue	Agariciidae	Pachyseris	Pachyseris speciosa	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012324	PRJNA638633	Metatranscriptome	Coral tissue	Acroporidae	Acropora	Acropora cytherea	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012325	PRJNA638633	Metatranscriptome	Coral tissue	Agariciidae	Pachyseris	Pachyseris speciosa	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012326	PRJNA638633	Metatranscriptome	Coral tissue	Agariciidae	Pachyseris	Pachyseris speciosa	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012327	PRJNA638633	Metatranscriptome	Coral tissue	Agariciidae	Pachyseris	Pachyseris speciosa	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012328	PRJNA638633	Metatranscriptome	Coral tissue	Agariciidae	Pachyseris	Pachyseris speciosa	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012329	PRJNA638633	Metatranscriptome	Coral tissue	Merulinidae	Mycedium	Mycedium elephantotus	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012330	PRJNA638633	Metatranscriptome	Coral tissue	Merulinidae	Mycedium	Mycedium elephantotus	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012331	PRJNA638633	Metatranscriptome	Coral tissue	Merulinidae	Mycedium	Mycedium elephantotus	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012332	PRJNA638633	Metatranscriptome	Coral tissue	Merulinidae	Mycedium	Mycedium elephantotus	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012333	PRJNA638633	Metatranscriptome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012334	PRJNA638633	Metatranscriptome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012335	PRJNA638633	Metatranscriptome	Coral tissue	Acroporidae	Acropora	Acropora cytherea	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR12012336	PRJNA638633	Metatranscriptome	Coral tissue	Acroporidae	Acropora	Acropora cytherea	Healthy/Normal	22.30	38.96	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR13209674	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209676	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209677	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209678	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209679	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209680	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209681	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209682	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209683	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209684	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209685	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209687	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209688	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209689	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209690	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209691	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209692	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209693	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209694	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209695	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR13209715	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572920	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572921	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572922	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572923	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572924	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572925	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572926	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572927	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572928	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572929	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572930	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572931	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572932	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572933	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572934	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572935	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572936	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572937	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572938	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572939	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572940	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Healthy/Normal	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572941	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572942	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14572943	PRJNA649484	Metatranscriptome	Coral fragment	Mussidae	Mussismilia	Mussismilia hispida	Stressed(Heat stress)	-16.21	-38.58	Brazil: Coroa Vermelha Reefs, Santa Cruz de Cabrália, Bahia	Atlantic Ocean	Brazil	Bahia
+SRR14577698	PRJNA716052	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577699	PRJNA716052	Metatranscriptome	Coral tissue	Mussidae	Colpophyllia	Colpophyllia natans	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577700	PRJNA716052	Metatranscriptome	Coral tissue	Mussidae	Colpophyllia	Colpophyllia natans	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577701	PRJNA716052	Metatranscriptome	Coral tissue	Mussidae	Colpophyllia	Colpophyllia natans	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577702	PRJNA716052	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea siderea	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577703	PRJNA716052	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea siderea	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577704	PRJNA716052	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea siderea	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577705	PRJNA716052	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea siderea	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577706	PRJNA716052	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea siderea	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577707	PRJNA716052	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea siderea	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577708	PRJNA716052	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea siderea	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577709	PRJNA716052	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea siderea	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577710	PRJNA716052	Metatranscriptome	Coral tissue	Siderastreidae	Siderastrea	Siderastrea siderea	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577711	PRJNA716052	Metatranscriptome	Coral tissue	Mussidae	Colpophyllia	Colpophyllia natans	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577712	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites porites	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577713	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites porites	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577714	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites porites	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577715	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites porites	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577716	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites porites	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577717	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites porites	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577718	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites porites	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577719	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites porites	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577720	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites astreoides	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577721	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites astreoides	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577722	PRJNA716052	Metatranscriptome	Coral tissue	Mussidae	Colpophyllia	Colpophyllia natans	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577723	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites astreoides	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577724	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites astreoides	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577725	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites astreoides	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577726	PRJNA716052	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites astreoides	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577727	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577728	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577729	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577730	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577731	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577732	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577733	PRJNA716052	Metatranscriptome	Coral tissue	Mussidae	Colpophyllia	Colpophyllia natans	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577734	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577735	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577736	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577737	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577738	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577739	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella annularis	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577740	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577741	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella annularis	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577742	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577743	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella annularis	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577744	PRJNA716052	Metatranscriptome	Coral tissue	Mussidae	Colpophyllia	Colpophyllia natans	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577745	PRJNA716052	Metatranscriptome	Coral tissue	Merulinidae	Orbicella	Orbicella annularis	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577746	PRJNA716052	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577747	PRJNA716052	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577748	PRJNA716052	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577749	PRJNA716052	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577750	PRJNA716052	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577751	PRJNA716052	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577752	PRJNA716052	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577753	PRJNA716052	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577754	PRJNA716052	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577755	PRJNA716052	Metatranscriptome	Coral tissue	Mussidae	Colpophyllia	Colpophyllia natans	Diseased(white plague disease)	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14577756	PRJNA716052	Metatranscriptome	Coral tissue	Mussidae	Colpophyllia	Colpophyllia natans	Healthy/Normal	18.34	-64.98	USA: St. Thomas, Brewer's Bay	Caribbean Sea	USA	US Virgin Islands
+SRR14610884	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610885	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610886	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610887	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610888	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610889	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610890	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610891	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610892	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610893	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610894	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610895	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610896	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610897	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610898	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610899	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610900	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610901	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610902	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610903	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610904	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610905	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610906	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610907	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610908	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610909	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610910	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610911	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610912	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610913	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610914	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610915	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610916	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610917	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610918	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610919	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610920	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610921	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610922	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610923	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610924	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610925	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610926	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610927	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610928	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610929	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610930	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610931	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610932	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610933	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610934	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610935	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610936	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610937	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610938	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610939	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610940	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610941	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610942	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610943	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610944	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610945	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610946	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610947	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610948	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610949	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610950	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610951	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610952	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610953	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610954	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610955	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610956	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610957	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610958	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610959	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610960	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610961	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610962	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610963	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610964	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610965	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610966	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610967	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610968	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610969	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610970	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610971	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610972	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610973	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610974	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610975	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610976	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610977	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610978	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610979	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610980	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610981	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610982	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610983	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610984	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610985	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610986	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610987	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610988	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610989	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610990	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610991	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610992	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610993	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610994	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610995	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610996	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610997	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610998	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14610999	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611000	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611001	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611002	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611003	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat + Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611004	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611005	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611006	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611007	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611008	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611009	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611010	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611011	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611012	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611013	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611014	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611015	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611016	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611017	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611018	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611019	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611020	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611021	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611022	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611023	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611024	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611025	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611026	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611027	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611028	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611029	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611030	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611031	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611032	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611033	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611034	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611035	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611036	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611037	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Heat stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611038	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611039	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611040	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611041	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611042	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611043	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611044	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611045	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611046	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611047	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611048	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611049	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611050	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611051	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611052	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611053	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611054	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611055	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611056	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611057	PRJNA731596	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora acuta	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611058	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611059	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611060	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611061	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611062	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611063	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611064	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611065	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611066	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611067	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611068	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611069	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611070	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611071	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611072	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611073	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611074	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611075	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611076	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611077	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611078	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611079	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611080	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611081	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611082	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611083	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611084	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611085	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611086	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611087	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611088	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611089	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611090	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611091	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611092	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611093	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611094	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611095	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611096	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611097	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611098	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611099	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611100	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611101	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Heat stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611102	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.43	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611103	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611104	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611105	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611106	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611107	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611108	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611109	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611110	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611111	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611112	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611113	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611114	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611115	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611116	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611117	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611118	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611119	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611120	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611121	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611122	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611123	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611124	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611125	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611126	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611127	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Stressed(Acidification stress)	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611128	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611129	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611130	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.45	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611131	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.45	-157.81	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611132	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.47	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611133	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.48	-157.83	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR14611134	PRJNA731596	Metatranscriptome	Coral fragment	Acroporidae	Montipora	Montipora capitata	Healthy/Normal	21.44	-157.79	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR16077711	PRJNA761443	Metatranscriptome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora meandrina	Bleached	21.45	-157.80	USA: Kaneohe Bay, Hawaii	Pacific Ocean	USA	Hawaii
+SRR15974336	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Stressed(Heat stress)	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974337	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974338	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974339	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974340	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Stressed(Heat stress)	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974341	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Stressed(Heat stress)	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974342	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Stressed(Heat stress)	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974343	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974344	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Stressed(Heat stress)	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974345	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Stressed(Heat stress)	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974346	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR15974347	PRJNA764551	Metatranscriptome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	18.20	109.48	China: Sanya Bay	Pacific Ocean	China	Hainan
+SRR17230316	PRJNA788911	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites astreoides	Healthy/Normal	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17230317	PRJNA788911	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites astreoides	Healthy/Normal	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17230318	PRJNA788911	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17230319	PRJNA788911	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17230320	PRJNA788911	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17230321	PRJNA788911	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17230322	PRJNA788911	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17230323	PRJNA788911	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17230324	PRJNA788911	Metatranscriptome	Coral tissue	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17230325	PRJNA788911	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17230326	PRJNA788911	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR17239955	PRJNA788911	Metatranscriptome	Coral tissue	Poritidae	Porites	Porites astreoides	Diseased(SCTLD)	NA	NA	USA: Virgin Islands, St. Thomas	Caribbean Sea	USA	US Virgin Islands
+SRR23372215	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372216	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372217	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Treated/Recovery	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372218	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Treated/Recovery	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372219	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Treated/Recovery	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372220	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Treated/Recovery	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372221	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Treated/Recovery	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372222	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Treated/Recovery	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372223	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372224	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372225	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372226	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372227	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372228	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372229	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372230	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372231	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372232	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372233	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Treated/Recovery	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23372234	PRJNA931253	Metatranscriptome	Coral mucus-tissue slurry	Montastraeidae	Montastraea	Montastraea cavernosa	Treated/Recovery	24.56	-80.53	USA: Florida, Hen and Chickens Sanctuary Preservation Area	Atlantic Ocean	USA	Florida
+SRR23441528	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441529	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441530	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441531	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441532	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441533	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441534	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441535	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441536	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441537	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441538	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441539	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441540	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441541	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441542	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441543	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441544	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441545	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441546	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441547	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441548	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441549	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441550	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441551	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441552	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441553	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441554	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441555	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441556	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441557	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441558	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441559	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441560	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441561	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441562	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441563	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441564	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441565	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR23441566	PRJNA933528	Metatranscriptome	Coral tissue	Merulinidae	Dipsastraea	Dipsastraea veroni	Unkonwn	NA	NA	China: Sanya	Pacific Ocean	China	Hainan
+SRR24081683	PRJNA950916	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.57	-81.46	USA: Florida Keys	Atlantic Ocean	USA	Florida
+SRR24081684	PRJNA950916	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	24.57	-81.46	USA: Florida Keys	Atlantic Ocean	USA	Florida
+SRR24081685	PRJNA950916	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.57	-81.46	USA: Florida Keys	Atlantic Ocean	USA	Florida
+SRR24081686	PRJNA950916	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	24.57	-81.46	USA: Florida Keys	Atlantic Ocean	USA	Florida
+SRR24081687	PRJNA950916	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.57	-81.46	USA: Florida Keys	Atlantic Ocean	USA	Florida
+SRR24081688	PRJNA950916	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	24.57	-81.46	USA: Florida Keys	Atlantic Ocean	USA	Florida
+SRR24081689	PRJNA950916	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Diseased(SCTLD)	24.57	-81.46	USA: Florida Keys	Atlantic Ocean	USA	Florida
+SRR24081690	PRJNA950916	Metatranscriptome	Coral tissue	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	24.57	-81.46	USA: Florida Keys	Atlantic Ocean	USA	Florida

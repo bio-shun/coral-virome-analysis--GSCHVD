@@ -1,0 +1,9 @@
+"Virus","Analysis","Factor","Df","R2","Adj_R2","F","P","Estimable","Note","Eligible_projects","Total_projects","Coverage","Model_estimable"
+"DNA","Project-conditioned partial dbRDA","Coral_taxa",22,0.0944583542126396,0.0822261168526767,5.3020344939056,1e-04,TRUE,"",7,22,"Replicated across Projects",TRUE
+"DNA","Project-conditioned partial dbRDA","Sampling_region",1,0.00155380283468427,0.000837008701111475,1.91876047902476,0.9076,TRUE,"",1,22,"Case-study coverage only",TRUE
+"DNA","Project-conditioned partial dbRDA","Compartments",3,0.00455590264507071,0.00238130744049581,1.87533144414305,0.0026,TRUE,"",2,22,"Case-study coverage only",TRUE
+"DNA","Project-conditioned partial dbRDA","Status",8,0.00783022059312915,0.00149659193177609,1.20867312447616,0.1014,TRUE,"",11,22,"Replicated across Projects",TRUE
+"RNA","Project-conditioned partial dbRDA","Coral_taxa",15,0.10725230768049,0.10728056085,14.0671114101033,1e-04,TRUE,"",6,44,"Replicated across Projects",TRUE
+"RNA","Project-conditioned partial dbRDA","Sampling_region",0,,,,,FALSE,"No Project with >=2 samples per retained level across >=2 levels",0,44,"Not estimable within Project",FALSE
+"RNA","Project-conditioned partial dbRDA","Compartments",1,0.000673596633296929,0.000181691997829247,1.32522447642151,0.9688,FALSE,"No Project with >=2 samples per retained level across >=2 levels",0,44,"Not estimable within Project",TRUE
+"RNA","Project-conditioned partial dbRDA","Status",9,0.00738090011035256,0.00304836580399037,1.61345314931718,0.0464,TRUE,"",14,44,"Replicated across Projects",TRUE

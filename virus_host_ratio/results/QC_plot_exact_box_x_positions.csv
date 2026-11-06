@@ -1,0 +1,22 @@
+"Analysis_Project","Ocean_Basin","Sample_Type","Species","Display_Species","X_Base","Status_Detail","Status_Order","N_Status","Status_Rank","Status_Offset","Box_X"
+"PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis",1.35,"Healthy/Normal",1,3,1,-0.24,1.11
+"PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis",1.35,"Disease: Bleaching lesion",3,3,2,0,1.35
+"PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis",1.35,"Stressed: Heat stress",6,3,3,0.24,1.59
+"PRJNA1034677","Pacific Ocean","Coral fragment","Acropora carduus","Acropora carduus",10.8,"Healthy/Normal",1,2,1,-0.12,10.68
+"PRJNA1034677","Pacific Ocean","Coral fragment","Acropora carduus","Acropora carduus",10.8,"Disease: Pathogen-induced disease",4,2,2,0.12,10.92
+"PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites",5.4,"Healthy/Normal",1,2,1,-0.12,5.28
+"PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites",5.4,"Disease: SCTLD",5,2,2,0.12,5.52
+"PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi",20.25,"Healthy/Normal",1,2,1,-0.12,20.13
+"PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi",20.25,"Stressed: Heat stress",6,2,2,0.12,20.37
+"PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea",21.6,"Healthy/Normal",1,2,1,-0.12,21.48
+"PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea",21.6,"Stressed: Heat stress",6,2,2,0.12,21.72
+"PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi",25.65,"Healthy/Normal",1,2,1,-0.12,25.53
+"PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi",25.65,"Stressed: Heat stress",6,2,2,0.12,25.77
+"PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea",27,"Healthy/Normal",1,2,1,-0.12,26.88
+"PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea",27,"Stressed: Heat stress",6,2,2,0.12,27.12
+"PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata",6.75,"Healthy/Normal",1,2,1,-0.12,6.63
+"PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata",6.75,"Disease: SCTLD",5,2,2,0.12,6.87
+"PRJNA954896","Pacific Ocean","Coral tissue","Acropora muricata","Acropora muricata",16.2,"Healthy/Normal",1,2,1,-0.12,16.08
+"PRJNA954896","Pacific Ocean","Coral tissue","Acropora muricata","Acropora muricata",16.2,"Bleached",2,2,2,0.12,16.32
+"PRJNA995890","Pacific Ocean","Coral fragment","Porites pukoensis","Porites pukoensis",12.15,"Healthy/Normal",1,2,1,-0.12,12.03
+"PRJNA995890","Pacific Ocean","Coral fragment","Porites pukoensis","Porites pukoensis",12.15,"Bleached",2,2,2,0.12,12.27

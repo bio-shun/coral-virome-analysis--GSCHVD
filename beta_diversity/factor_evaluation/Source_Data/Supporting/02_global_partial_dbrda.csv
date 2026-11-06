@@ -1,0 +1,9 @@
+Figure,Panel,Virus,Factor,Factor_label,Analysis,Df,R2,Adj_R2,F,P,Estimable,Note,Source_table,Source_row
+Figure_Global_Four_Factor_Associations,Supporting,DNA,Coral_taxa,Coral taxa,Global partial dbRDA,28,0.186525167640837,0.1687427233528,7.65093911707245,1e-4,TRUE,NA,02_global_partial_dbrda.csv,1
+Figure_Global_Four_Factor_Associations,Supporting,DNA,Sampling_region,Sampling region,Global partial dbRDA,2,0.0189825287137179,0.0190004447198652,10.9008260193041,1e-4,TRUE,NA,02_global_partial_dbrda.csv,2
+Figure_Global_Four_Factor_Associations,Supporting,DNA,Compartments,Compartments,Global partial dbRDA,4,0.0217219844320795,0.0200096134699276,6.23698709110904,1e-4,TRUE,NA,02_global_partial_dbrda.csv,3
+Figure_Global_Four_Factor_Associations,Supporting,DNA,Status,Status,Global partial dbRDA,8,0.00940341403519345,0.00265057692948234,1.34999111460648,0.0096,TRUE,NA,02_global_partial_dbrda.csv,4
+Figure_Global_Four_Factor_Associations,Supporting,RNA,Coral_taxa,Coral taxa,Global partial dbRDA,25,0.27528000305245,0.266489122912916,18.9462268154853,1e-4,TRUE,NA,02_global_partial_dbrda.csv,5
+Figure_Global_Four_Factor_Associations,Supporting,RNA,Sampling_region,Sampling region,Global partial dbRDA,2,0.0227173331095443,0.0227490660618876,19.5440887897672,1e-4,TRUE,NA,02_global_partial_dbrda.csv,6
+Figure_Global_Four_Factor_Associations,Supporting,RNA,Compartments,Compartments,Global partial dbRDA,4,0.0230099276057377,0.0217692694411021,9.89790628160743,1e-4,TRUE,NA,02_global_partial_dbrda.csv,7
+Figure_Global_Four_Factor_Associations,Supporting,RNA,Status,Status,Global partial dbRDA,9,0.0153031000073427,0.010525796536926,2.92566760817475,1e-4,TRUE,NA,02_global_partial_dbrda.csv,8

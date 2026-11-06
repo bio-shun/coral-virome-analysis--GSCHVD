@@ -1,0 +1,69 @@
+,Level1,Level2
+cysH,Metabolism,Energy metabolism
+cysE,Metabolism,Energy metabolism
+E4.2.1.1,Metabolism,Energy metabolism
+psbA,Metabolism,Energy metabolism
+petF,Metabolism,Energy metabolism
+cysC,Metabolism,Energy metabolism
+dmdC,Metabolism,Energy metabolism
+ahbD,Metabolism,Metabolism of cofactors and vitamins
+nadE,Metabolism,Metabolism of cofactors and vitamins
+cobS,Metabolism,Metabolism of cofactors and vitamins
+dxs,Metabolism,Metabolism of cofactors and vitamins
+cobT,Metabolism,Metabolism of cofactors and vitamins
+iscS,Metabolism,Metabolism of cofactors and vitamins
+thiO,Metabolism,Metabolism of cofactors and vitamins
+BDH1,Metabolism,Carbohydrate metabolism
+INO1,Metabolism,Carbohydrate metabolism
+gph,Metabolism,Carbohydrate metabolism
+frmA,Metabolism,Carbohydrate metabolism
+GLO1,Metabolism,Carbohydrate metabolism
+ppdK,Metabolism,Carbohydrate metabolism
+croR,Metabolism,Carbohydrate metabolism
+garL,Metabolism,Carbohydrate metabolism
+ttuC,Metabolism,Carbohydrate metabolism
+acmA,Metabolism,Carbohydrate metabolism
+gpmB,Metabolism,Carbohydrate metabolism
+E4.1.3.25,Metabolism,Carbohydrate metabolism
+butA,Metabolism,Carbohydrate metabolism
+metY,Metabolism,Amino acid metabolism
+asnB,Metabolism,Amino acid metabolism
+arcA,Metabolism,Amino acid metabolism
+aroB,Metabolism,Amino acid metabolism
+aroK,Metabolism,Amino acid metabolism
+E3.5.99.7,Metabolism,Amino acid metabolism
+E1.4.1.9,Metabolism,Amino acid metabolism
+rhlI,Metabolism,Amino acid metabolism
+raiI,Metabolism,Amino acid metabolism
+rocF,Metabolism,Amino acid metabolism
+AROA1,Metabolism,Amino acid metabolism
+hpaI,Metabolism,Amino acid metabolism
+argO,Metabolism,Amino acid metabolism
+ltaE,Metabolism,Amino acid metabolism
+pntH,Metabolism,Biosynthesis of other secondary metabolites
+besE,Metabolism,Biosynthesis of other secondary metabolites
+prnA,Metabolism,Biosynthesis of other secondary metabolites
+E2.3.1.318,Metabolism,Xenobiotics biodegradation and metabolism
+pchB,Metabolism,Metabolism of terpenoids and polyketides
+panD,Metabolism,Metabolism of other amino acids
+phoH,Not Included in Pathway or Brite,Unclassified: signaling and cellular processes
+phoH2,Not Included in Pathway or Brite,Unclassified: signaling and cellular processes
+nosD,Not Included in Pathway or Brite,Unclassified: signaling and cellular processes
+AOX1,Not Included in Pathway or Brite,Unclassified: metabolism
+eutL,Not Included in Pathway or Brite,Unclassified: metabolism
+K07336,Not Included in Pathway or Brite,Unclassified: metabolism
+iscU,Not Included in Pathway or Brite,Unclassified: metabolism
+pstS,Environmental Information Processing,Membrane transport
+oppA,Environmental Information Processing,Membrane transport
+mcp,Environmental Information Processing,Signal transduction
+ABC.SN.P,Brite Hierarchies,Protein families: signaling and cellular processes
+ClpP (VF0072/4),Other,VFG
+Type IV pili (AI111/VF0075/82/31),Other,VFG
+LOS (VF0326),Other,VFG
+Capsule (VF0003),Other,VFG
+Agf (VF0103),Other,VFG
+Zot (VF0129),Other,VFG
+Dot/Icm (SS047),Other,VFG
+DNase (VF0252),Other,VFG
+Flagella (VF0430),Other,VFG
+Bsa T3SS (VF0428),Other,VFG

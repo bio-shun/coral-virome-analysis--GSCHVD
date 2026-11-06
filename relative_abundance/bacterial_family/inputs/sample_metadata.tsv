@@ -1,0 +1,493 @@
+Sample	Project	Data_Type	Sample_Type	Coral_host_Family	Coral_host_Genus	Coral_Host_Species	Status	Location	Ocean_Basin	Country	Region
+ERR7057624	PRJEB48073	Metagenome	Coral mucus	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Healthy/Normal	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057625	PRJEB48073	Metagenome	Coral skeleton	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Healthy/Normal	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057626	PRJEB48073	Metagenome	Coral tissue	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Healthy/Normal	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057627	PRJEB48073	Metagenome	Coral mucus	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Healthy/Normal	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057628	PRJEB48073	Metagenome	Coral skeleton	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Healthy/Normal	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057629	PRJEB48073	Metagenome	Coral tissue	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Healthy/Normal	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057630	PRJEB48073	Metagenome	Coral mucus	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Healthy/Normal	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057631	PRJEB48073	Metagenome	Coral skeleton	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Healthy/Normal	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057632	PRJEB48073	Metagenome	Coral tissue	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Healthy/Normal	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057634	PRJEB48073	Metagenome	Coral skeleton	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057635	PRJEB48073	Metagenome	Coral tissue	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057636	PRJEB48073	Metagenome	Coral mucus	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057637	PRJEB48073	Metagenome	Coral skeleton	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057638	PRJEB48073	Metagenome	Coral tissue	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057639	PRJEB48073	Metagenome	Coral mucus	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057640	PRJEB48073	Metagenome	Coral skeleton	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057641	PRJEB48073	Metagenome	Coral tissue	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057642	PRJEB48073	Metagenome	Coral mucus	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057643	PRJEB48073	Metagenome	Coral skeleton	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057644	PRJEB48073	Metagenome	Coral tissue	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057645	PRJEB48073	Metagenome	Coral mucus	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057646	PRJEB48073	Metagenome	Coral skeleton	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057647	PRJEB48073	Metagenome	Coral tissue	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057648	PRJEB48073	Metagenome	Coral mucus	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057649	PRJEB48073	Metagenome	Coral skeleton	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+ERR7057650	PRJEB48073	Metagenome	Coral tissue	Dendrophylliidae	Balanophyllia	Balanophyllia europaea	Stressed(Acidification stress)	Italy: Panarea island	Mediterranean Sea	Italy	Aeolian Islands
+SRR10686924	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR10686927	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR10686933	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR10686945	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR10686946	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR10686948	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR10801146	PRJNA597953	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801147	PRJNA597953	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801149	PRJNA597953	Metagenome	Coral mucus	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801150	PRJNA597953	Metagenome	Coral mucus	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801152	PRJNA597953	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801153	PRJNA597953	Metagenome	Coral mucus	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801154	PRJNA597953	Metagenome	Coral mucus	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801156	PRJNA597953	Metagenome	Coral mucus	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801157	PRJNA597953	Metagenome	Coral mucus	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801159	PRJNA597953	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801160	PRJNA597953	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR10801161	PRJNA597953	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR12286143	PRJNA647466	Metagenome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora sp.	Healthy/Normal	French Polynesia: Mo'orea north shore forereef	Pacific Ocean	French Polynesia	Moorea
+SRR12286144	PRJNA647466	Metagenome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora sp.	Bleached	French Polynesia: Mo'orea north shore forereef	Pacific Ocean	French Polynesia	Moorea
+SRR12286145	PRJNA647466	Metagenome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora sp.	Healthy/Normal	French Polynesia: Mo'orea north shore forereef	Pacific Ocean	French Polynesia	Moorea
+SRR12286146	PRJNA647466	Metagenome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora sp.	Bleached	French Polynesia: Mo'orea north shore forereef	Pacific Ocean	French Polynesia	Moorea
+SRR12286147	PRJNA647466	Metagenome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora sp.	Healthy/Normal	French Polynesia: Mo'orea north shore forereef	Pacific Ocean	French Polynesia	Moorea
+SRR12286148	PRJNA647466	Metagenome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora sp.	Bleached	French Polynesia: Mo'orea north shore forereef	Pacific Ocean	French Polynesia	Moorea
+SRR15959990	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15959991	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15959992	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15959993	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15959994	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15959995	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15959996	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15959997	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15959998	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15959999	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960000	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960001	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960002	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960003	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960004	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960005	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960006	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960007	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960008	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960009	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960010	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960011	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960012	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960013	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960014	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960015	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960016	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960017	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960018	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960019	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960020	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960021	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960022	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960023	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960024	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Dichocoenia	Dichocoenia stokesii	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960025	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960026	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960027	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960028	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960029	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960030	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960031	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960032	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960033	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960034	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960035	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960036	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960037	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960038	PRJNA576217	Metagenome	Coral tissue	Meandrinidae	Meandrina	Meandrina meandrites	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960039	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960040	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960041	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960042	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960043	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960044	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960045	PRJNA576217	Metagenome	Coral tissue	Astrocoeniidae	Stephanocoenia	Stephanocoenia intersepta	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960046	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Disease(SCTLD)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR15960047	PRJNA576217	Metagenome	Coral tissue	Mussidae	Diploria	Diploria labyrinthiformis	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR18532171	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532172	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532173	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532174	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532175	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532176	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532177	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532178	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532179	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532180	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532181	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532182	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532183	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532188	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532205	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532206	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532207	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532208	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532209	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532210	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532211	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532212	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532213	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532214	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532215	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532216	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532217	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532218	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532219	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532220	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532221	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532223	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532224	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532225	PRJNA757245	Metagenome	Coral endolithic band	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532226	PRJNA757245	Metagenome	Coral skeleton	Merulinidae	Goniastrea	Goniastrea edwardsi	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532243	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532244	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532245	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532246	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532247	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532248	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532249	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532250	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532251	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532252	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532253	PRJNA757245	Metagenome	Coral endolithic band	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532257	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR18532259	PRJNA757245	Metagenome	Coral skeleton	Poritidae	Porites	Porites lutea	Stressed(Heat stress)	Saudi Arabia: Abu Shoosha Reef, Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR21856056	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR21856057	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR21856058	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR21856060	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR21856061	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR21856062	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR21856063	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR21856064	PRJNA595374	Metagenome	Coral mucus	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	North America: Bermuda	Atlantic Ocean	Bermuda	Bermuda
+SRR23162916	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162917	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162918	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162919	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162920	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162921	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162922	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162923	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162924	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162925	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162926	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162927	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162928	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162929	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162930	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162931	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162932	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162933	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162934	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162935	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162936	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162937	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162938	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162939	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162940	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162941	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162942	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162943	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162944	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162945	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162946	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162947	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162948	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162949	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162950	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162951	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162952	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162953	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162954	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162955	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162956	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162957	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162958	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162959	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162960	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162961	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162962	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162963	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162964	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162965	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162966	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162967	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162968	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162969	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162970	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162971	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162972	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162973	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162974	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162975	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162976	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162977	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162978	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162979	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162980	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162981	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162982	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162983	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,South ECA	Atlantic Ocean	USA	Florida
+SRR23162984	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162985	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162986	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162987	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162988	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162989	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162990	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162991	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162992	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23162993	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162994	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162995	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23162996	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23162997	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162998	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23162999	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23163000	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23163001	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Looe Key	Atlantic Ocean	USA	Florida
+SRR23163002	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,North ECA	Atlantic Ocean	USA	Florida
+SRR23163003	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal(Exposed)	USA: FL,Sand Key	Atlantic Ocean	USA	Florida
+SRR23163004	PRJNA925892	Metagenome	Coral tissue	Merulinidae	Orbicella	Orbicella faveolata	Disease(SCTLD)	USA: FL,Middle ECA	Atlantic Ocean	USA	Florida
+SRR23240485	PRJNA928230	Metagenome	Coral polyp	Merulinidae	Favites	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR23240486	PRJNA928230	Metagenome	Coral polyp	Merulinidae	Favites	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR23240487	PRJNA928230	Metagenome	Coral polyp	Merulinidae	Favites	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR23240488	PRJNA928230	Metagenome	Coral polyp	Merulinidae	Favites	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR23240489	PRJNA928230	Metagenome	Coral polyp	Merulinidae	Favites	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR23240490	PRJNA928230	Metagenome	Coral polyp	Merulinidae	Favites	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR23240491	PRJNA928230	Metagenome	Coral polyp	Merulinidae	Favites	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR23240492	PRJNA928230	Metagenome	Coral polyp	Merulinidae	Favites	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR23240494	PRJNA928230	Metagenome	Coral polyp	Merulinidae	Favites	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR23240495	PRJNA928230	Metagenome	Coral polyp	Merulinidae	Favites	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR23240496	PRJNA928230	Metagenome	Coral polyp	Fungiidae	Fungia	Favites abdita	Unkonwn	India: Palkbay	Indian Ocean	India	Tamil Nadu
+SRR24164687	PRJNA954896	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora muricata	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR24164688	PRJNA954896	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora muricata	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR24164689	PRJNA954896	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora muricata	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR24164690	PRJNA954896	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora muricata	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR24164691	PRJNA954896	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora muricata	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR24164692	PRJNA954896	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora muricata	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343827	PRJNA995890	Metagenome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343828	PRJNA995890	Metagenome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343829	PRJNA995890	Metagenome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343830	PRJNA995890	Metagenome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343831	PRJNA995890	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora digitifera	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343832	PRJNA995890	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora digitifera	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343833	PRJNA995890	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora digitifera	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343834	PRJNA995890	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora digitifera	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343835	PRJNA995890	Metagenome	Coral fragment	Poritidae	Porites	Porites pukoensis	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343836	PRJNA995890	Metagenome	Coral fragment	Poritidae	Porites	Porites pukoensis	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343837	PRJNA995890	Metagenome	Coral fragment	Poritidae	Porites	Porites pukoensis	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343838	PRJNA995890	Metagenome	Coral fragment	Poritidae	Porites	Porites pukoensis	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343839	PRJNA995890	Metagenome	Coral fragment	Poritidae	Porites	Porites pukoensis	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343840	PRJNA995890	Metagenome	Coral fragment	Poritidae	Porites	Porites pukoensis	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343841	PRJNA995890	Metagenome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343842	PRJNA995890	Metagenome	Coral fragment	Euphylliidae	Galaxea	Galaxea fascicularis	Bleached	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343843	PRJNA995890	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora digitifera	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25343844	PRJNA995890	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora digitifera	Healthy/Normal	China: Hainan Luhuitou peninsula coastal areas	Pacific Ocean	China	Hainan
+SRR25503020	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Stressed(Heat stress)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503021	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Stressed(Heat stress)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503022	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Stressed(Heat stress)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503023	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Disease (Bleaching lesion)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503024	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Disease (Bleaching lesion)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503025	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Disease (Bleaching lesion)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503026	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Healthy/Normal(Nitrogen enrichment)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503027	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Treated/Recovery	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503028	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Healthy/Normal(Nitrogen enrichment)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503029	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Healthy/Normal(Nitrogen enrichment)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503030	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Stressed(Heat stress)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503031	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Stressed(Heat stress)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503032	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Stressed(Heat stress)	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR25503033	PRJNA1001615	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora pharaonis	Treated/Recovery	United Arab Emirates	Arabian Gulf	United Arab Emirates	Arabian Gulf
+SRR26249207	PRJNA1023010	Metagenome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	China: Miaowan Island	Pacific Ocean	China	Guangdong
+SRR26493830	PRJNA1028846	Metagenome	Coral surface and interior segments	Euphylliidae	Galaxea	Galaxea astreata	Healthy/Normal	China: Penghu, Taiwan	Pacific Ocean	China	Taiwan
+SRR26493831	PRJNA1028846	Metagenome	Coral surface and interior segments	Euphylliidae	Galaxea	Galaxea astreata	Healthy/Normal	China: Penghu, Taiwan	Pacific Ocean	China	Taiwan
+SRR26493832	PRJNA1028846	Metagenome	Coral surface and interior segments	Euphylliidae	Galaxea	Galaxea astreata	Healthy/Normal	China: Penghu, Taiwan	Pacific Ocean	China	Taiwan
+SRR26640714	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Treated/Recovery	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640715	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Disease (Pathogen-induced disease)	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640716	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Disease (Pathogen-induced disease)	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640717	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Disease (Pathogen-induced disease)	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640718	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Healthy/Normal	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640719	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Healthy/Normal	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640720	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Healthy/Normal	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640721	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Healthy/Normal	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640722	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Treated/Recovery	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640723	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Treated/Recovery	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640724	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Healthy/Normal	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26640725	PRJNA1034677	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora carduus	Healthy/Normal	China: Sanya, Hainan Island	Pacific Ocean	China	Hainan
+SRR26661785	PRJNA1035279	Metagenome	Coral mucus	Acroporidae	Acropora	Acropora pruinosa	Healthy/Normal	China: Dapeng Bay, Shenzhen	Pacific Ocean	China	Guangdong
+SRR26661786	PRJNA1035279	Metagenome	Coral mucus	Acroporidae	Acropora	Acropora pruinosa	Healthy/Normal	China: Dapeng Bay, Shenzhen	Pacific Ocean	China	Guangdong
+SRR26661787	PRJNA1035279	Metagenome	Coral mucus	Acroporidae	Acropora	Acropora pruinosa	Healthy/Normal	China: Dapeng Bay, Shenzhen	Pacific Ocean	China	Guangdong
+SRR26661788	PRJNA1035279	Metagenome	Coral mucus	Acroporidae	Acropora	Acropora pruinosa	Healthy/Normal	China: Dapeng Bay, Shenzhen	Pacific Ocean	China	Guangdong
+SRR26661797	PRJNA1035279	Metagenome	Coral mucus	Acroporidae	Acropora	Acropora pruinosa	Healthy/Normal	China: Dapeng Bay, Shenzhen	Pacific Ocean	China	Guangdong
+SRR26661798	PRJNA1035279	Metagenome	Coral mucus	Acroporidae	Acropora	Acropora pruinosa	Healthy/Normal	China: Dapeng Bay, Shenzhen	Pacific Ocean	China	Guangdong
+SRR27437733	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437734	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437735	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437736	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437737	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437738	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437739	PRJNA1061506	Metagenome	Coral fragment	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	USA: Miami, Florida	Atlantic Ocean	USA	Florida
+SRR27437740	PRJNA1061506	Metagenome	Coral fragment	Mussidae	Pseudodiploria	Pseudodiploria strigosa	Healthy/Normal	USA: Miami, Florida	Atlantic Ocean	USA	Florida
+SRR27437741	PRJNA1061506	Metagenome	Coral fragment	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	USA: Miami, Florida	Atlantic Ocean	USA	Florida
+SRR27437742	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437743	PRJNA1061506	Metagenome	Coral fragment	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	USA: Miami, Florida	Atlantic Ocean	USA	Florida
+SRR27437744	PRJNA1061506	Metagenome	Coral fragment	Montastraeidae	Montastraea	Montastraea cavernosa	Healthy/Normal	USA: Miami, Florida	Atlantic Ocean	USA	Florida
+SRR27437745	PRJNA1061506	Metagenome	Coral fragment	Mussidae	Diploria	Diploria labyrinthiformis	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437746	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437747	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437748	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437749	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437750	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437751	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437752	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437753	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437754	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437755	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437756	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437757	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437758	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437759	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437760	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437761	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437762	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437763	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437764	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR27437765	PRJNA1061506	Metagenome	Coral fragment	Merulinidae	Orbicella	Orbicella faveolata	Healthy/Normal	Caribbean: Curaçao	Caribbean Sea	Curaçao	Curaçao
+SRR5605611	PRJNA388052	Metagenome	Coral mucus	Montastraeidae	Montastraea	Montastraea cavernosa	Stressed(Heat stress)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784973	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784974	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784975	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784976	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease(Dark Spot Syndrome)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784977	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784978	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784979	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784980	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease(Dark Spot Syndrome)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784981	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nitrogen enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784982	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nitrogen enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784983	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS nitrogen enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784984	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nitrogen enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784985	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nitrogen enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784986	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nitrogen enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784987	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS nitrogen enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784988	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nitrogen enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784989	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease(Dark Spot Syndrome)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784990	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784991	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease(Dark Spot Syndrome)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784992	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease(Dark Spot Syndrome)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784993	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS phosphorus enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784994	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Phosphorus enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784995	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS phosphorus enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784996	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS phosphorus enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784997	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease(Dark Spot Syndrome)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784998	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6784999	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785000	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785005	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785006	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785009	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785010	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785011	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785012	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785013	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785014	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nutrient enrichment (N+P))	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785015	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Phosphorus enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785016	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Phosphorus enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785017	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Phosphorus enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785018	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Phosphorus enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785019	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS nitrogen enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785020	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Nitrogen enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785021	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Healthy/Normal(Phosphorus enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR6785022	PRJNA435753	Metagenome	Coral mucus	Agariciidae	Agaricia	Agaricia sp.	Disease (DSS phosphorus enrichment)	USA: FL, Florida Keys	Atlantic Ocean	USA	Florida
+SRR7058411	PRJNA437202	Metagenome	Coral tissue	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058412	PRJNA437202	Metagenome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora verrucosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058413	PRJNA437202	Metagenome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora verrucosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058414	PRJNA437202	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora cytherea	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058415	PRJNA437202	Metagenome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora verrucosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058416	PRJNA437202	Metagenome	Coral tissue	Diploastreidae	Diploastrea	Diploastrea heliopora	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058417	PRJNA437202	Metagenome	Coral tissue	Diploastreidae	Diploastrea	Diploastrea heliopora	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058418	PRJNA437202	Metagenome	Coral tissue	Diploastreidae	Diploastrea	Diploastrea heliopora	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058419	PRJNA437202	Metagenome	Coral tissue	Diploastreidae	Diploastrea	Diploastrea heliopora	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058420	PRJNA437202	Metagenome	Coral tissue	Fungiidae	Fungia	Fungia sp.	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058421	PRJNA437202	Metagenome	Coral tissue	Diploastreidae	Diploastrea	Diploastrea heliopora	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058422	PRJNA437202	Metagenome	Coral tissue	Fungiidae	Fungia	Fungia sp.	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058423	PRJNA437202	Metagenome	Coral tissue	Fungiidae	Fungia	Fungia sp.	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058424	PRJNA437202	Metagenome	Coral tissue	Fungiidae	Fungia	Fungia sp.	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058425	PRJNA437202	Metagenome	Coral tissue	Fungiidae	Fungia	Fungia sp.	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058426	PRJNA437202	Metagenome	Coral tissue	Merulinidae	Mycedium	Mycedium elephantotus	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058427	PRJNA437202	Metagenome	Coral tissue	Merulinidae	Mycedium	Mycedium elephantotus	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058428	PRJNA437202	Metagenome	Coral tissue	Agariciidae	Pachyseris	Pachyseris speciosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058429	PRJNA437202	Metagenome	Coral tissue	Agariciidae	Pachyseris	Pachyseris speciosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058430	PRJNA437202	Metagenome	Coral tissue	Agariciidae	Pachyseris	Pachyseris speciosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058431	PRJNA437202	Metagenome	Coral tissue	Agariciidae	Pachyseris	Pachyseris speciosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058432	PRJNA437202	Metagenome	Coral tissue	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058433	PRJNA437202	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058434	PRJNA437202	Metagenome	Coral tissue	Agariciidae	Pavona	Pavona varians	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058435	PRJNA437202	Metagenome	Coral tissue	Agariciidae	Pavona	Pavona varians	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058436	PRJNA437202	Metagenome	Coral tissue	Merulinidae	Mycedium	Mycedium elephantotus	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058437	PRJNA437202	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058438	PRJNA437202	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058439	PRJNA437202	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058440	PRJNA437202	Metagenome	Coral tissue	Lobophylliidae	Acanthastrea	Acanthastrea echinata	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058441	PRJNA437202	Metagenome	Coral tissue	Lobophylliidae	Acanthastrea	Acanthastrea echinata	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058442	PRJNA437202	Metagenome	Coral tissue	Lobophylliidae	Acanthastrea	Acanthastrea echinata	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058443	PRJNA437202	Metagenome	Coral tissue	Lobophylliidae	Acanthastrea	Acanthastrea echinata	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058445	PRJNA437202	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora cytherea	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058446	PRJNA437202	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora cytherea	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058447	PRJNA437202	Metagenome	Coral tissue	Lobophylliidae	Acanthastrea	Acanthastrea echinata	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058448	PRJNA437202	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058449	PRJNA437202	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora cytherea	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058450	PRJNA437202	Metagenome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058454	PRJNA437202	Metagenome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058455	PRJNA437202	Metagenome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058456	PRJNA437202	Metagenome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058457	PRJNA437202	Metagenome	Coral tissue	Euphylliidae	Galaxea	Galaxea fascicularis	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058458	PRJNA437202	Metagenome	Coral tissue	Caryophylliidae	Plerogyra	Plerogyra sinuosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058459	PRJNA437202	Metagenome	Coral tissue	Caryophylliidae	Plerogyra	Plerogyra sinuosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058460	PRJNA437202	Metagenome	Coral tissue	Caryophylliidae	Plerogyra	Plerogyra sinuosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058461	PRJNA437202	Metagenome	Coral tissue	Caryophylliidae	Plerogyra	Plerogyra sinuosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058464	PRJNA437202	Metagenome	Coral tissue	Agariciidae	Pavona	Pavona varians	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058465	PRJNA437202	Metagenome	Coral tissue	Agariciidae	Pavona	Pavona varians	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058466	PRJNA437202	Metagenome	Coral tissue	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058467	PRJNA437202	Metagenome	Coral tissue	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058471	PRJNA437202	Metagenome	Coral tissue	Merulinidae	Mycedium	Mycedium elephantotus	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058473	PRJNA437202	Metagenome	Coral tissue	Pocilloporidae	Pocillopora	Pocillopora verrucosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058474	PRJNA437202	Metagenome	Coral tissue	Agariciidae	Pavona	Pavona varians	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058475	PRJNA437202	Metagenome	Coral tissue	Acroporidae	Acropora	Acropora cytherea	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058476	PRJNA437202	Metagenome	Coral tissue	Agariciidae	Pachyseris	Pachyseris speciosa	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7058477	PRJNA437202	Metagenome	Coral tissue	Pocilloporidae	Stylophora	Stylophora pistillata	Healthy/Normal	Saudi Arabia: Al Fahal Reef, Central Red Sea	Red Sea	Saudi Arabia	Red Sea
+SRR7418762	PRJNA477682	Metagenome	Coral skeleton	Acroporidae	Isopora	Isopora palifera	Healthy/Normal	China: Ludao, SE Taiwan	Pacific Ocean	China	Taiwan
+SRR7418763	PRJNA477682	Metagenome	Coral skeleton	Acroporidae	Isopora	Isopora palifera	Healthy/Normal	China: Ludao, SE Taiwan	Pacific Ocean	China	Taiwan
+SRR7418764	PRJNA477682	Metagenome	Coral skeleton	Acroporidae	Isopora	Isopora palifera	Healthy/Normal	China: Ludao, SE Taiwan	Pacific Ocean	China	Taiwan
+SRR7418765	PRJNA477682	Metagenome	Coral skeleton	Acroporidae	Isopora	Isopora palifera	Healthy/Normal	China: Ludao, SE Taiwan	Pacific Ocean	China	Taiwan
+SRR7418766	PRJNA477682	Metagenome	Coral skeleton	Acroporidae	Isopora	Isopora palifera	Healthy/Normal	China: Ludao, SE Taiwan	Pacific Ocean	China	Taiwan
+SRR7418767	PRJNA477682	Metagenome	Coral skeleton	Acroporidae	Isopora	Isopora palifera	Healthy/Normal	China: Ludao, SE Taiwan	Pacific Ocean	China	Taiwan
+SRR7418768	PRJNA477682	Metagenome	Coral skeleton	Acroporidae	Isopora	Isopora palifera	Healthy/Normal	China: Ludao, SE Taiwan	Pacific Ocean	China	Taiwan
+SRR7418769	PRJNA477682	Metagenome	Coral skeleton	Acroporidae	Isopora	Isopora palifera	Healthy/Normal	China: Ludao, SE Taiwan	Pacific Ocean	China	Taiwan
+SRR7418770	PRJNA477682	Metagenome	Coral skeleton	Acroporidae	Isopora	Isopora palifera	Healthy/Normal	China: Ludao, SE Taiwan	Pacific Ocean	China	Taiwan
+SRR8664771	PRJNA525179	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Bleached	China: Xiane Reef, Nansha Islands, South China Sea	Pacific Ocean	China	South China Sea
+SRR8664772	PRJNA525179	Metagenome	Coral fragment	Acroporidae	Acropora	Acropora tenuis	Healthy/Normal	China: Xiane Reef, Nansha Islands, South China Sea	Pacific Ocean	China	South China Sea
+SRR8664773	PRJNA525179	Metagenome	Coral fragment	Merulinidae	Goniastrea	Goniastrea minuta	Bleached	China: Xiane Reef, Nansha Islands, South China Sea	Pacific Ocean	China	South China Sea
+SRR8664774	PRJNA525179	Metagenome	Coral fragment	Merulinidae	Goniastrea	Goniastrea minuta	Healthy/Normal	China: Xiane Reef, Nansha Islands, South China Sea	Pacific Ocean	China	South China Sea
+SRR8664775	PRJNA525179	Metagenome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora verrucosa	Bleached	China: Xiane Reef, Nansha Islands, South China Sea	Pacific Ocean	China	South China Sea
+SRR8664776	PRJNA525179	Metagenome	Coral fragment	Pocilloporidae	Pocillopora	Pocillopora verrucosa	Healthy/Normal	China: Xiane Reef, Nansha Islands, South China Sea	Pacific Ocean	China	South China Sea
+SRR9182856	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9182857	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9182860	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9182861	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9182863	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9182864	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9182866	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9182867	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9182869	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9182870	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9219370	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9219371	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9219372	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9219373	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9219374	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9219375	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9219376	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland
+SRR9219377	PRJNA545004	Metagenome	Coral tissue	Poritidae	Porites	Porites lutea	Healthy/Normal	Australia: Orpheus Island, GBR	Pacific Ocean	Australia	Queensland

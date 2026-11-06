@@ -1,0 +1,139 @@
+Compartment,Ocean_Basin,Block_Group,Simplified_Status,Species,Lifestyle,Mean_Rel_Abund
+Fragment,Atlantic Ocean,Healthy,Healthy,Montastraea cavernosa,Lysogenic,36.52325459773724
+Fragment,Atlantic Ocean,Healthy,Healthy,Montastraea cavernosa,Unknown,63.476745402262765
+Fragment,Atlantic Ocean,Healthy,Healthy,Pseudodiploria strigosa,Lysogenic,3.122107048766192
+Fragment,Atlantic Ocean,Healthy,Healthy,Pseudodiploria strigosa,Unknown,96.87789295123382
+Fragment,Caribbean Sea,Healthy,Healthy,Diploria labyrinthiformis,Lysogenic,2.1040365958308014
+Fragment,Caribbean Sea,Healthy,Healthy,Diploria labyrinthiformis,Unknown,97.8959634041692
+Fragment,Caribbean Sea,Healthy,Healthy,Orbicella faveolata,Lysogenic,11.974174254308481
+Fragment,Caribbean Sea,Healthy,Healthy,Orbicella faveolata,Unknown,88.02582574569152
+Fragment,Pacific Ocean,Bleached,Bleached,Acropora digitifera,Lysogenic,17.528018772696026
+Fragment,Pacific Ocean,Bleached,Bleached,Acropora digitifera,Unknown,82.47198122730397
+Fragment,Pacific Ocean,Bleached,Bleached,Acropora tenuis,Lysogenic,42.55162514145752
+Fragment,Pacific Ocean,Bleached,Bleached,Acropora tenuis,Unknown,57.448374858542486
+Fragment,Pacific Ocean,Bleached,Bleached,Galaxea fascicularis,Lysogenic,8.383974633259795
+Fragment,Pacific Ocean,Bleached,Bleached,Galaxea fascicularis,Unknown,91.6160253667402
+Fragment,Pacific Ocean,Bleached,Bleached,Goniastrea minuta,Lysogenic,58.746504748048864
+Fragment,Pacific Ocean,Bleached,Bleached,Goniastrea minuta,Unknown,41.253495251951136
+Fragment,Pacific Ocean,Bleached,Bleached,Pocillopora verrucosa,Lysogenic,5.008279743680393
+Fragment,Pacific Ocean,Bleached,Bleached,Pocillopora verrucosa,Unknown,94.99172025631961
+Fragment,Pacific Ocean,Bleached,Bleached,Porites pukoensis,Lysogenic,18.86849060086633
+Fragment,Pacific Ocean,Bleached,Bleached,Porites pukoensis,Unknown,81.13150939913368
+Fragment,Pacific Ocean,Disease,Disease (Pathogen-induced disease),Acropora carduus,Lysogenic,14.072663326663479
+Fragment,Pacific Ocean,Disease,Disease (Pathogen-induced disease),Acropora carduus,Unknown,85.92733667333651
+Fragment,Pacific Ocean,Healthy,Healthy,Acropora carduus,Lysogenic,4.191144100921055
+Fragment,Pacific Ocean,Healthy,Healthy,Acropora carduus,Unknown,95.80885589907895
+Fragment,Pacific Ocean,Healthy,Healthy,Acropora digitifera,Lysogenic,1.6803905658628575
+Fragment,Pacific Ocean,Healthy,Healthy,Acropora digitifera,Unknown,98.31960943413715
+Fragment,Pacific Ocean,Healthy,Healthy,Acropora tenuis,Lysogenic,1.9104393771456167
+Fragment,Pacific Ocean,Healthy,Healthy,Acropora tenuis,Unknown,98.08956062285439
+Fragment,Pacific Ocean,Healthy,Healthy,Galaxea fascicularis,Lysogenic,6.002144344401037
+Fragment,Pacific Ocean,Healthy,Healthy,Galaxea fascicularis,Unknown,93.99785565559895
+Fragment,Pacific Ocean,Healthy,Healthy,Goniastrea minuta,Lysogenic,33.82637574051168
+Fragment,Pacific Ocean,Healthy,Healthy,Goniastrea minuta,Unknown,66.17362425948834
+Fragment,Pacific Ocean,Healthy,Healthy,Pocillopora verrucosa,Lysogenic,4.709687047995413
+Fragment,Pacific Ocean,Healthy,Healthy,Pocillopora verrucosa,Unknown,95.2903129520046
+Fragment,Pacific Ocean,Healthy,Healthy,Porites pukoensis,Lysogenic,19.45256505600585
+Fragment,Pacific Ocean,Healthy,Healthy,Porites pukoensis,Unknown,80.54743494399416
+Fragment,Pacific Ocean,Other,Treated/Recovery,Acropora carduus,Lysogenic,2.0846785568750583
+Fragment,Pacific Ocean,Other,Treated/Recovery,Acropora carduus,Unknown,97.91532144312495
+Mucus,Atlantic Ocean,Disease,Disease(Dark Spot Syndrome),Siderastrea siderea,Lysogenic,3.4913655144283613
+Mucus,Atlantic Ocean,Disease,Disease(Dark Spot Syndrome),Siderastrea siderea,Unknown,96.50863448557163
+Mucus,Atlantic Ocean,Healthy,Healthy,Pseudodiploria strigosa,Lysogenic,7.516098917632963
+Mucus,Atlantic Ocean,Healthy,Healthy,Pseudodiploria strigosa,Unknown,92.48390108236704
+Mucus,Atlantic Ocean,Healthy,Healthy,Siderastrea siderea,Lysogenic,2.2045499297575875
+Mucus,Atlantic Ocean,Healthy,Healthy,Siderastrea siderea,Unknown,97.79545007024241
+Mucus,Atlantic Ocean,Other,Unknown,Montastraea cavernosa,Lysogenic,0.04896175662386421
+Mucus,Atlantic Ocean,Other,Unknown,Montastraea cavernosa,Unknown,99.95103824337613
+Mucus,Caribbean Sea,Healthy,Healthy,Orbicella faveolata,Lysogenic,6.456676293140905
+Mucus,Caribbean Sea,Healthy,Healthy,Orbicella faveolata,Unknown,93.5433237068591
+Mucus,Caribbean Sea,Healthy,Healthy,Pseudodiploria strigosa,Lysogenic,2.4037130768410564
+Mucus,Caribbean Sea,Healthy,Healthy,Pseudodiploria strigosa,Unknown,97.59628692315894
+Mucus,Mediterranean Sea,Healthy,Healthy,Balanophyllia europaea,Lysogenic,9.847710801845519
+Mucus,Mediterranean Sea,Healthy,Healthy,Balanophyllia europaea,Unknown,90.15228919815448
+Mucus,Mediterranean Sea,Stressed,Stressed(Acidification stress),Balanophyllia europaea,Lysogenic,4.396190105490245
+Mucus,Mediterranean Sea,Stressed,Stressed(Acidification stress),Balanophyllia europaea,Unknown,95.60380989450975
+Mucus,Pacific Ocean,Healthy,Healthy,Acropora pruinosa,Lysogenic,12.61988859507209
+Mucus,Pacific Ocean,Healthy,Healthy,Acropora pruinosa,Unknown,87.38011140492792
+Skeleton,Mediterranean Sea,Healthy,Healthy,Balanophyllia europaea,Lysogenic,3.5006898403402524
+Skeleton,Mediterranean Sea,Healthy,Healthy,Balanophyllia europaea,Unknown,96.49931015965974
+Skeleton,Mediterranean Sea,Stressed,Stressed(Acidification stress),Balanophyllia europaea,Lysogenic,3.151861757996209
+Skeleton,Mediterranean Sea,Stressed,Stressed(Acidification stress),Balanophyllia europaea,Unknown,96.84813824200378
+Skeleton,Pacific Ocean,Healthy,Healthy,Isopora palifera,Lysogenic,17.458935943984294
+Skeleton,Pacific Ocean,Healthy,Healthy,Isopora palifera,Unknown,82.5410640560157
+Skeleton,Red Sea,Healthy,Healthy,Goniastrea edwardsi,Lysogenic,27.53756253064712
+Skeleton,Red Sea,Healthy,Healthy,Goniastrea edwardsi,Unknown,72.46243746935288
+Skeleton,Red Sea,Healthy,Healthy,Porites lutea,Lysogenic,18.282278777772
+Skeleton,Red Sea,Healthy,Healthy,Porites lutea,Unknown,81.717721222228
+Skeleton,Red Sea,Stressed,Stressed(Heat stress),Goniastrea edwardsi,Lysogenic,23.908606137548542
+Skeleton,Red Sea,Stressed,Stressed(Heat stress),Goniastrea edwardsi,Unknown,76.09139386245147
+Skeleton,Red Sea,Stressed,Stressed(Heat stress),Porites lutea,Lysogenic,14.752037027097886
+Skeleton,Red Sea,Stressed,Stressed(Heat stress),Porites lutea,Unknown,85.24796297290212
+Tissue,Arabian Gulf,Disease,Disease (Bleaching lesion),Acropora pharaonis,Lysogenic,11.097648204770163
+Tissue,Arabian Gulf,Disease,Disease (Bleaching lesion),Acropora pharaonis,Unknown,88.90235179522983
+Tissue,Arabian Gulf,Healthy,Healthy,Acropora pharaonis,Lysogenic,11.52812102213357
+Tissue,Arabian Gulf,Healthy,Healthy,Acropora pharaonis,Unknown,88.47187897786644
+Tissue,Arabian Gulf,Other,Treated/Recovery,Acropora pharaonis,Lysogenic,2.1477701817043298
+Tissue,Arabian Gulf,Other,Treated/Recovery,Acropora pharaonis,Unknown,97.85222981829567
+Tissue,Arabian Gulf,Stressed,Stressed(Heat stress),Acropora pharaonis,Lysogenic,4.879148725543391
+Tissue,Arabian Gulf,Stressed,Stressed(Heat stress),Acropora pharaonis,Unknown,95.12085127445661
+Tissue,Atlantic Ocean,Disease,Disease(SCTLD),Dichocoenia stokesii,Lysogenic,3.4001576641078377
+Tissue,Atlantic Ocean,Disease,Disease(SCTLD),Dichocoenia stokesii,Unknown,96.59984233589216
+Tissue,Atlantic Ocean,Disease,Disease(SCTLD),Diploria labyrinthiformis,Lysogenic,1.93224287957875
+Tissue,Atlantic Ocean,Disease,Disease(SCTLD),Diploria labyrinthiformis,Unknown,98.06775712042125
+Tissue,Atlantic Ocean,Disease,Disease(SCTLD),Meandrina meandrites,Lysogenic,3.3060874847224158
+Tissue,Atlantic Ocean,Disease,Disease(SCTLD),Meandrina meandrites,Unknown,96.69391251527759
+Tissue,Atlantic Ocean,Disease,Disease(SCTLD),Orbicella faveolata,Lysogenic,2.0323182722797934
+Tissue,Atlantic Ocean,Disease,Disease(SCTLD),Orbicella faveolata,Unknown,97.9676817277202
+Tissue,Atlantic Ocean,Disease,Disease(SCTLD),Stephanocoenia intersepta,Lysogenic,15.158838631953495
+Tissue,Atlantic Ocean,Disease,Disease(SCTLD),Stephanocoenia intersepta,Unknown,84.8411613680465
+Tissue,Atlantic Ocean,Healthy,Healthy,Dichocoenia stokesii,Lysogenic,3.363035576393969
+Tissue,Atlantic Ocean,Healthy,Healthy,Dichocoenia stokesii,Unknown,96.63696442360603
+Tissue,Atlantic Ocean,Healthy,Healthy,Diploria labyrinthiformis,Lysogenic,1.223983231787553
+Tissue,Atlantic Ocean,Healthy,Healthy,Diploria labyrinthiformis,Unknown,98.77601676821244
+Tissue,Atlantic Ocean,Healthy,Healthy,Meandrina meandrites,Lysogenic,3.755424380332239
+Tissue,Atlantic Ocean,Healthy,Healthy,Meandrina meandrites,Unknown,96.24457561966777
+Tissue,Atlantic Ocean,Healthy,Healthy,Orbicella faveolata,Lysogenic,2.1427608611366926
+Tissue,Atlantic Ocean,Healthy,Healthy,Orbicella faveolata,Unknown,97.8572391388633
+Tissue,Atlantic Ocean,Healthy,Healthy,Stephanocoenia intersepta,Lysogenic,5.910443556805161
+Tissue,Atlantic Ocean,Healthy,Healthy,Stephanocoenia intersepta,Unknown,94.08955644319484
+Tissue,Mediterranean Sea,Healthy,Healthy,Balanophyllia europaea,Lysogenic,3.030003717928988
+Tissue,Mediterranean Sea,Healthy,Healthy,Balanophyllia europaea,Unknown,96.96999628207101
+Tissue,Mediterranean Sea,Stressed,Stressed(Acidification stress),Balanophyllia europaea,Lysogenic,3.6036056927970774
+Tissue,Mediterranean Sea,Stressed,Stressed(Acidification stress),Balanophyllia europaea,Unknown,96.39639430720293
+Tissue,Pacific Ocean,Bleached,Bleached,Acropora muricata,Lysogenic,39.259770962119575
+Tissue,Pacific Ocean,Bleached,Bleached,Acropora muricata,Unknown,60.740229037880425
+Tissue,Pacific Ocean,Bleached,Bleached,Pocillopora sp.,Lysogenic,0.7077048888901515
+Tissue,Pacific Ocean,Bleached,Bleached,Pocillopora sp.,Unknown,99.29229511110985
+Tissue,Pacific Ocean,Healthy,Healthy,Acropora muricata,Lysogenic,8.157290964867483
+Tissue,Pacific Ocean,Healthy,Healthy,Acropora muricata,Unknown,91.84270903513251
+Tissue,Pacific Ocean,Healthy,Healthy,Galaxea fascicularis,Lysogenic,21.03797530629273
+Tissue,Pacific Ocean,Healthy,Healthy,Galaxea fascicularis,Unknown,78.96202469370728
+Tissue,Pacific Ocean,Healthy,Healthy,Pocillopora sp.,Lysogenic,1.3894312116000973
+Tissue,Pacific Ocean,Healthy,Healthy,Pocillopora sp.,Unknown,98.6105687883999
+Tissue,Pacific Ocean,Healthy,Healthy,Porites lutea,Lysogenic,8.93472438472907
+Tissue,Pacific Ocean,Healthy,Healthy,Porites lutea,Unknown,91.06527561527093
+Tissue,Red Sea,Healthy,Healthy,Acanthastrea echinata,Lysogenic,12.299804770233298
+Tissue,Red Sea,Healthy,Healthy,Acanthastrea echinata,Unknown,87.7001952297667
+Tissue,Red Sea,Healthy,Healthy,Acropora cytherea,Lysogenic,15.18891371276874
+Tissue,Red Sea,Healthy,Healthy,Acropora cytherea,Unknown,84.81108628723126
+Tissue,Red Sea,Healthy,Healthy,Diploastrea heliopora,Lysogenic,4.856963668757015
+Tissue,Red Sea,Healthy,Healthy,Diploastrea heliopora,Unknown,95.14303633124298
+Tissue,Red Sea,Healthy,Healthy,Fungia sp.,Lysogenic,2.7210776580305995
+Tissue,Red Sea,Healthy,Healthy,Fungia sp.,Unknown,97.27892234196939
+Tissue,Red Sea,Healthy,Healthy,Galaxea fascicularis,Lysogenic,1.332977991636207
+Tissue,Red Sea,Healthy,Healthy,Galaxea fascicularis,Unknown,98.6670220083638
+Tissue,Red Sea,Healthy,Healthy,Mycedium elephantotus,Lysogenic,3.5594017251119423
+Tissue,Red Sea,Healthy,Healthy,Mycedium elephantotus,Unknown,96.44059827488806
+Tissue,Red Sea,Healthy,Healthy,Pachyseris speciosa,Lysogenic,12.394783883366957
+Tissue,Red Sea,Healthy,Healthy,Pachyseris speciosa,Unknown,87.60521611663304
+Tissue,Red Sea,Healthy,Healthy,Pavona varians,Lysogenic,4.805921074735627
+Tissue,Red Sea,Healthy,Healthy,Pavona varians,Unknown,95.19407892526436
+Tissue,Red Sea,Healthy,Healthy,Plerogyra sinuosa,Lysogenic,4.898224067414305
+Tissue,Red Sea,Healthy,Healthy,Plerogyra sinuosa,Unknown,95.1017759325857
+Tissue,Red Sea,Healthy,Healthy,Pocillopora verrucosa,Lysogenic,9.58455119641832
+Tissue,Red Sea,Healthy,Healthy,Pocillopora verrucosa,Unknown,90.41544880358168
+Tissue,Red Sea,Healthy,Healthy,Porites lutea,Lysogenic,12.860631986115996
+Tissue,Red Sea,Healthy,Healthy,Porites lutea,Unknown,87.139368013884
+Tissue,Red Sea,Healthy,Healthy,Stylophora pistillata,Lysogenic,7.691561133663307
+Tissue,Red Sea,Healthy,Healthy,Stylophora pistillata,Unknown,92.30843886633669

@@ -1,0 +1,3 @@
+"Group","Nodes","Active_Nodes","Edges","Avg_Degree","Density","Modularity","Components","Largest_Component_N","Largest_Component_Fraction","Positive_Edges","Negative_Edges","Positive_Edge_Ratio"
+"Healthy",18,11,17,1.88888888888889,0.111111111111111,0.524338837424064,10,5,0.277777777777778,17,0,1
+"SCTLD",18,8,8,0.888888888888889,0.0522875816993464,0.403736217930482,13,4,0.222222222222222,8,0,1

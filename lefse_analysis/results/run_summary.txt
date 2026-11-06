@@ -1,0 +1,14 @@
+Complete coral virome pipeline: six input tables -> LEfSe/KW -> results -> DNA/RNA figure.
+UTC run time: 2026-11-05 20:18:02 UTC
+All tested feature/comparison rows: 2199
+Eligible comparisons: 28
+Selected at analysis threshold |LDA| >= 2: 84
+Displayed at |LDA| >= 2.5: 74
+DNA / RNA bubbles: 70 / 4
+Figure width / height (mm): 266.8 / 246.4
+Selection: unadjusted KW P < 0.05, |LDA| >= 2; BH is exported, not used for selection.
+DSS: exact trimws(Status) Healthy/Normal versus Disease(Dark Spot Syndrome).
+No enrichment-labelled samples enter DSS eligibility or DSS model fitting.
+Other comparisons retain their original filtering and statistical framework.
+PDF/SVG: vector; PNG: 300 dpi; TIFF: 600 dpi with LZW compression.
+Main results: results/source_data.tsv; original diagnostic exports: results/audit_tables/.

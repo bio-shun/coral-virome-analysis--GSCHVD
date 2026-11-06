@@ -1,0 +1,77 @@
+Factor,Group,Colour
+Sampling_region,Arabian Gulf,#009E73
+Sampling_region,Atlantic Ocean,#0072B2
+Sampling_region,Caribbean Sea,#D55E00
+Sampling_region,Indian Ocean,#CC79A7
+Sampling_region,Mediterranean Sea,#E69F00
+Sampling_region,Pacific Ocean,#56B4E9
+Sampling_region,Red Sea,#6A3D9A
+Coral_taxa,Acanthastrea echinata,#C66963
+Coral_taxa,Acropora carduus,#C36C55
+Coral_taxa,Acropora cytherea,#BE7047
+Coral_taxa,Acropora digitifera,#B97337
+Coral_taxa,Acropora muricata,#B47724
+Coral_taxa,Acropora pharaonis,#AD7A03
+Coral_taxa,Acropora pruinosa,#A67E00
+Coral_taxa,Acropora tenuis,#9F8100
+Coral_taxa,Balanophyllia europaea,#968400
+Coral_taxa,Colpophyllia natans,#8D8700
+Coral_taxa,Dichocoenia stokesii,#838A00
+Coral_taxa,Diploastrea heliopora,#788D00
+Coral_taxa,Diploria clivosa,#6B9000
+Coral_taxa,Diploria labyrinthiformis,#5D9200
+Coral_taxa,Dipsastraea veroni,#4C9420
+Coral_taxa,Favites abdita,#359634
+Coral_taxa,Fungia sp.,#059844
+Coral_taxa,Galaxea astreata,#009A52
+Coral_taxa,Galaxea fascicularis,#009B5F
+Coral_taxa,Goniastrea edwardsi,#009C6B
+Coral_taxa,Goniastrea minuta,#009C76
+Coral_taxa,Isopora palifera,#009D81
+Coral_taxa,Meandrina meandrites,#009D8C
+Coral_taxa,Montastraea cavernosa,#009C96
+Coral_taxa,Montipora capitata,#009B9F
+Coral_taxa,Montipora peltiformis,#009AA8
+Coral_taxa,Mussismilia hispida,#0098B0
+Coral_taxa,Mycedium elephantotus,#0096B7
+Coral_taxa,Orbicella annularis,#0093BE
+Coral_taxa,Orbicella faveolata,#008FC3
+Coral_taxa,Pachyseris speciosa,#148BC8
+Coral_taxa,Pavona varians,#4487CC
+Coral_taxa,Platygyra carnosa,#5E82CE
+Coral_taxa,Plerogyra sinuosa,#737DCF
+Coral_taxa,Pocillopora acuta,#8478CF
+Coral_taxa,Pocillopora damicornis,#9373CD
+Coral_taxa,Pocillopora meandrina,#A06ECB
+Coral_taxa,Pocillopora sp.,#AB69C7
+Coral_taxa,Pocillopora verrucosa,#B465C2
+Coral_taxa,Porites astreoides,#BB62BC
+Coral_taxa,Porites lutea,#C15FB5
+Coral_taxa,Porites porites,#C65DAD
+Coral_taxa,Porites pukoensis,#C95DA4
+Coral_taxa,Pseudodiploria strigosa,#CB5D9B
+Coral_taxa,Siderastrea radians,#CC5E91
+Coral_taxa,Siderastrea siderea,#CC6086
+Coral_taxa,Stephanocoenia intersepta,#CB627B
+Coral_taxa,Stylophora pistillata,#C9656F
+Compartments,Endolithic band,#377EB8
+Compartments,Fragment,#E72989
+Compartments,Mucus,#1B9E77
+Compartments,Mucus-tissue slurry,#66C2A5
+Compartments,Polyp,#3EB855
+Compartments,Skeleton,#8D40CA
+Compartments,Surface and interior segments,#E6AB02
+Compartments,Tissue,#D95F02
+Status,Bleached,#E31A1C
+Status,Disease (Bleaching lesion),#FD8D3C
+Status,Disease (Pathogen-induced disease),#8073AC
+Status,Disease(Dark Spot Syndrome),#762A83
+Status,Disease(SCTLD),#542788
+Status,Diseased(black band disease),#40004B
+Status,Diseased(white plague disease),#9970AB
+Status,Healthy/Normal,#33A02C
+Status,Others,#999999
+Status,Stressed(Acidification stress),#FDBF6F
+Status,Stressed(Cold stress),#1F78B4
+Status,Stressed(Combined),#B15928
+Status,Stressed(Heat stress),#FF7F00

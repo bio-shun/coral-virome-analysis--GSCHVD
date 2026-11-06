@@ -1,0 +1,35 @@
+"Group","Key","From","To","Sign","Retained_Replicates","Resample_N","Retention","Mean_Abs_Rho","Median_Abs_Rho","Edge_Label","Group_Label","Microviridae_Linked","Retention_Percent","Stable_At_50pct"
+"Healthy","Iridoviridae||Mesomimiviridae","Iridoviridae","Mesomimiviridae","Positive",300,500,0.6,0.79588544499108,0.789712556732224,"Iridoviridae - Mesomimiviridae","Healthy / Normal",FALSE,"60.0%",TRUE
+"SCTLD","Iridoviridae||Mesomimiviridae","Iridoviridae","Mesomimiviridae","Positive",369,500,0.738,0.828453833901786,0.829433962264151,"Iridoviridae - Mesomimiviridae","SCTLD",FALSE,"73.8%",TRUE
+"Healthy","Iridoviridae||Phycodnaviridae","Phycodnaviridae","Iridoviridae","Positive",459,500,0.918,0.855295082132034,0.856603773584906,"Iridoviridae - Phycodnaviridae","Healthy / Normal",FALSE,"91.8%",TRUE
+"SCTLD","Iridoviridae||Phycodnaviridae","Phycodnaviridae","Iridoviridae","Positive",500,500,1,0.930350885474388,0.935923141186299,"Iridoviridae - Phycodnaviridae","SCTLD",FALSE,"100.0%",TRUE
+"Healthy","Iridoviridae||Poxviridae","Iridoviridae","Poxviridae","Positive",390,500,0.78,0.820250384954416,0.807502150971182,"Iridoviridae - Poxviridae","Healthy / Normal",FALSE,"78.0%",TRUE
+"SCTLD","Iridoviridae||Poxviridae","Iridoviridae","Poxviridae","Positive",430,500,0.86,0.868520726418282,0.885499042136897,"Iridoviridae - Poxviridae","SCTLD",FALSE,"86.0%",TRUE
+"Healthy","Phycodnaviridae||Poxviridae","Phycodnaviridae","Poxviridae","Positive",479,500,0.958,0.847412169399373,0.851627554882665,"Phycodnaviridae - Poxviridae","Healthy / Normal",FALSE,"95.8%",TRUE
+"SCTLD","Phycodnaviridae||Poxviridae","Phycodnaviridae","Poxviridae","Positive",493,500,0.986,0.897561560420724,0.909638554216868,"Phycodnaviridae - Poxviridae","SCTLD",FALSE,"98.6%",TRUE
+"Healthy","Mesomimiviridae||Poxviridae","Mesomimiviridae","Poxviridae","Positive",489,500,0.978,0.898291497239904,0.909090909090909,"Mesomimiviridae - Poxviridae","Healthy / Normal",FALSE,"97.8%",TRUE
+"SCTLD","Mesomimiviridae||Poxviridae","Mesomimiviridae","Poxviridae","Positive",481,500,0.962,0.868542109475634,0.879245283018868,"Mesomimiviridae - Poxviridae","SCTLD",FALSE,"96.2%",TRUE
+"Healthy","Mesomimiviridae||Phycodnaviridae","Phycodnaviridae","Mesomimiviridae","Positive",500,500,1,0.914373864737762,0.918879707999828,"Mesomimiviridae - Phycodnaviridae","Healthy / Normal",FALSE,"100.0%",TRUE
+"SCTLD","Mesomimiviridae||Phycodnaviridae","Phycodnaviridae","Mesomimiviridae","Positive",484,500,0.968,0.873184309312376,0.882308412087324,"Mesomimiviridae - Phycodnaviridae","SCTLD",FALSE,"96.8%",TRUE
+"Healthy","Nanoviridae||Schizomimiviridae","Schizomimiviridae","Nanoviridae","Positive",479,500,0.958,0.891286582220711,0.90188679245283,"Nanoviridae - Schizomimiviridae","Healthy / Normal",FALSE,"95.8%",TRUE
+"SCTLD","Nanoviridae||Schizomimiviridae","Schizomimiviridae","Nanoviridae","Positive",433,500,0.866,0.859382675176088,0.873303167420814,"Nanoviridae - Schizomimiviridae","SCTLD",FALSE,"86.6%",TRUE
+"Healthy","Microviridae||Straboviridae","Microviridae","Straboviridae","Positive",500,500,1,0.956082472049833,0.963718820861678,"Microviridae - Straboviridae","Healthy / Normal",TRUE,"100.0%",TRUE
+"SCTLD","Microviridae||Straboviridae","Microviridae","Straboviridae","Positive",427,500,0.854,0.879154773974839,0.893152746425884,"Microviridae - Straboviridae","SCTLD",TRUE,"85.4%",TRUE
+"Healthy","Herelleviridae||Kyanoviridae","Kyanoviridae","Herelleviridae","Positive",314,500,0.628,0.805779842857419,0.794851693943978,"Herelleviridae - Kyanoviridae","Healthy / Normal",FALSE,"62.8%",TRUE
+"SCTLD","Herelleviridae||Kyanoviridae","Kyanoviridae","Herelleviridae","Positive",20,500,0.04,0.769252611708785,0.765641752530484,"Herelleviridae - Kyanoviridae","SCTLD",FALSE,"4.0%",FALSE
+"Healthy","Microviridae||Nanoviridae","Microviridae","Nanoviridae","Positive",492,500,0.984,0.92010916934701,0.930513595166163,"Microviridae - Nanoviridae","Healthy / Normal",TRUE,"98.4%",TRUE
+"SCTLD","Microviridae||Nanoviridae","Microviridae","Nanoviridae","Positive",138,500,0.276,0.853129823737979,0.858922082889381,"Microviridae - Nanoviridae","SCTLD",TRUE,"27.6%",FALSE
+"Healthy","Mimiviridae||Poxviridae","Mimiviridae","Poxviridae","Positive",456,500,0.912,0.823842522544941,0.824375473126419,"Mimiviridae - Poxviridae","Healthy / Normal",FALSE,"91.2%",TRUE
+"SCTLD","Mimiviridae||Poxviridae","Mimiviridae","Poxviridae","Positive",84,500,0.168,0.841095909604248,0.849454250410219,"Mimiviridae - Poxviridae","SCTLD",FALSE,"16.8%",FALSE
+"Healthy","Iridoviridae||Mimiviridae","Mimiviridae","Iridoviridae","Positive",453,500,0.906,0.837691929558411,0.839758125472411,"Iridoviridae - Mimiviridae","Healthy / Normal",FALSE,"90.6%",TRUE
+"SCTLD","Iridoviridae||Mimiviridae","Mimiviridae","Iridoviridae","Positive",77,500,0.154,0.871332004271405,0.894419306184012,"Iridoviridae - Mimiviridae","SCTLD",FALSE,"15.4%",FALSE
+"Healthy","Nanoviridae||Straboviridae","Straboviridae","Nanoviridae","Positive",485,500,0.97,0.886573450270628,0.897203325774754,"Nanoviridae - Straboviridae","Healthy / Normal",FALSE,"97.0%",TRUE
+"SCTLD","Nanoviridae||Straboviridae","Straboviridae","Nanoviridae","Positive",74,500,0.148,0.806535681611256,0.816403206812211,"Nanoviridae - Straboviridae","SCTLD",FALSE,"14.8%",FALSE
+"Healthy","Mimiviridae||Phycodnaviridae","Phycodnaviridae","Mimiviridae","Positive",500,500,1,0.964402993679867,0.966742252456538,"Mimiviridae - Phycodnaviridae","Healthy / Normal",FALSE,"100.0%",TRUE
+"SCTLD","Mimiviridae||Phycodnaviridae","Phycodnaviridae","Mimiviridae","Positive",86,500,0.172,0.898492912097734,0.910324039186134,"Mimiviridae - Phycodnaviridae","SCTLD",FALSE,"17.2%",FALSE
+"Healthy","Mesomimiviridae||Mimiviridae","Mimiviridae","Mesomimiviridae","Positive",500,500,1,0.924213917582899,0.928141135972461,"Mesomimiviridae - Mimiviridae","Healthy / Normal",FALSE,"100.0%",TRUE
+"SCTLD","Mesomimiviridae||Mimiviridae","Mimiviridae","Mesomimiviridae","Positive",83,500,0.166,0.85298993254706,0.871987951807229,"Mesomimiviridae - Mimiviridae","SCTLD",FALSE,"16.6%",FALSE
+"Healthy","Microviridae||Schizomimiviridae","Microviridae","Schizomimiviridae","Positive",500,500,1,0.969815463676378,0.974261908036492,"Microviridae - Schizomimiviridae","Healthy / Normal",TRUE,"100.0%",TRUE
+"SCTLD","Microviridae||Schizomimiviridae","Microviridae","Schizomimiviridae","Positive",67,500,0.134,0.866351643210945,0.886963074604371,"Microviridae - Schizomimiviridae","SCTLD",TRUE,"13.4%",FALSE
+"Healthy","Schizomimiviridae||Straboviridae","Schizomimiviridae","Straboviridae","Positive",498,500,0.996,0.929137549121712,0.937949291154984,"Schizomimiviridae - Straboviridae","Healthy / Normal",FALSE,"99.6%",TRUE
+"SCTLD","Schizomimiviridae||Straboviridae","Schizomimiviridae","Straboviridae","Positive",27,500,0.054,0.80544048437083,0.807083647324793,"Schizomimiviridae - Straboviridae","SCTLD",FALSE,"5.4%",FALSE

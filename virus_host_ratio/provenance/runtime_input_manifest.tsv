@@ -1,0 +1,5 @@
+file	bytes	md5
+virus_abundance.tsv	1118359	78de6d9e69cc4b261bebe42dd10cf2df
+host_abundance.tsv	348508	5ec981bdb489ef4c0ef5c33db0dbab7a
+sample_metadata.tsv	88339	a1c05a6c8fde9ff2f9d2e5b6e96d54df
+virus_host_links.tsv	532154	fb81110a100ad4a82f520c2861509b3d

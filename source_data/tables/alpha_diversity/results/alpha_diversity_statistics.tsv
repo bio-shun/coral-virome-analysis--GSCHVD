@@ -1,0 +1,73 @@
+Assay	Analysis_Project	Ocean_Basin	Clean_Type	Species	Index	.y.	group1	group2	p	p.adj	p.format	p.signif	method	p.adj.BH	p.adj.signif
+DNA	PRJEB48073	Mediterranean Sea	Skeleton	Balanophyllia europaea	Chao1	Value	Healthy	Stressed(Acidification stress)	0.698535358303339	0.7	0.7	ns	Wilcoxon	0.698535358303339	ns
+DNA	PRJEB48073	Mediterranean Sea	Skeleton	Balanophyllia europaea	Shannon	Value	Healthy	Stressed(Acidification stress)	0.897278961260083	0.9	0.9	ns	Wilcoxon	0.897278961260083	ns
+DNA	PRJEB48073	Mediterranean Sea	Tissue	Balanophyllia europaea	Chao1	Value	Healthy	Stressed(Acidification stress)	0.897278961260083	0.9	0.9	ns	Wilcoxon	0.897278961260083	ns
+DNA	PRJEB48073	Mediterranean Sea	Tissue	Balanophyllia europaea	Shannon	Value	Healthy	Stressed(Acidification stress)	1	1	1	ns	Wilcoxon	1	ns
+DNA	PRJNA1001615	Arabian Gulf	Tissue	Acropora pharaonis	Chao1	Value	Healthy	Stressed(Heat stress)	0.518605016428726	1	0.52	ns	Wilcoxon	0.662520583540057	ns
+DNA	PRJNA1001615	Arabian Gulf	Tissue	Acropora pharaonis	Chao1	Value	Healthy	Diseased(Bleaching lesion)	0.662520583540057	1	0.66	ns	Wilcoxon	0.662520583540057	ns
+DNA	PRJNA1001615	Arabian Gulf	Tissue	Acropora pharaonis	Shannon	Value	Healthy	Stressed(Heat stress)	0.698535358303339	1	0.70	ns	Wilcoxon	0.698535358303339	ns
+DNA	PRJNA1001615	Arabian Gulf	Tissue	Acropora pharaonis	Shannon	Value	Healthy	Diseased(Bleaching lesion)	0.662520583540057	1	0.66	ns	Wilcoxon	0.698535358303339	ns
+DNA	PRJNA1034677	Pacific Ocean	Fragment	Acropora carduus	Chao1	Value	Healthy	Diseased(Pathogen-induced)	0.245278116806773	0.25	0.25	ns	Wilcoxon	0.245278116806773	ns
+DNA	PRJNA1034677	Pacific Ocean	Fragment	Acropora carduus	Shannon	Value	Healthy	Diseased(Pathogen-induced)	0.0281858021479074	0.028	0.028	*	Wilcoxon	0.0281858021479074	*
+DNA	PRJNA435753	Atlantic Ocean	Mucus	Siderastrea siderea	Chao1	Value	Healthy	Diseased(Dark Spot Syndrome)	0.026224181348738	0.026	0.026	*	Wilcoxon	0.026224181348738	*
+DNA	PRJNA435753	Atlantic Ocean	Mucus	Siderastrea siderea	Shannon	Value	Healthy	Diseased(Dark Spot Syndrome)	0.112338725829823	0.11	0.11	ns	Wilcoxon	0.112338725829823	ns
+DNA	PRJNA576217	Atlantic Ocean	Tissue	Dichocoenia stokesii	Chao1	Value	Healthy	Diseased(SCTLD)	0.581541002431495	0.58	0.58	ns	Wilcoxon	0.581541002431495	ns
+DNA	PRJNA576217	Atlantic Ocean	Tissue	Dichocoenia stokesii	Shannon	Value	Healthy	Diseased(SCTLD)	0.759462865379934	0.76	0.76	ns	Wilcoxon	0.759462865379934	ns
+DNA	PRJNA576217	Atlantic Ocean	Tissue	Diploria labyrinthiformis	Chao1	Value	Healthy	Diseased(SCTLD)	0.581541002431495	0.58	0.58	ns	Wilcoxon	0.581541002431495	ns
+DNA	PRJNA576217	Atlantic Ocean	Tissue	Diploria labyrinthiformis	Shannon	Value	Healthy	Diseased(SCTLD)	0.759462865379934	0.76	0.76	ns	Wilcoxon	0.759462865379934	ns
+DNA	PRJNA576217	Atlantic Ocean	Tissue	Meandrina meandrites	Chao1	Value	Healthy	Diseased(SCTLD)	0.672603817441517	0.67	0.67	ns	Wilcoxon	0.672603817441517	ns
+DNA	PRJNA576217	Atlantic Ocean	Tissue	Meandrina meandrites	Shannon	Value	Healthy	Diseased(SCTLD)	0.150785565027971	0.15	0.15	ns	Wilcoxon	0.150785565027971	ns
+DNA	PRJNA576217	Atlantic Ocean	Tissue	Stephanocoenia intersepta	Chao1	Value	Healthy	Diseased(SCTLD)	0.500559497818139	0.5	0.5	ns	Wilcoxon	0.500559497818139	ns
+DNA	PRJNA576217	Atlantic Ocean	Tissue	Stephanocoenia intersepta	Shannon	Value	Healthy	Diseased(SCTLD)	0.244623605126983	0.24	0.24	ns	Wilcoxon	0.244623605126983	ns
+DNA	PRJNA647466	Pacific Ocean	Tissue	Pocillopora sp.	Chao1	Value	Healthy	Bleached	0.382733088885226	0.38	0.38	ns	Wilcoxon	0.382733088885226	ns
+DNA	PRJNA647466	Pacific Ocean	Tissue	Pocillopora sp.	Shannon	Value	Healthy	Bleached	0.662520583540057	0.66	0.66	ns	Wilcoxon	0.662520583540057	ns
+DNA	PRJNA757245	Red Sea	Endolithic band	Goniastrea edwardsi	Chao1	Value	Healthy	Stressed(Heat stress)	0.784191229401619	0.78	0.78	ns	Wilcoxon	0.784191229401619	ns
+DNA	PRJNA757245	Red Sea	Endolithic band	Goniastrea edwardsi	Shannon	Value	Healthy	Stressed(Heat stress)	0.411313791776259	0.41	0.41	ns	Wilcoxon	0.411313791776259	ns
+DNA	PRJNA757245	Red Sea	Endolithic band	Porites lutea	Chao1	Value	Healthy	Stressed(Heat stress)	1	1	1	ns	Wilcoxon	1	ns
+DNA	PRJNA757245	Red Sea	Endolithic band	Porites lutea	Shannon	Value	Healthy	Stressed(Heat stress)	0.688920555804461	0.69	0.69	ns	Wilcoxon	0.688920555804461	ns
+DNA	PRJNA757245	Red Sea	Skeleton	Goniastrea edwardsi	Chao1	Value	Healthy	Stressed(Heat stress)	0.378477593244679	0.38	0.38	ns	Wilcoxon	0.378477593244679	ns
+DNA	PRJNA757245	Red Sea	Skeleton	Goniastrea edwardsi	Shannon	Value	Healthy	Stressed(Heat stress)	0.810181236410474	0.81	0.81	ns	Wilcoxon	0.810181236410474	ns
+DNA	PRJNA757245	Red Sea	Skeleton	Porites lutea	Chao1	Value	Healthy	Stressed(Heat stress)	0.378477593244679	0.38	0.38	ns	Wilcoxon	0.378477593244679	ns
+DNA	PRJNA757245	Red Sea	Skeleton	Porites lutea	Shannon	Value	Healthy	Stressed(Heat stress)	0.810181236410474	0.81	0.81	ns	Wilcoxon	0.810181236410474	ns
+DNA	PRJNA925892	Atlantic Ocean	Tissue	Orbicella faveolata	Chao1	Value	Healthy	Diseased(SCTLD)	0.683330393341085	0.68	0.68	ns	Wilcoxon	0.683330393341085	ns
+DNA	PRJNA925892	Atlantic Ocean	Tissue	Orbicella faveolata	Shannon	Value	Healthy	Diseased(SCTLD)	0.794492931987371	0.79	0.79	ns	Wilcoxon	0.794492931987371	ns
+DNA	PRJNA954896	Pacific Ocean	Tissue	Acropora muricata	Chao1	Value	Healthy	Bleached	0.0808555983700523	0.081	0.081	ns	Wilcoxon	0.0808555983700523	ns (trend)
+DNA	PRJNA954896	Pacific Ocean	Tissue	Acropora muricata	Shannon	Value	Healthy	Bleached	0.0808555983700523	0.081	0.081	ns	Wilcoxon	0.0808555983700523	ns (trend)
+DNA	PRJNA995890	Pacific Ocean	Fragment	Acropora digitifera	Chao1	Value	Healthy	Bleached	0.190430263825524	0.19	0.19	ns	Wilcoxon	0.190430263825524	ns
+DNA	PRJNA995890	Pacific Ocean	Fragment	Acropora digitifera	Shannon	Value	Healthy	Bleached	0.0808555983700523	0.081	0.081	ns	Wilcoxon	0.0808555983700523	ns (trend)
+DNA	PRJNA995890	Pacific Ocean	Fragment	Galaxea fascicularis	Chao1	Value	Healthy	Bleached	0.662520583540057	0.66	0.66	ns	Wilcoxon	0.662520583540057	ns
+DNA	PRJNA995890	Pacific Ocean	Fragment	Galaxea fascicularis	Shannon	Value	Healthy	Bleached	0.662520583540057	0.66	0.66	ns	Wilcoxon	0.662520583540057	ns
+DNA	PRJNA995890	Pacific Ocean	Fragment	Porites pukoensis	Chao1	Value	Healthy	Bleached	0.190430263825524	0.19	0.19	ns	Wilcoxon	0.190430263825524	ns
+DNA	PRJNA995890	Pacific Ocean	Fragment	Porites pukoensis	Shannon	Value	Healthy	Bleached	0.662520583540057	0.66	0.66	ns	Wilcoxon	0.662520583540057	ns
+RNA	Avila2021	Caribbean Sea	Tissue	Diploria clivosa	Chao1	Value	Healthy	Stressed(Heat stress)	1	1	1	ns	Wilcoxon	1	ns
+RNA	Avila2021	Caribbean Sea	Tissue	Diploria clivosa	Shannon	Value	Healthy	Stressed(Heat stress)	0.662520583540057	0.66	0.66	ns	Wilcoxon	0.662520583540057	ns
+RNA	Avila2021	Caribbean Sea	Tissue	Siderastrea radians	Chao1	Value	Healthy	Stressed(Heat stress)	0.382733088885226	0.38	0.38	ns	Wilcoxon	0.382733088885226	ns
+RNA	Avila2021	Caribbean Sea	Tissue	Siderastrea radians	Shannon	Value	Healthy	Stressed(Heat stress)	0.190430263825524	0.19	0.19	ns	Wilcoxon	0.190430263825524	ns
+RNA	PRJNA559028	Pacific Ocean	Fragment	Pocillopora damicornis	Chao1	Value	Healthy	Stressed(Heat stress)	0.228606164729185	0.23	0.23	ns	Wilcoxon	0.228606164729185	ns
+RNA	PRJNA559028	Pacific Ocean	Fragment	Pocillopora damicornis	Shannon	Value	Healthy	Stressed(Heat stress)	0.0644577182706759	0.064	0.064	ns	Wilcoxon	0.0644577182706759	ns (trend)
+RNA	PRJNA649484	Atlantic Ocean	Fragment	Mussismilia hispida	Chao1	Value	Healthy	Stressed(Heat stress)	0.49591312933648	0.5	0.5	ns	Wilcoxon	0.49591312933648	ns
+RNA	PRJNA649484	Atlantic Ocean	Fragment	Mussismilia hispida	Shannon	Value	Healthy	Stressed(Heat stress)	0.544244312487233	0.54	0.54	ns	Wilcoxon	0.544244312487233	ns
+RNA	PRJNA716052	Caribbean Sea	Tissue	Orbicella annularis	Chao1	Value	Healthy	Diseased(white plague disease)	0.21592493894014	0.22	0.22	ns	Wilcoxon	0.21592493894014	ns
+RNA	PRJNA716052	Caribbean Sea	Tissue	Orbicella annularis	Shannon	Value	Healthy	Diseased(white plague disease)	0.595883090565178	0.6	0.6	ns	Wilcoxon	0.595883090565178	ns
+RNA	PRJNA716052	Caribbean Sea	Tissue	Orbicella faveolata	Chao1	Value	Healthy	Diseased(white plague disease)	0.458664171721818	0.46	0.46	ns	Wilcoxon	0.458664171721818	ns
+RNA	PRJNA716052	Caribbean Sea	Tissue	Orbicella faveolata	Shannon	Value	Healthy	Diseased(white plague disease)	0.391267279282639	0.39	0.39	ns	Wilcoxon	0.391267279282639	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Montipora capitata	Chao1	Value	Healthy	Stressed(Combined)	0.782866010731823	0.87	0.78	ns	Wilcoxon	0.782866010731823	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Montipora capitata	Chao1	Value	Healthy	Stressed(Heat stress)	0.288861905811467	0.87	0.29	ns	Wilcoxon	0.566425907757674	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Montipora capitata	Chao1	Value	Healthy	Stressed(Acidification stress)	0.37761727183845	0.87	0.38	ns	Wilcoxon	0.566425907757674	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Montipora capitata	Shannon	Value	Healthy	Stressed(Combined)	0.861105620242959	1	0.86	ns	Wilcoxon	0.861105620242959	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Montipora capitata	Shannon	Value	Healthy	Stressed(Heat stress)	0.642617137292397	1	0.64	ns	Wilcoxon	0.861105620242959	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Montipora capitata	Shannon	Value	Healthy	Stressed(Acidification stress)	0.34109311148869	1	0.34	ns	Wilcoxon	0.861105620242959	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Pocillopora acuta	Chao1	Value	Healthy	Stressed(Acidification stress)	0.0340373366361964	0.1	0.034	*	Wilcoxon	0.102112009908589	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Pocillopora acuta	Chao1	Value	Healthy	Stressed(Combined)	0.617357290667254	0.62	0.617	ns	Wilcoxon	0.617357290667254	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Pocillopora acuta	Chao1	Value	Healthy	Stressed(Heat stress)	0.24056400508616	0.48	0.241	ns	Wilcoxon	0.360846007629239	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Pocillopora acuta	Shannon	Value	Healthy	Stressed(Acidification stress)	0.941634010913383	1	0.94	ns	Wilcoxon	0.941634010913383	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Pocillopora acuta	Shannon	Value	Healthy	Stressed(Combined)	0.461352690361806	1	0.46	ns	Wilcoxon	0.692029035542709	ns
+RNA	PRJNA731596	Pacific Ocean	Fragment	Pocillopora acuta	Shannon	Value	Healthy	Stressed(Heat stress)	0.347987722429206	1	0.35	ns	Wilcoxon	0.692029035542709	ns
+RNA	PRJNA764551	Pacific Ocean	Fragment	Galaxea fascicularis	Chao1	Value	Healthy	Stressed(Heat stress)	1	1	1	ns	Wilcoxon	1	ns
+RNA	PRJNA764551	Pacific Ocean	Fragment	Galaxea fascicularis	Shannon	Value	Healthy	Stressed(Heat stress)	0.688920555804461	0.69	0.69	ns	Wilcoxon	0.688920555804461	ns
+RNA	PRJNA821612	Pacific Ocean	Fragment	Platygyra carnosa	Chao1	Value	Healthy	Bleached	0.603331772291867	0.6	0.6	ns	Wilcoxon	0.603331772291867	ns
+RNA	PRJNA821612	Pacific Ocean	Fragment	Platygyra carnosa	Shannon	Value	Healthy	Bleached	0.932324373348333	0.93	0.93	ns	Wilcoxon	0.932324373348333	ns
+RNA	PRJNA931253	Atlantic Ocean	Mucus-tissue slurry	Montastraea cavernosa	Chao1	Value	Healthy	Diseased(SCTLD)	0.56704047613854	0.57	0.57	ns	Wilcoxon	0.56704047613854	ns
+RNA	PRJNA931253	Atlantic Ocean	Mucus-tissue slurry	Montastraea cavernosa	Shannon	Value	Healthy	Diseased(SCTLD)	0.103164040040241	0.1	0.1	ns	Wilcoxon	0.103164040040241	ns
+RNA	PRJNA950916	Atlantic Ocean	Tissue	Montastraea cavernosa	Chao1	Value	Healthy	Diseased(SCTLD)	0.0408331258612995	0.041	0.041	*	Wilcoxon	0.0408331258612995	*
+RNA	PRJNA950916	Atlantic Ocean	Tissue	Montastraea cavernosa	Shannon	Value	Healthy	Diseased(SCTLD)	0.0795940892792763	0.08	0.08	ns	Wilcoxon	0.0795940892792763	ns (trend)

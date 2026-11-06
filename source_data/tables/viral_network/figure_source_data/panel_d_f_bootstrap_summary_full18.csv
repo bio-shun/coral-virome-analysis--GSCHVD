@@ -1,0 +1,7 @@
+"Metric","Metric_Label","Group_Label","N_Resamples","Median","Q025","Q25","Q75","Q975"
+"Active_Nodes","e  Connected families","Healthy / Normal (Exposed)",500,13,9,11,14,15.525
+"Active_Nodes","e  Connected families","SCTLD",500,10,7,9,11,14
+"Components","f  Connected components","Healthy / Normal (Exposed)",500,8,5,7,9,11
+"Components","f  Connected components","SCTLD",500,10,6,9,11,13
+"Edges","d  Retained associations","Healthy / Normal (Exposed)",500,20,14,18,24,33
+"Edges","d  Retained associations","SCTLD",500,12,6,10,16,24.05

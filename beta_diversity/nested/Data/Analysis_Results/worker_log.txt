@@ -1,0 +1,16 @@
+starting worker pid=47728 on localhost:11250 at 03:17:58.008
+starting worker pid=56472 on localhost:11250 at 03:17:58.029
+starting worker pid=57196 on localhost:11250 at 03:17:58.034
+starting worker pid=50800 on localhost:11250 at 03:17:58.036
+Warning messages:
+1: package 'vegan' was built under R version 4.4.3 
+2: package 'permute' was built under R version 4.4.3 
+Warning messages:
+1: package 'vegan' was built under R version 4.4.3 
+Warning messages:
+' was built under R version 4.4.3 
+Warning messages:
+was built under R version 4.4.3 
+2: package 'permute' was built under R version 4.4.3 
+1: package 'vegan' was built under R version 4.4.3 
+2: package 'permute' was built under R version 4.4.3 

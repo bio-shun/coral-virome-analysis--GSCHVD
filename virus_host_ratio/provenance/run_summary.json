@@ -1,0 +1,34 @@
+{
+  "run_started_utc": "2026-11-05 20:19:59 UTC",
+  "run_completed_utc": "2026-11-05 20:20:05 UTC",
+  "viral_input": "virus_abundance.tsv",
+  "matched_samples": 475,
+  "positive_signal_samples": 238,
+  "plotted_samples": 148,
+  "eligible_contexts": 10,
+  "comparisons": 11,
+  "within_context_q_below_0_05": 2,
+  "global_q_below_0_05": 0,
+  "source_data_records": 525,
+  "source_data_columns": 71,
+  "source_data_record_counts": {
+    "comparison": 11,
+    "group_summary": 39,
+    "sample": 475
+  },
+  "matched_linked_virus_signal_sum": 16055564.374662634,
+  "matched_linked_host_signal_sum": 10315.064794600001,
+  "figure_width_inches": 13.5,
+  "figure_height_inches": 7.5,
+  "status_rule": "VHR status harmonisation includes nutrient-enrichment Healthy/DSS labels",
+  "packages": {
+    "dplyr": "1.1.4",
+    "tidyr": "1.3.1",
+    "ggplot2": "4.0.1",
+    "stringr": "1.5.1",
+    "ggh4x": "0.3.1",
+    "svglite": "2.2.2",
+    "ragg": "1.4.0",
+    "jsonlite": "2.0.0"
+  }
+}

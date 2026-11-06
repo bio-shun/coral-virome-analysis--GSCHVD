@@ -1,0 +1,149 @@
+"Sample","Analysis_Project","Ocean_Basin","Sample_Type","Species","Display_Species","Status_Detail","X_Base","Box_X","Point_X","Point_Offset","log10_Linkage_informed_total_VHR"
+"SRR25503029","PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis","Healthy/Normal",1.35,1.11,1.055,-0.055,3.77522127601191
+"SRR25503028","PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis","Healthy/Normal",1.35,1.11,1.11,0,3.86090448052801
+"SRR25503026","PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis","Healthy/Normal",1.35,1.11,1.165,0.055,3.98483175093661
+"SRR25503025","PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis","Disease: Bleaching lesion",1.35,1.35,1.295,-0.055,2.99491103536238
+"SRR25503023","PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis","Disease: Bleaching lesion",1.35,1.35,1.35,0,3.72275563485464
+"SRR25503024","PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis","Disease: Bleaching lesion",1.35,1.35,1.405,0.055,3.81210085799211
+"SRR25503021","PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis","Stressed: Heat stress",1.35,1.59,1.535,-0.055,4.47654353710744
+"SRR25503031","PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis","Stressed: Heat stress",1.35,1.59,1.57166666666667,-0.0183333333333333,4.48401084768151
+"SRR25503022","PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis","Stressed: Heat stress",1.35,1.59,1.60833333333333,0.0183333333333333,4.73674889414305
+"SRR25503030","PRJNA1001615","Arabian Gulf","Coral tissue","Acropora pharaonis","Acropora pharaonis","Stressed: Heat stress",1.35,1.59,1.645,0.055,4.75358197871751
+"SRR26640718","PRJNA1034677","Pacific Ocean","Coral fragment","Acropora carduus","Acropora carduus","Healthy/Normal",10.8,10.68,10.625,-0.055,4.32448455534936
+"SRR26640720","PRJNA1034677","Pacific Ocean","Coral fragment","Acropora carduus","Acropora carduus","Healthy/Normal",10.8,10.68,10.6525,-0.0275,4.50004943689683
+"SRR26640725","PRJNA1034677","Pacific Ocean","Coral fragment","Acropora carduus","Acropora carduus","Healthy/Normal",10.8,10.68,10.68,0,4.59980371818671
+"SRR26640719","PRJNA1034677","Pacific Ocean","Coral fragment","Acropora carduus","Acropora carduus","Healthy/Normal",10.8,10.68,10.7075,0.0275,4.65804383991845
+"SRR26640724","PRJNA1034677","Pacific Ocean","Coral fragment","Acropora carduus","Acropora carduus","Healthy/Normal",10.8,10.68,10.735,0.055,4.91046165258913
+"SRR26640717","PRJNA1034677","Pacific Ocean","Coral fragment","Acropora carduus","Acropora carduus","Disease: Pathogen-induced disease",10.8,10.92,10.865,-0.055,3.91038776144657
+"SRR26640716","PRJNA1034677","Pacific Ocean","Coral fragment","Acropora carduus","Acropora carduus","Disease: Pathogen-induced disease",10.8,10.92,10.92,0,3.9312970292648
+"SRR26640715","PRJNA1034677","Pacific Ocean","Coral fragment","Acropora carduus","Acropora carduus","Disease: Pathogen-induced disease",10.8,10.92,10.975,0.055,3.9415214652675
+"SRR15959992","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Healthy/Normal",5.4,5.28,5.225,-0.055,2.30345587268041
+"SRR15959995","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Healthy/Normal",5.4,5.28,5.28,0,2.34825062344346
+"SRR15960028","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Healthy/Normal",5.4,5.28,5.335,0.055,2.4076745337176
+"SRR15960027","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Disease: SCTLD",5.4,5.52,5.465,-0.055,2.56990379672831
+"SRR15959991","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Disease: SCTLD",5.4,5.52,5.47722222222222,-0.0427777777777778,2.59214748114235
+"SRR15960029","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Disease: SCTLD",5.4,5.52,5.48944444444444,-0.0305555555555556,2.69429497089059
+"SRR15959990","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Disease: SCTLD",5.4,5.52,5.50166666666667,-0.0183333333333333,2.71357151466758
+"SRR15960026","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Disease: SCTLD",5.4,5.52,5.51388888888889,-0.00611111111111111,2.79093459570461
+"SRR15960017","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Disease: SCTLD",5.4,5.52,5.52611111111111,0.00611111111111111,2.94485446329079
+"SRR15960038","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Disease: SCTLD",5.4,5.52,5.53833333333333,0.0183333333333333,2.95978867935134
+"SRR15960025","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Disease: SCTLD",5.4,5.52,5.55055555555556,0.0305555555555556,3.02405572942549
+"SRR15959993","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Disease: SCTLD",5.4,5.52,5.56277777777778,0.0427777777777778,3.05878386029806
+"SRR15960006","PRJNA576217","Atlantic Ocean","Coral tissue","Meandrina meandrites","Meandrina meandrites","Disease: SCTLD",5.4,5.52,5.575,0.055,3.22786556018685
+"SRR18532219","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",20.25,20.13,20.075,-0.055,2.61971315145902
+"SRR18532221","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",20.25,20.13,20.1025,-0.0275,2.99398450467595
+"SRR18532223","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",20.25,20.13,20.13,0,3.19293746256007
+"SRR18532225","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",20.25,20.13,20.1575,0.0275,3.56319616529436
+"SRR18532181","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",20.25,20.13,20.185,0.055,3.96740476986274
+"SRR18532179","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",20.25,20.37,20.315,-0.055,2.87402904974199
+"SRR18532175","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",20.25,20.37,20.337,-0.033,3.24077925842848
+"SRR18532177","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",20.25,20.37,20.359,-0.011,3.36001248401953
+"SRR18532217","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",20.25,20.37,20.381,0.011,3.53753469585885
+"SRR18532215","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",20.25,20.37,20.403,0.033,3.71060500041277
+"SRR18532213","PRJNA757245","Red Sea","Coral endolithic band","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",20.25,20.37,20.425,0.055,3.99078832184008
+"SRR18532171","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Healthy/Normal",21.6,21.48,21.425,-0.055,3.26083965588045
+"SRR18532173","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Healthy/Normal",21.6,21.48,21.4525,-0.0275,3.8355755595257
+"SRR18532251","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Healthy/Normal",21.6,21.48,21.48,0,4.08912712838615
+"SRR18532253","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Healthy/Normal",21.6,21.48,21.5075,0.0275,4.39914722934356
+"SRR18532247","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Healthy/Normal",21.6,21.48,21.535,0.055,4.84429817494035
+"SRR18532245","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Stressed: Heat stress",21.6,21.72,21.665,-0.055,3.54841162886716
+"SRR18532243","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Stressed: Heat stress",21.6,21.72,21.687,-0.033,3.64203078625936
+"SRR18532205","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Stressed: Heat stress",21.6,21.72,21.709,-0.011,3.67383207998626
+"SRR18532209","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Stressed: Heat stress",21.6,21.72,21.731,0.011,4.3899368122864
+"SRR18532207","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Stressed: Heat stress",21.6,21.72,21.753,0.033,4.41257755373646
+"SRR18532211","PRJNA757245","Red Sea","Coral endolithic band","Porites lutea","Porites lutea","Stressed: Heat stress",21.6,21.72,21.775,0.055,4.42991344684403
+"SRR18532220","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",25.65,25.53,25.475,-0.055,2.80703946229766
+"SRR18532224","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",25.65,25.53,25.497,-0.033,3.10327092762411
+"SRR18532182","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",25.65,25.53,25.519,-0.011,3.11456940320763
+"SRR18532188","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",25.65,25.53,25.541,0.011,3.3089317567601
+"SRR18532226","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",25.65,25.53,25.563,0.033,3.76158360101024
+"SRR18532218","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Healthy/Normal",25.65,25.53,25.585,0.055,4.00762267091976
+"SRR18532176","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",25.65,25.77,25.715,-0.055,2.72117583229387
+"SRR18532180","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",25.65,25.77,25.737,-0.033,2.91620626529807
+"SRR18532216","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",25.65,25.77,25.759,-0.011,2.97020066857238
+"SRR18532178","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",25.65,25.77,25.781,0.011,3.1320513442472
+"SRR18532214","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",25.65,25.77,25.803,0.033,3.23539185496283
+"SRR18532174","PRJNA757245","Red Sea","Coral skeleton","Goniastrea edwardsi","Goniastrea edwardsi","Stressed: Heat stress",25.65,25.77,25.825,0.055,3.41660624898697
+"SRR18532257","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Healthy/Normal",27,26.88,26.825,-0.055,2.91650931486831
+"SRR18532252","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Healthy/Normal",27,26.88,26.847,-0.033,3.00809751874136
+"SRR18532172","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Healthy/Normal",27,26.88,26.869,-0.011,3.34736104461596
+"SRR18532246","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Healthy/Normal",27,26.88,26.891,0.011,3.52226729983509
+"SRR18532250","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Healthy/Normal",27,26.88,26.913,0.033,3.53265878449279
+"SRR18532248","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Healthy/Normal",27,26.88,26.935,0.055,5.85644397412955
+"SRR18532259","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Stressed: Heat stress",27,27.12,27.065,-0.055,3.136791894039
+"SRR18532244","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Stressed: Heat stress",27,27.12,27.087,-0.033,3.51470094406869
+"SRR18532208","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Stressed: Heat stress",27,27.12,27.109,-0.011,3.83978512964066
+"SRR18532210","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Stressed: Heat stress",27,27.12,27.131,0.011,3.85737735187017
+"SRR18532212","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Stressed: Heat stress",27,27.12,27.153,0.033,3.89447464632828
+"SRR18532206","PRJNA757245","Red Sea","Coral skeleton","Porites lutea","Porites lutea","Stressed: Heat stress",27,27.12,27.175,0.055,5.23014471427335
+"SRR23162918","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.575,-0.055,1.67797072558101
+"SRR23162919","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.58147058823529,-0.0485294117647059,1.86528553164679
+"SRR23162959","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.58794117647059,-0.0420588235294118,1.94539533864923
+"SRR23163003","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.59441176470588,-0.0355882352941176,2.00537095861907
+"SRR23162984","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.60088235294118,-0.0291176470588235,2.03541236519036
+"SRR23162986","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.60735294117647,-0.0226470588235294,2.04928858322709
+"SRR23162990","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.61382352941177,-0.0161764705882353,2.11944488124654
+"SRR23162968","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.62029411764706,-0.00970588235294118,2.21914959395564
+"SRR23162916","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.62676470588235,-0.00323529411764706,2.28318893927076
+"SRR23162998","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.63323529411765,0.00323529411764706,2.28841010096387
+"SRR23162969","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.63970588235294,0.00970588235294118,2.43396407633826
+"SRR23162955","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.64617647058824,0.0161764705882353,2.52863812851706
+"SRR23162956","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.65264705882353,0.0226470588235294,2.56910156897849
+"SRR23162939","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.65911764705882,0.0291176470588235,2.56912678029456
+"SRR23162946","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.66558823529412,0.0355882352941176,2.64921138863962
+"SRR23162936","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.67205882352941,0.0420588235294118,3.07521791943644
+"SRR23162983","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.67852941176471,0.0485294117647059,3.45583299682369
+"SRR23162972","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Healthy/Normal",6.75,6.63,6.685,0.055,3.58721286356085
+"SRR23163001","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.815,-0.055,1.29977269611594
+"SRR23162958","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.81775,-0.05225,1.56247557938081
+"SRR23162917","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.8205,-0.0495,1.62169584697236
+"SRR23163000","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.82325,-0.04675,1.62613787994929
+"SRR23162937","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.826,-0.044,1.80100430265333
+"SRR23162997","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.82875,-0.04125,1.83781497460351
+"SRR23162993","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.8315,-0.0385,1.87078326475535
+"SRR23163004","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.83425,-0.03575,1.93035079202062
+"SRR23162995","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.837,-0.033,1.93980046854893
+"SRR23162985","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.83975,-0.03025,1.95444513402339
+"SRR23162999","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.8425,-0.0275,1.96428378140471
+"SRR23162948","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.84525,-0.02475,2.00827176470973
+"SRR23162970","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.848,-0.022,2.08746716679286
+"SRR23163002","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.85075,-0.01925,2.09211450209594
+"SRR23162952","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.8535,-0.0165,2.09703349422746
+"SRR23162996","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.85625,-0.01375,2.14442199001924
+"SRR23162987","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.859,-0.011,2.15446931396328
+"SRR23162926","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.86175,-0.00825,2.27581543385662
+"SRR23162992","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.8645,-0.0055,2.28542426641791
+"SRR23162991","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.86725,-0.00275,2.3439698751846
+"SRR23162943","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.87,0,2.34674193391832
+"SRR23162981","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.87275,0.00275,2.34798805892861
+"SRR23162988","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.8755,0.0055,2.35656453170501
+"SRR23162989","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.87825,0.00825,2.39447380591868
+"SRR23162935","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.881,0.011,2.49090907655771
+"SRR23162971","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.88375,0.01375,2.49305119362101
+"SRR23162920","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.8865,0.0165,2.49626753208703
+"SRR23162938","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.88925,0.01925,2.49907894412674
+"SRR23162953","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.892,0.022,2.5073210235952
+"SRR23162957","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.89475,0.02475,2.5716553322438
+"SRR23162982","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.8975,0.0275,2.6119615206255
+"SRR23162944","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.90025,0.03025,2.63604205613012
+"SRR23162964","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.903,0.033,2.7742282580205
+"SRR23162947","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.90575,0.03575,2.80395176229282
+"SRR23162980","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.9085,0.0385,2.86787803542256
+"SRR23162951","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.91125,0.04125,2.90589297700362
+"SRR23162994","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.914,0.044,2.98662149676131
+"SRR23162923","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.91675,0.04675,3.02279219010631
+"SRR23162941","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.9195,0.0495,3.08646753606453
+"SRR23162933","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.92225,0.05225,3.11581644713455
+"SRR23162962","PRJNA925892","Atlantic Ocean","Coral tissue","Orbicella faveolata","Orbicella faveolata","Disease: SCTLD",6.75,6.87,6.925,0.055,3.53196629688034
+"SRR24164692","PRJNA954896","Pacific Ocean","Coral tissue","Acropora muricata","Acropora muricata","Healthy/Normal",16.2,16.08,16.025,-0.055,4.38892691747773
+"SRR24164691","PRJNA954896","Pacific Ocean","Coral tissue","Acropora muricata","Acropora muricata","Healthy/Normal",16.2,16.08,16.08,0,4.46442688252408
+"SRR24164690","PRJNA954896","Pacific Ocean","Coral tissue","Acropora muricata","Acropora muricata","Healthy/Normal",16.2,16.08,16.135,0.055,5.00375788662409
+"SRR24164689","PRJNA954896","Pacific Ocean","Coral tissue","Acropora muricata","Acropora muricata","Bleached",16.2,16.32,16.265,-0.055,2.78196157901311
+"SRR24164687","PRJNA954896","Pacific Ocean","Coral tissue","Acropora muricata","Acropora muricata","Bleached",16.2,16.32,16.32,0,3.05761366341179
+"SRR24164688","PRJNA954896","Pacific Ocean","Coral tissue","Acropora muricata","Acropora muricata","Bleached",16.2,16.32,16.375,0.055,3.24462189911509
+"SRR25343838","PRJNA995890","Pacific Ocean","Coral fragment","Porites pukoensis","Porites pukoensis","Healthy/Normal",12.15,12.03,11.975,-0.055,2.92403931080368
+"SRR25343839","PRJNA995890","Pacific Ocean","Coral fragment","Porites pukoensis","Porites pukoensis","Healthy/Normal",12.15,12.03,12.03,0,3.11962800528291
+"SRR25343840","PRJNA995890","Pacific Ocean","Coral fragment","Porites pukoensis","Porites pukoensis","Healthy/Normal",12.15,12.03,12.085,0.055,3.36563708482851
+"SRR25343836","PRJNA995890","Pacific Ocean","Coral fragment","Porites pukoensis","Porites pukoensis","Bleached",12.15,12.27,12.215,-0.055,2.98603028163192
+"SRR25343837","PRJNA995890","Pacific Ocean","Coral fragment","Porites pukoensis","Porites pukoensis","Bleached",12.15,12.27,12.27,0,3.29082294972422
+"SRR25343835","PRJNA995890","Pacific Ocean","Coral fragment","Porites pukoensis","Porites pukoensis","Bleached",12.15,12.27,12.325,0.055,3.52070098547661

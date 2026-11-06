@@ -1,0 +1,30 @@
+{
+  "scope": "Current manuscript network reproducibility audit; generated annotation is derived from the same current LEfSe analysis.",
+  "input_count": 4,
+  "input_sha256": {
+    "24083_metagenome_TPM.tsv": "358ceb8fc13d81cab09ee0fbc20bb7c5afc80a87044559f6a88addc0451a484e",
+    "dna_virus_taxonomy.tsv": "9875252c40282d92fc617bca59a737a54404fd7065f8ad1404dc134e05a6b728",
+    "network_union_layout.csv": "034956591943c779234a5bc1db0be773d3e2641babe4695e27aa8e7d44162fda",
+    "sample_info_metagenome.tsv": "2764a160365c35454672ac08e96cbf87df6646a994a87274cf18aff2056bcbd5"
+  },
+  "process_file_count": 27,
+  "process_csv_count": 25,
+  "panel_source_table_count": 22,
+  "master_rows": 104,
+  "master_source_links_resolve": true,
+  "lefse_source_matches_release_lefse": true,
+  "lefse_source_sha256": "5d49c612e1e3176f293b135b49e75ed591102d85a1c69a97dea4b9180caf091b",
+  "annotation_context": "DNA/SCTLD/PRJNA925892/Atlantic Ocean/Orbicella faveolata/Coral tissue/Microviridae",
+  "annotation_sample_identity_check": "20 Healthy and 69 SCTLD sample identifiers match the network exactly",
+  "network_analysis_families": 18,
+  "union_edges": 17,
+  "stable_edge_group_records": 25,
+  "topology_tests": 8,
+  "network_uses_lda_for_construction": false,
+  "annotation_role": "Post hoc display; P values and BH values are inherited from current LEfSe output",
+  "personal_absolute_paths_found": 0,
+  "historical_abundance_comparison_artifacts_found": 0,
+  "pdf_glyphs_below_5pt": 0,
+  "minimum_effective_pdf_font_pt": 5.26376,
+  "validation": "R 4.4.1 plot-only annotation refresh from independently completed current-TPM network process tables; annotation uniqueness, field, display and exact membership failure cases rejected."
+}

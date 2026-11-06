@@ -1,0 +1,5 @@
+Figure,Factor,Comparisons,Displayed_panels,Sample_coordinate_rows
+PCoA_FourFactor_Sampling_region_DNA_RNA,Sampling_region,2,2,530
+PCoA_FourFactor_Coral_taxa_DNA_RNA,Coral_taxa,8,8,517
+PCoA_FourFactor_Compartments_DNA_RNA,Compartments,8,8,111
+PCoA_FourFactor_Status_DNA_RNA,Status,36,8,879

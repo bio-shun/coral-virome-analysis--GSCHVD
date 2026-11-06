@@ -1,0 +1,2 @@
+"source_file"	"source_md5"	"comparison_id"	"virome"	"condition"	"family"	"project"	"ocean_basin"	"coral_host_species"	"sample_type"	"display_threshold"	"role"
+"lefse_source_data.tsv"	"9adc3322489742528109a190d728c48f"	"D05"	"DNA"	"SCTLD"	"Microviridae"	"PRJNA925892"	"Atlantic Ocean"	"Orbicella faveolata"	"Coral tissue"	2.5	"Post hoc node annotation; excluded from network construction"

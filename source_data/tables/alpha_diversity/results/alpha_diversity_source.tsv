@@ -1,0 +1,633 @@
+Assay	SampleID	Project	Analysis_Project	Species	Ocean_Basin	Clean_Type	Status	Status_Group	Display_Species	N_Project	Shannon	Chao1
+DNA	ERR7057625	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Skeleton	Healthy/Normal	Healthy	Balanophyllia europaea	1	1.96941163866939	79.5
+DNA	ERR7057626	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Tissue	Healthy/Normal	Healthy	Balanophyllia europaea	1	3.09949441856828	185.5
+DNA	ERR7057628	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Skeleton	Healthy/Normal	Healthy	Balanophyllia europaea	1	1.92583932123352	47.6
+DNA	ERR7057629	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Tissue	Healthy/Normal	Healthy	Balanophyllia europaea	1	2.61833266355554	73
+DNA	ERR7057631	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Skeleton	Healthy/Normal	Healthy	Balanophyllia europaea	1	1.97710166155909	87
+DNA	ERR7057632	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Tissue	Healthy/Normal	Healthy	Balanophyllia europaea	1	1.98257040904945	73.875
+DNA	ERR7057634	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Skeleton	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	2.06902680381957	59.1428571428571
+DNA	ERR7057635	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Tissue	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	2.45635288667766	72.5
+DNA	ERR7057637	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Skeleton	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	2.03222496059936	48.1
+DNA	ERR7057638	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Tissue	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	2.42136479015769	72
+DNA	ERR7057640	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Skeleton	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	1.87261405183867	70.6666666666667
+DNA	ERR7057641	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Tissue	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	2.38285265911299	91.5
+DNA	ERR7057643	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Skeleton	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	2.07930768075633	63
+DNA	ERR7057644	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Tissue	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	3.04669404834691	78.9285714285714
+DNA	ERR7057646	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Skeleton	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	1.82177609755824	82.75
+DNA	ERR7057647	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Tissue	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	2.55716585236933	105.142857142857
+DNA	ERR7057649	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Skeleton	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	1.94970755356601	58.3
+DNA	ERR7057650	PRJEB48073	PRJEB48073	Balanophyllia europaea	Mediterranean Sea	Tissue	Stressed(Acidification stress)	Stressed(Acidification stress)	Balanophyllia europaea	1	3.26344763487671	115.5
+DNA	SRR12286143	PRJNA647466	PRJNA647466	Pocillopora sp.	Pacific Ocean	Tissue	Healthy/Normal	Healthy	Pocillopora sp.	1	2.12399512100936	111.333333333333
+DNA	SRR12286144	PRJNA647466	PRJNA647466	Pocillopora sp.	Pacific Ocean	Tissue	Bleached	Bleached	Pocillopora sp.	1	4.32920542756971	304.885714285714
+DNA	SRR12286145	PRJNA647466	PRJNA647466	Pocillopora sp.	Pacific Ocean	Tissue	Healthy/Normal	Healthy	Pocillopora sp.	1	4.49481071690536	271.571428571429
+DNA	SRR12286146	PRJNA647466	PRJNA647466	Pocillopora sp.	Pacific Ocean	Tissue	Bleached	Bleached	Pocillopora sp.	1	4.30334918802239	268.025
+DNA	SRR12286147	PRJNA647466	PRJNA647466	Pocillopora sp.	Pacific Ocean	Tissue	Healthy/Normal	Healthy	Pocillopora sp.	1	1.45625141327953	47.5
+DNA	SRR12286148	PRJNA647466	PRJNA647466	Pocillopora sp.	Pacific Ocean	Tissue	Bleached	Bleached	Pocillopora sp.	1	3.56379763704374	187.058823529412
+DNA	SRR15959990	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Meandrina meandrites	1	5.53716732469682	880.535714285714
+DNA	SRR15959991	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Meandrina meandrites	1	5.41202616322167	744.888888888889
+DNA	SRR15959992	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Meandrina meandrites	1	5.43390195688574	755.468085106383
+DNA	SRR15959993	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Meandrina meandrites	1	5.37066196069797	808.987341772152
+DNA	SRR15959994	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Diploria labyrinthiformis	1	5.38893328192709	770.942857142857
+DNA	SRR15959995	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Meandrina meandrites	1	5.53033847553987	814.845360824742
+DNA	SRR15959996	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Diploria labyrinthiformis	1	5.46929056068401	716.345679012346
+DNA	SRR15959997	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Diploria labyrinthiformis	1	4.77355824393571	305.785714285714
+DNA	SRR15959998	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Diploria labyrinthiformis	1	5.54839238452082	712.76404494382
+DNA	SRR15959999	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Diploria labyrinthiformis	1	5.5595128918717	662.777777777778
+DNA	SRR15960000	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Diploria labyrinthiformis	1	5.43545636390333	697.463414634146
+DNA	SRR15960001	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Diploria labyrinthiformis	1	5.51558765086912	762.428571428571
+DNA	SRR15960002	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Diploria labyrinthiformis	1	5.37553603563823	663.756097560976
+DNA	SRR15960003	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Diploria labyrinthiformis	1	4.79611071256242	286
+DNA	SRR15960004	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Diploria labyrinthiformis	1	5.44714309803589	650.10989010989
+DNA	SRR15960005	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Diploria labyrinthiformis	1	5.54190509148528	669.611111111111
+DNA	SRR15960006	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Meandrina meandrites	1	5.49252181802688	760.939759036145
+DNA	SRR15960007	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Diploria labyrinthiformis	1	5.57911835418136	744.387096774194
+DNA	SRR15960008	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Diploria labyrinthiformis	1	5.46654400065997	794.121621621622
+DNA	SRR15960009	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Dichocoenia stokesii	1	5.37639723346049	780.720430107527
+DNA	SRR15960010	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Dichocoenia stokesii	1	5.41793365835188	745.8
+DNA	SRR15960011	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Dichocoenia stokesii	1	5.35824186804705	866.013513513514
+DNA	SRR15960012	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Dichocoenia stokesii	1	5.27959972907784	675.4
+DNA	SRR15960013	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Dichocoenia stokesii	1	5.31832522564993	643
+DNA	SRR15960014	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Dichocoenia stokesii	1	5.34812908126778	807.555555555556
+DNA	SRR15960015	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Dichocoenia stokesii	1	5.3481644053377	771.611111111111
+DNA	SRR15960016	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Dichocoenia stokesii	1	5.3114154294711	862.8
+DNA	SRR15960017	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Meandrina meandrites	1	5.37125549112782	764.928571428571
+DNA	SRR15960018	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Dichocoenia stokesii	1	5.46389982411589	861.566666666667
+DNA	SRR15960019	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Dichocoenia stokesii	1	5.32765129046047	876.333333333333
+DNA	SRR15960020	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Dichocoenia stokesii	1	5.26955963036636	849.928571428571
+DNA	SRR15960021	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Dichocoenia stokesii	1	5.31169061288902	902.828947368421
+DNA	SRR15960022	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Dichocoenia stokesii	1	5.20085077702138	713.6375
+DNA	SRR15960023	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Dichocoenia stokesii	1	5.34451417839385	801.5
+DNA	SRR15960024	PRJNA576217	PRJNA576217	Dichocoenia stokesii	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Dichocoenia stokesii	1	5.28549916948631	777.072289156627
+DNA	SRR15960025	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Meandrina meandrites	1	5.43979130338021	921.31884057971
+DNA	SRR15960026	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Meandrina meandrites	1	5.47328393647655	910.828947368421
+DNA	SRR15960027	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Meandrina meandrites	1	5.4142697403617	745.6
+DNA	SRR15960028	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Meandrina meandrites	1	5.54087246194951	812.153846153846
+DNA	SRR15960029	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Meandrina meandrites	1	5.51002736322913	827.534090909091
+DNA	SRR15960030	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Stephanocoenia intersepta	1	4.62011752374241	729.631578947368
+DNA	SRR15960031	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Stephanocoenia intersepta	1	4.68748463804748	694.467532467532
+DNA	SRR15960032	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Stephanocoenia intersepta	1	4.91766708799902	709.472727272727
+DNA	SRR15960033	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Stephanocoenia intersepta	1	4.72145939255857	742.753623188406
+DNA	SRR15960034	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Stephanocoenia intersepta	1	4.5644789276105	672.13698630137
+DNA	SRR15960035	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Stephanocoenia intersepta	1	4.42842055992339	562.078947368421
+DNA	SRR15960036	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Stephanocoenia intersepta	1	4.52965303177832	625.067567567567
+DNA	SRR15960037	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Stephanocoenia intersepta	1	4.64152849677684	742.477611940299
+DNA	SRR15960038	PRJNA576217	PRJNA576217	Meandrina meandrites	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Meandrina meandrites	1	5.42324349095292	916.942857142857
+DNA	SRR15960039	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Stephanocoenia intersepta	1	4.45428797634551	741.875
+DNA	SRR15960040	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Stephanocoenia intersepta	1	4.49012403175093	683.681818181818
+DNA	SRR15960041	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Stephanocoenia intersepta	1	5.36787552552508	671
+DNA	SRR15960042	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Stephanocoenia intersepta	1	4.27342809696093	436.4
+DNA	SRR15960043	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Stephanocoenia intersepta	1	4.56927411129082	638.443037974684
+DNA	SRR15960044	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Stephanocoenia intersepta	1	4.60166376094862	700.5
+DNA	SRR15960045	PRJNA576217	PRJNA576217	Stephanocoenia intersepta	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Stephanocoenia intersepta	1	4.78550155026814	528.731707317073
+DNA	SRR15960046	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Diploria labyrinthiformis	1	5.49724782900204	713.461538461538
+DNA	SRR15960047	PRJNA576217	PRJNA576217	Diploria labyrinthiformis	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Diploria labyrinthiformis	1	5.74210332341993	792.315217391304
+DNA	SRR18532171	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Healthy/Normal	Healthy	Porites lutea	1	3.93163737270942	346.130434782609
+DNA	SRR18532172	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Healthy/Normal	Healthy	Porites lutea	1	4.23955848219275	256.823529411765
+DNA	SRR18532173	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Healthy/Normal	Healthy	Porites lutea	1	4.15884380581979	326.37037037037
+DNA	SRR18532174	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	2.58242156846402	259.217391304348
+DNA	SRR18532175	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	2.9271679659979	223.037037037037
+DNA	SRR18532176	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	3.63929356008258	259.4
+DNA	SRR18532177	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	3.8346065769588	265
+DNA	SRR18532178	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	3.68350354849978	282.157894736842
+DNA	SRR18532179	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	3.34064032191044	227.3125
+DNA	SRR18532180	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	3.65250925714837	331.677419354839
+DNA	SRR18532181	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Healthy/Normal	Healthy	Goniastrea edwardsi	1	3.8801629003168	247.84
+DNA	SRR18532182	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Healthy/Normal	Healthy	Goniastrea edwardsi	1	3.584828315761	183.038461538462
+DNA	SRR18532188	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Healthy/Normal	Healthy	Goniastrea edwardsi	1	3.70825279955469	215.954545454545
+DNA	SRR18532205	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	4.41187364519035	310.6
+DNA	SRR18532206	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	2.16921799100189	211
+DNA	SRR18532207	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	2.64382231900265	190.9
+DNA	SRR18532208	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	3.89302112595912	368.8
+DNA	SRR18532209	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	3.95683022382687	338.875
+DNA	SRR18532210	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	3.35624207536659	191.333333333333
+DNA	SRR18532211	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	3.37658527604272	198.565217391304
+DNA	SRR18532212	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	3.73610573843053	357
+DNA	SRR18532213	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	3.85311395491643	325.032258064516
+DNA	SRR18532214	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	4.31720630024938	342.6
+DNA	SRR18532215	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	3.70783891962069	276.666666666667
+DNA	SRR18532216	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	4.18128609234634	306.9
+DNA	SRR18532217	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Goniastrea edwardsi	1	4.09284445908318	421.25641025641
+DNA	SRR18532218	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Healthy/Normal	Healthy	Goniastrea edwardsi	1	4.42908673779055	419.567567567568
+DNA	SRR18532219	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Healthy/Normal	Healthy	Goniastrea edwardsi	1	4.1820609472363	438.483870967742
+DNA	SRR18532220	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Healthy/Normal	Healthy	Goniastrea edwardsi	1	2.84403437419784	231.5
+DNA	SRR18532221	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Healthy/Normal	Healthy	Goniastrea edwardsi	1	3.27291552058558	138.583333333333
+DNA	SRR18532223	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Healthy/Normal	Healthy	Goniastrea edwardsi	1	3.44225016348851	176.769230769231
+DNA	SRR18532224	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Healthy/Normal	Healthy	Goniastrea edwardsi	1	4.15067020562985	381.076923076923
+DNA	SRR18532225	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Endolithic band	Healthy/Normal	Healthy	Goniastrea edwardsi	1	4.62195622974344	332.228571428571
+DNA	SRR18532226	PRJNA757245	PRJNA757245	Goniastrea edwardsi	Red Sea	Skeleton	Healthy/Normal	Healthy	Goniastrea edwardsi	1	3.85222390938203	253.24
+DNA	SRR18532243	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	2.72652936126425	172.51724137931
+DNA	SRR18532244	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	3.94381836820157	265.107142857143
+DNA	SRR18532245	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	4.20696854223536	247.677419354839
+DNA	SRR18532246	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Healthy/Normal	Healthy	Porites lutea	1	3.53564893887429	229.666666666667
+DNA	SRR18532247	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Healthy/Normal	Healthy	Porites lutea	1	2.9020134282038	161.473684210526
+DNA	SRR18532248	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Healthy/Normal	Healthy	Porites lutea	1	1.76648347458616	178.857142857143
+DNA	SRR18532249	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Healthy/Normal	Healthy	Porites lutea	1	2.50873946600029	150.8125
+DNA	SRR18532250	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Healthy/Normal	Healthy	Porites lutea	1	3.52547696958598	217.652173913043
+DNA	SRR18532251	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Healthy/Normal	Healthy	Porites lutea	1	3.95190186994555	250.689655172414
+DNA	SRR18532252	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Healthy/Normal	Healthy	Porites lutea	1	3.62614231884347	185
+DNA	SRR18532253	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Endolithic band	Healthy/Normal	Healthy	Porites lutea	1	3.57548281697913	207
+DNA	SRR18532257	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Healthy/Normal	Healthy	Porites lutea	1	4.40630744106126	453.65625
+DNA	SRR18532259	PRJNA757245	PRJNA757245	Porites lutea	Red Sea	Skeleton	Stressed(Heat stress)	Stressed(Heat stress)	Porites lutea	1	4.51857056378233	325.375
+DNA	SRR23162916	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	3.84921455733271	196
+DNA	SRR23162917	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.07955077505226	706.631578947368
+DNA	SRR23162918	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.23897289422189	682.297872340426
+DNA	SRR23162919	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.33697771632695	602.494505494505
+DNA	SRR23162920	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.22643745173018	770.213333333333
+DNA	SRR23162921	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.81736296367098	541.693548387097
+DNA	SRR23162922	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.01907537204126	609.333333333333
+DNA	SRR23162923	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.47330111426884	688.511111111111
+DNA	SRR23162924	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.97561366137029	679.685185185185
+DNA	SRR23162925	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.00639192027345	582.53125
+DNA	SRR23162926	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.81128393685456	582.016949152542
+DNA	SRR23162927	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.47543313934411	200
+DNA	SRR23162928	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.07899021508425	521.596774193548
+DNA	SRR23162929	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.04818931662412	645.542372881356
+DNA	SRR23162930	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.99525490448231	546.618421052632
+DNA	SRR23162931	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.97032292186823	531.58064516129
+DNA	SRR23162932	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.94059708779363	535.779661016949
+DNA	SRR23162933	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.89318019581644	477.25
+DNA	SRR23162934	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.44729944685535	390.609756097561
+DNA	SRR23162935	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.05049569065013	549.818181818182
+DNA	SRR23162936	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.09321576768196	661.9375
+DNA	SRR23162937	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.00585188091038	787.178571428571
+DNA	SRR23162938	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.03515268980777	587.014705882353
+DNA	SRR23162939	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.22050175760604	643.220779220779
+DNA	SRR23162940	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.36969048588256	716.78313253012
+DNA	SRR23162941	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.48749537829802	869.632183908046
+DNA	SRR23162942	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.24640292761648	681.697368421053
+DNA	SRR23162943	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.28965296761835	659.014285714286
+DNA	SRR23162944	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.1098036147229	636.478873239437
+DNA	SRR23162945	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.0733173983083	467.26582278481
+DNA	SRR23162946	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	4.8939576745135	620.584905660377
+DNA	SRR23162947	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.90160834954471	646.033898305085
+DNA	SRR23162948	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.80277876967793	497.026315789474
+DNA	SRR23162949	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.21643739509874	537
+DNA	SRR23162950	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.76973399204638	621.358490566038
+DNA	SRR23162951	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.98106972571916	581.53164556962
+DNA	SRR23162952	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.22332254704083	661.918918918919
+DNA	SRR23162953	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.4125483697796	649.717647058824
+DNA	SRR23162954	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.37678300719786	625.666666666667
+DNA	SRR23162955	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.14119318328327	560.817073170732
+DNA	SRR23162956	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.20561711236301	741.012987012987
+DNA	SRR23162957	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.26696596489539	592.228915662651
+DNA	SRR23162958	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.68351984172058	565.245901639344
+DNA	SRR23162959	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	4.97859839149473	519.814814814815
+DNA	SRR23162960	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	4.82253740697546	644.170212765957
+DNA	SRR23162961	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.08455173763194	601.378378378378
+DNA	SRR23162962	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.33353305482062	702.6375
+DNA	SRR23162963	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.55034422328821	201.3125
+DNA	SRR23162964	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.82102645640999	573.347826086957
+DNA	SRR23162965	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.12539399061809	598.029850746269
+DNA	SRR23162966	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.30056005574549	688.066666666667
+DNA	SRR23162967	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.87309359887171	534.875
+DNA	SRR23162968	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	4.96011057913507	537.651515151515
+DNA	SRR23162969	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.03425648194077	602.56338028169
+DNA	SRR23162970	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.69821505173747	535.641791044776
+DNA	SRR23162971	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.20139373125223	625.442857142857
+DNA	SRR23162972	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.19363099648026	586.88
+DNA	SRR23162973	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.19314461575985	645.521739130435
+DNA	SRR23162974	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.55306111108137	304.446808510638
+DNA	SRR23162975	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.22912557696643	736.521739130435
+DNA	SRR23162976	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.01085525656704	554.75
+DNA	SRR23162977	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.77595820904191	448.211267605634
+DNA	SRR23162978	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.80815270526878	422.590163934426
+DNA	SRR23162979	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.89286308507868	509.62
+DNA	SRR23162980	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.53265526538189	149.545454545455
+DNA	SRR23162981	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.81790068990305	524.815384615385
+DNA	SRR23162982	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.85469709920498	477.878787878788
+DNA	SRR23162983	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	4.01928040968466	306.371428571429
+DNA	SRR23162984	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.03183794857355	560.714285714286
+DNA	SRR23162985	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.98205266038529	484.857142857143
+DNA	SRR23162986	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	4.89379897173131	554.25
+DNA	SRR23162987	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.12520673206189	556.458333333333
+DNA	SRR23162988	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.16671205304964	607.181818181818
+DNA	SRR23162989	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.09159402917447	660.04347826087
+DNA	SRR23162990	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	5.26071383122777	676.5
+DNA	SRR23162991	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.38451922872334	588
+DNA	SRR23162992	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.80374377951803	553.890625
+DNA	SRR23162993	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.90759058143705	589.225352112676
+DNA	SRR23162994	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.63171679270938	182.51724137931
+DNA	SRR23162995	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.3230917095131	665.168674698795
+DNA	SRR23162996	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.10086250565515	530.418918918919
+DNA	SRR23162997	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.75438417002915	509.385964912281
+DNA	SRR23162998	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	4.55925501977195	467.842105263158
+DNA	SRR23162999	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.12947166287953	604.649350649351
+DNA	SRR23163000	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.75514459900429	550.517857142857
+DNA	SRR23163001	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.93738150875251	622.275862068966
+DNA	SRR23163002	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	5.09240290311545	508.86301369863
+DNA	SRR23163003	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Healthy/Normal(Exposed)	Healthy	Orbicella faveolata	1	4.77355301452142	424.042857142857
+DNA	SRR23163004	PRJNA925892	PRJNA925892	Orbicella faveolata	Atlantic Ocean	Tissue	Disease(SCTLD)	Diseased(SCTLD)	Orbicella faveolata	1	4.74492741327358	555.625
+DNA	SRR24164687	PRJNA954896	PRJNA954896	Acropora muricata	Pacific Ocean	Tissue	Bleached	Bleached	Acropora muricata	1	3.53280909601324	196
+DNA	SRR24164688	PRJNA954896	PRJNA954896	Acropora muricata	Pacific Ocean	Tissue	Bleached	Bleached	Acropora muricata	1	3.80096908718533	224.75
+DNA	SRR24164689	PRJNA954896	PRJNA954896	Acropora muricata	Pacific Ocean	Tissue	Bleached	Bleached	Acropora muricata	1	2.74669239837608	89.5
+DNA	SRR24164690	PRJNA954896	PRJNA954896	Acropora muricata	Pacific Ocean	Tissue	Healthy/Normal	Healthy	Acropora muricata	1	4.71601984031936	355.733333333333
+DNA	SRR24164691	PRJNA954896	PRJNA954896	Acropora muricata	Pacific Ocean	Tissue	Healthy/Normal	Healthy	Acropora muricata	1	4.71750593649516	395.875
+DNA	SRR24164692	PRJNA954896	PRJNA954896	Acropora muricata	Pacific Ocean	Tissue	Healthy/Normal	Healthy	Acropora muricata	1	4.53529450884734	375.777777777778
+DNA	SRR25343827	PRJNA995890	PRJNA995890	Galaxea fascicularis	Pacific Ocean	Fragment	Bleached	Bleached	Galaxea fascicularis	1	3.03018617264573	258.896551724138
+DNA	SRR25343828	PRJNA995890	PRJNA995890	Galaxea fascicularis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Galaxea fascicularis	1	4.28864385335616	407.27027027027
+DNA	SRR25343829	PRJNA995890	PRJNA995890	Galaxea fascicularis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Galaxea fascicularis	1	4.27877113015962	385.666666666667
+DNA	SRR25343830	PRJNA995890	PRJNA995890	Galaxea fascicularis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Galaxea fascicularis	1	4.05329893404387	252.275862068966
+DNA	SRR25343831	PRJNA995890	PRJNA995890	Acropora digitifera	Pacific Ocean	Fragment	Bleached	Bleached	Acropora digitifera	1	5.20856643701192	388.923076923077
+DNA	SRR25343832	PRJNA995890	PRJNA995890	Acropora digitifera	Pacific Ocean	Fragment	Bleached	Bleached	Acropora digitifera	1	4.94790610589304	291.553571428571
+DNA	SRR25343833	PRJNA995890	PRJNA995890	Acropora digitifera	Pacific Ocean	Fragment	Bleached	Bleached	Acropora digitifera	1	4.89820978446967	272.254237288136
+DNA	SRR25343834	PRJNA995890	PRJNA995890	Acropora digitifera	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Acropora digitifera	1	4.33528545640465	286.263157894737
+DNA	SRR25343835	PRJNA995890	PRJNA995890	Porites pukoensis	Pacific Ocean	Fragment	Bleached	Bleached	Porites pukoensis	1	3.91852808883328	300.363636363636
+DNA	SRR25343836	PRJNA995890	PRJNA995890	Porites pukoensis	Pacific Ocean	Fragment	Bleached	Bleached	Porites pukoensis	1	3.53071761229693	228.161290322581
+DNA	SRR25343837	PRJNA995890	PRJNA995890	Porites pukoensis	Pacific Ocean	Fragment	Bleached	Bleached	Porites pukoensis	1	3.78400096894805	233.483870967742
+DNA	SRR25343838	PRJNA995890	PRJNA995890	Porites pukoensis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Porites pukoensis	1	3.65500115978625	299.055555555556
+DNA	SRR25343839	PRJNA995890	PRJNA995890	Porites pukoensis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Porites pukoensis	1	3.66552635949115	322
+DNA	SRR25343840	PRJNA995890	PRJNA995890	Porites pukoensis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Porites pukoensis	1	3.70815043702218	314.25
+DNA	SRR25343841	PRJNA995890	PRJNA995890	Galaxea fascicularis	Pacific Ocean	Fragment	Bleached	Bleached	Galaxea fascicularis	1	4.35026485777959	260.375
+DNA	SRR25343842	PRJNA995890	PRJNA995890	Galaxea fascicularis	Pacific Ocean	Fragment	Bleached	Bleached	Galaxea fascicularis	1	4.44072240965396	257.857142857143
+DNA	SRR25343843	PRJNA995890	PRJNA995890	Acropora digitifera	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Acropora digitifera	1	4.26991888293019	252.021739130435
+DNA	SRR25343844	PRJNA995890	PRJNA995890	Acropora digitifera	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Acropora digitifera	1	3.77555391546597	256
+DNA	SRR25503020	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Acropora pharaonis	1	4.50362133035452	297.935483870968
+DNA	SRR25503021	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Acropora pharaonis	1	4.65845163667952	318.365853658537
+DNA	SRR25503022	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Acropora pharaonis	1	4.56109598460412	273.608695652174
+DNA	SRR25503023	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Disease (Bleaching lesion)	Diseased(Bleaching lesion)	Acropora pharaonis	1	4.35182061575409	355.418604651163
+DNA	SRR25503024	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Disease (Bleaching lesion)	Diseased(Bleaching lesion)	Acropora pharaonis	1	4.51726796997082	305.15
+DNA	SRR25503025	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Disease (Bleaching lesion)	Diseased(Bleaching lesion)	Acropora pharaonis	1	4.82011240133195	502.5625
+DNA	SRR25503026	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Healthy/Normal(Nitrogen enrichment)	Healthy	Acropora pharaonis	1	4.53735565306299	323.309523809524
+DNA	SRR25503028	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Healthy/Normal(Nitrogen enrichment)	Healthy	Acropora pharaonis	1	4.45919279776538	273.978260869565
+DNA	SRR25503029	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Healthy/Normal(Nitrogen enrichment)	Healthy	Acropora pharaonis	1	4.84517654255939	453.228571428571
+DNA	SRR25503030	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Acropora pharaonis	1	4.50859815250825	326.885714285714
+DNA	SRR25503031	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Acropora pharaonis	1	4.50850788618269	311.108108108108
+DNA	SRR25503032	PRJNA1001615	PRJNA1001615	Acropora pharaonis	Arabian Gulf	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Acropora pharaonis	1	4.42081344676081	304.25
+DNA	SRR26640715	PRJNA1034677	PRJNA1034677	Acropora carduus	Pacific Ocean	Fragment	Disease (Pathogen-induced disease)	Diseased(Pathogen-induced)	Acropora carduus	1	3.84068836134088	252.028571428571
+DNA	SRR26640716	PRJNA1034677	PRJNA1034677	Acropora carduus	Pacific Ocean	Fragment	Disease (Pathogen-induced disease)	Diseased(Pathogen-induced)	Acropora carduus	1	3.78206019997438	327.019607843137
+DNA	SRR26640717	PRJNA1034677	PRJNA1034677	Acropora carduus	Pacific Ocean	Fragment	Disease (Pathogen-induced disease)	Diseased(Pathogen-induced)	Acropora carduus	1	4.58108221913527	269.375
+DNA	SRR26640718	PRJNA1034677	PRJNA1034677	Acropora carduus	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Acropora carduus	1	5.08638463463868	364.266666666667
+DNA	SRR26640719	PRJNA1034677	PRJNA1034677	Acropora carduus	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Acropora carduus	1	4.70450176355626	242.6
+DNA	SRR26640720	PRJNA1034677	PRJNA1034677	Acropora carduus	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Acropora carduus	1	4.76547209772555	213.875
+DNA	SRR26640721	PRJNA1034677	PRJNA1034677	Acropora carduus	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Acropora carduus	1	4.69048992272844	188.95652173913
+DNA	SRR26640724	PRJNA1034677	PRJNA1034677	Acropora carduus	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Acropora carduus	1	4.86819453080617	237.357142857143
+DNA	SRR26640725	PRJNA1034677	PRJNA1034677	Acropora carduus	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Acropora carduus	1	4.90786616633287	255.363636363636
+DNA	SRR6784974	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Nutrient enrichment (N+P))	Healthy	Siderastrea siderea	1	5.62267571231489	1185.33333333333
+DNA	SRR6784975	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal	Healthy	Siderastrea siderea	1	5.45222489923726	575.759398496241
+DNA	SRR6784976	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Disease(Dark Spot Syndrome)	Diseased(Dark Spot Syndrome)	Siderastrea siderea	1	5.70525858555642	1484.34782608696
+DNA	SRR6784977	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal	Healthy	Siderastrea siderea	1	5.97488444470641	965.619047619048
+DNA	SRR6784978	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal	Healthy	Siderastrea siderea	1	5.10370210088094	815.986486486486
+DNA	SRR6784979	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal	Healthy	Siderastrea siderea	1	5.63460955430783	1158.12676056338
+DNA	SRR6784980	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Disease(Dark Spot Syndrome)	Diseased(Dark Spot Syndrome)	Siderastrea siderea	1	5.94236595155034	872.579365079365
+DNA	SRR6784981	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Nitrogen enrichment)	Healthy	Siderastrea siderea	1	5.90494970010611	835.576923076923
+DNA	SRR6784982	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Nitrogen enrichment)	Healthy	Siderastrea siderea	1	5.07930204598349	462.173469387755
+DNA	SRR6784984	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Nitrogen enrichment)	Healthy	Siderastrea siderea	1	5.42769557606862	872.575
+DNA	SRR6784985	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Nitrogen enrichment)	Healthy	Siderastrea siderea	1	5.00428120234226	441.342105263158
+DNA	SRR6784990	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal	Healthy	Siderastrea siderea	1	4.42206047396155	326.127659574468
+DNA	SRR6784992	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Disease(Dark Spot Syndrome)	Diseased(Dark Spot Syndrome)	Siderastrea siderea	1	5.56980973798467	1265.77966101695
+DNA	SRR6784994	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Phosphorus enrichment)	Healthy	Siderastrea siderea	1	5.72562873033583	818.370967741935
+DNA	SRR6784999	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Nutrient enrichment (N+P))	Healthy	Siderastrea siderea	1	4.21188035364679	454.06
+DNA	SRR6785006	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Nutrient enrichment (N+P))	Healthy	Siderastrea siderea	1	5.06802354740051	637.420454545455
+DNA	SRR6785010	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Nutrient enrichment (N+P))	Healthy	Siderastrea siderea	1	4.84343729548939	672.157894736842
+DNA	SRR6785013	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Nutrient enrichment (N+P))	Healthy	Siderastrea siderea	1	5.0568208348225	755.223684210526
+DNA	SRR6785015	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Phosphorus enrichment)	Healthy	Siderastrea siderea	1	5.58650388312825	1249.23076923077
+DNA	SRR6785017	PRJNA435753	PRJNA435753	Siderastrea siderea	Atlantic Ocean	Mucus	Healthy/Normal(Phosphorus enrichment)	Healthy	Siderastrea siderea	1	5.33718535671383	546.88
+RNA	SRR13209674	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.65536809647221	13
+RNA	SRR13209676	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.54694891563567	15.3333333333333
+RNA	SRR13209677	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.65161886584027	22
+RNA	SRR13209678	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.55965469954406	13
+RNA	SRR13209679	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.12316095933536	15.25
+RNA	SRR13209680	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	0.672064031369971	13.3333333333333
+RNA	SRR13209681	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	0.853940343026131	19
+RNA	SRR13209682	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.55760834043039	17
+RNA	SRR13209684	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	0.355481657100217	13
+RNA	SRR13209685	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	1.66714109230705	11
+RNA	SRR13209687	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	1.71651498192671	10
+RNA	SRR13209688	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	0.891386679572524	16.5
+RNA	SRR13209689	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	0.505821247679925	13
+RNA	SRR13209690	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	0.389874293859533	8
+RNA	SRR13209691	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	1.69978752793353	24.3333333333333
+RNA	SRR13209693	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.52109493190859	13
+RNA	SRR13209694	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.28136042866168	15
+RNA	SRR13209695	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	0.460571469172497	9
+RNA	SRR13209715	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.23894056319917	14
+RNA	SRR14572920	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	0.292192455155613	12.3333333333333
+RNA	SRR14572921	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	1.8176431404052	14
+RNA	SRR14572922	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.40313288073685	15.3333333333333
+RNA	SRR14572923	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.05453938743249	17
+RNA	SRR14572925	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.69935920255235	14
+RNA	SRR14572926	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.14943212749292	14
+RNA	SRR14572927	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.13770046791777	17.2
+RNA	SRR14572928	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	0.863003125969551	13.3333333333333
+RNA	SRR14572929	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	0.611832641340567	10.3333333333333
+RNA	SRR14572930	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.19521979533866	27.5
+RNA	SRR14572931	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.82599302137128	13
+RNA	SRR14572932	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.28968995509792	21
+RNA	SRR14572933	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.45035056532107	13
+RNA	SRR14572934	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	1.56995115147078	18
+RNA	SRR14572935	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.75234115894516	15
+RNA	SRR14572936	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.71400772083353	15.5
+RNA	SRR14572937	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	1.46578121897813	25
+RNA	SRR14572938	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	1.60751734039533	16
+RNA	SRR14572940	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Healthy/Normal	Healthy	Mussismilia hispida	1	0.398260326743691	12.75
+RNA	SRR14572941	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	1.68421425644971	17
+RNA	SRR14572942	PRJNA649484	PRJNA649484	Mussismilia hispida	Atlantic Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Mussismilia hispida	1	1.76061263045849	16.25
+RNA	SRR14577727	PRJNA716052	PRJNA716052	Orbicella faveolata	Caribbean Sea	Tissue	Diseased(white plague disease)	Diseased(white plague disease)	Orbicella faveolata	1	1.88915493229953	18.5
+RNA	SRR14577728	PRJNA716052	PRJNA716052	Orbicella faveolata	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Orbicella faveolata	1	1.73733514983006	18
+RNA	SRR14577729	PRJNA716052	PRJNA716052	Orbicella faveolata	Caribbean Sea	Tissue	Diseased(white plague disease)	Diseased(white plague disease)	Orbicella faveolata	1	1.8163888746007	23
+RNA	SRR14577730	PRJNA716052	PRJNA716052	Orbicella faveolata	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Orbicella faveolata	1	1.90341050618545	14
+RNA	SRR14577731	PRJNA716052	PRJNA716052	Orbicella faveolata	Caribbean Sea	Tissue	Diseased(white plague disease)	Diseased(white plague disease)	Orbicella faveolata	1	1.80678367273648	15
+RNA	SRR14577732	PRJNA716052	PRJNA716052	Orbicella faveolata	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Orbicella faveolata	1	1.66199676882953	13
+RNA	SRR14577734	PRJNA716052	PRJNA716052	Orbicella faveolata	Caribbean Sea	Tissue	Diseased(white plague disease)	Diseased(white plague disease)	Orbicella faveolata	1	1.810690533564	16
+RNA	SRR14577735	PRJNA716052	PRJNA716052	Orbicella faveolata	Caribbean Sea	Tissue	Diseased(white plague disease)	Diseased(white plague disease)	Orbicella faveolata	1	1.67503502793868	14
+RNA	SRR14577736	PRJNA716052	PRJNA716052	Orbicella faveolata	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Orbicella faveolata	1	1.66510644040558	18
+RNA	SRR14577737	PRJNA716052	PRJNA716052	Orbicella annularis	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Orbicella annularis	1	1.55487450165159	16.3333333333333
+RNA	SRR14577738	PRJNA716052	PRJNA716052	Orbicella annularis	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Orbicella annularis	1	1.58910747629003	22.5
+RNA	SRR14577739	PRJNA716052	PRJNA716052	Orbicella annularis	Caribbean Sea	Tissue	Diseased(white plague disease)	Diseased(white plague disease)	Orbicella annularis	1	0.90522961352775	16.5
+RNA	SRR14577741	PRJNA716052	PRJNA716052	Orbicella annularis	Caribbean Sea	Tissue	Diseased(white plague disease)	Diseased(white plague disease)	Orbicella annularis	1	1.65015673493394	13.5
+RNA	SRR14577742	PRJNA716052	PRJNA716052	Orbicella annularis	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Orbicella annularis	1	1.42667572844016	14
+RNA	SRR14577743	PRJNA716052	PRJNA716052	Orbicella annularis	Caribbean Sea	Tissue	Diseased(white plague disease)	Diseased(white plague disease)	Orbicella annularis	1	1.2467713607224	10
+RNA	SRR14577745	PRJNA716052	PRJNA716052	Orbicella annularis	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Orbicella annularis	1	1.33619613176435	20
+RNA	SRR14610884	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.89955783545408	18
+RNA	SRR14610885	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.41257195416017	16
+RNA	SRR14610886	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	2.18429743027726	25
+RNA	SRR14610887	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.42307815450345	23
+RNA	SRR14610888	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.9075428866694	29
+RNA	SRR14610889	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.51382752694365	15.3333333333333
+RNA	SRR14610890	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.27154655482766	16
+RNA	SRR14610891	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.89852544777182	14
+RNA	SRR14610892	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.80640052127402	17
+RNA	SRR14610893	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.89519581778215	20
+RNA	SRR14610894	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.85432907068697	19
+RNA	SRR14610895	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.9196320901498	28
+RNA	SRR14610896	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.48977314100439	16.3333333333333
+RNA	SRR14610897	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.85164208996606	17.3333333333333
+RNA	SRR14610898	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.25749747956894	22
+RNA	SRR14610899	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.94984773120456	16.3333333333333
+RNA	SRR14610900	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	2.04664604183322	25.3333333333333
+RNA	SRR14610901	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	2.01692671236423	22.5
+RNA	SRR14610902	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.79375815977187	15
+RNA	SRR14610903	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.77489143710131	16.5
+RNA	SRR14610904	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.82445078645594	15
+RNA	SRR14610905	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.71721464926918	14
+RNA	SRR14610906	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.52632801398846	18
+RNA	SRR14610907	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.45044600331455	15.5
+RNA	SRR14610908	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.73465468130237	21
+RNA	SRR14610909	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.50165070340708	16.5
+RNA	SRR14610910	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.86673006600429	16.3333333333333
+RNA	SRR14610911	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.67694501994837	21
+RNA	SRR14610912	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.9010608749355	16.5
+RNA	SRR14610913	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.91299678791505	12
+RNA	SRR14610914	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	2.02589619215617	22
+RNA	SRR14610915	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.95277703726934	19.5
+RNA	SRR14610916	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.97290716924089	20
+RNA	SRR14610917	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.78598111639458	16
+RNA	SRR14610918	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.94149415778799	18.5
+RNA	SRR14610919	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	2.05119089008503	17
+RNA	SRR14610920	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.72459821426921	15
+RNA	SRR14610921	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.79420249339041	20
+RNA	SRR14610922	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.89570214278311	19
+RNA	SRR14610923	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.78281353083405	14.5
+RNA	SRR14610924	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.88181351423782	17
+RNA	SRR14610925	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.75234432961092	16
+RNA	SRR14610926	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.80521770520943	16
+RNA	SRR14610927	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.55969548163268	12
+RNA	SRR14610928	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.24982678727907	13.5
+RNA	SRR14610929	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.88150423138147	15
+RNA	SRR14610930	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.88534768387594	15
+RNA	SRR14610931	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.7358140245208	15
+RNA	SRR14610932	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.85042525829745	13
+RNA	SRR14610933	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.46147943748073	17.5
+RNA	SRR14610934	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.735229871341243	18
+RNA	SRR14610935	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	2.0836380698271	15
+RNA	SRR14610936	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.306513984926588	10.3333333333333
+RNA	SRR14610937	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.814715174080233	19
+RNA	SRR14610938	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.942358233037415	11
+RNA	SRR14610939	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.96067356116984	14
+RNA	SRR14610940	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.89975980964714	13
+RNA	SRR14610941	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.92070850398823	28
+RNA	SRR14610943	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.0472223987320766	22
+RNA	SRR14610944	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.65633416140124	14
+RNA	SRR14610945	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.759090809779896	6.5
+RNA	SRR14610946	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.55074270222524	15
+RNA	SRR14610947	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.111280574454329	19
+RNA	SRR14610948	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.90570581184219	14
+RNA	SRR14610949	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.129920196847355	9.2
+RNA	SRR14610951	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.9724287781039	13
+RNA	SRR14610952	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	2.01650841268385	14
+RNA	SRR14610953	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.81973068639565	14
+RNA	SRR14610954	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.0625437809698137	5
+RNA	SRR14610955	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.82797919239289	13
+RNA	SRR14610957	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	0.351468729033494	11
+RNA	SRR14610958	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.0819943641280663	6.5
+RNA	SRR14610959	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.91596667190184	13
+RNA	SRR14610960	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	2.15306602684732	15
+RNA	SRR14610961	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.98655562507475	16
+RNA	SRR14610962	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	0.308095331721424	10
+RNA	SRR14610963	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.77567977704087	14
+RNA	SRR14610964	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	1.84987416205142	15
+RNA	SRR14610965	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Montipora capitata	1	2.06344472780026	13
+RNA	SRR14610967	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	2.03715181039661	14
+RNA	SRR14610968	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.9427431775561	14
+RNA	SRR14610970	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	0.472331833653259	11
+RNA	SRR14610971	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.75471715567314	15
+RNA	SRR14610972	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.89647395156743	15
+RNA	SRR14610973	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	0.365807669747048	17
+RNA	SRR14610975	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	2.0832823846268	19.3333333333333
+RNA	SRR14610976	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.87565310403448	12
+RNA	SRR14610979	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.86773935939696	16.5
+RNA	SRR14610981	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.69614514504852	16
+RNA	SRR14610982	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.93365851123452	16
+RNA	SRR14610983	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.83007617397551	15
+RNA	SRR14610984	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.75062815295501	12
+RNA	SRR14610985	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.89720772878442	17.3333333333333
+RNA	SRR14610986	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.72460207649481	17.2
+RNA	SRR14610987	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.23104755606515	19
+RNA	SRR14610988	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.80675289560678	17.25
+RNA	SRR14610989	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.88071773691711	15.5
+RNA	SRR14610990	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.90680457630325	16.5
+RNA	SRR14610991	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.96396679118663	16
+RNA	SRR14610992	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	2.04911785569816	22
+RNA	SRR14610993	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.94660598741957	16
+RNA	SRR14610994	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.94969333263681	19.25
+RNA	SRR14610995	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.81115743609616	20
+RNA	SRR14610996	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.61770282106432	12
+RNA	SRR14610997	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.8662987226025	19
+RNA	SRR14610998	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.05381108458201	15
+RNA	SRR14610999	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.87478006996818	13
+RNA	SRR14611000	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.89589474097445	24
+RNA	SRR14611001	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.65838718208341	18
+RNA	SRR14611002	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.76039329902805	15
+RNA	SRR14611003	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat + Acidification stress)	Stressed(Combined)	Pocillopora acuta	1	1.81691595295649	14
+RNA	SRR14611004	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.94195961007657	15.5
+RNA	SRR14611005	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	0.952797429163452	13
+RNA	SRR14611006	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.89258581418779	24
+RNA	SRR14611007	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	2.30834803310775	24
+RNA	SRR14611008	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	2.15636311571227	26
+RNA	SRR14611009	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	0.790561918776754	13
+RNA	SRR14611010	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	2.15329154324829	26.5
+RNA	SRR14611011	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.98669844059637	15
+RNA	SRR14611012	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.73457419331517	21
+RNA	SRR14611013	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.99762818132113	22
+RNA	SRR14611014	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	2.00838769640879	18
+RNA	SRR14611015	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.93315102623958	14
+RNA	SRR14611016	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.7171326960576	18
+RNA	SRR14611017	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.14733700204687	15
+RNA	SRR14611018	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.47670154390081	18
+RNA	SRR14611019	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.94156360903059	28
+RNA	SRR14611020	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	0.489968698484495	13.75
+RNA	SRR14611021	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.75187103029738	14.5
+RNA	SRR14611022	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.95756292018063	15
+RNA	SRR14611023	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.98673257343108	22
+RNA	SRR14611024	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.99024315728828	28
+RNA	SRR14611025	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.56623559894202	15.3333333333333
+RNA	SRR14611026	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.02286878184772	20
+RNA	SRR14611027	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.82566917916286	17
+RNA	SRR14611028	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.8152849536867	18.5
+RNA	SRR14611029	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.89676811732786	23.3333333333333
+RNA	SRR14611030	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.86024552517865	16
+RNA	SRR14611031	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.80991849260183	15
+RNA	SRR14611032	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.94569389026418	13
+RNA	SRR14611033	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.77243291289004	16
+RNA	SRR14611034	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.96493784856306	14
+RNA	SRR14611035	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.66502290576366	15.5
+RNA	SRR14611036	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.82920200504312	17.5
+RNA	SRR14611037	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora acuta	1	1.86100032429786	16.3333333333333
+RNA	SRR14611038	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.97758179832547	18
+RNA	SRR14611040	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora acuta	1	1.99945844126238	22.5
+RNA	SRR14611041	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.9829299336687	22
+RNA	SRR14611042	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.96783503887288	20.5
+RNA	SRR14611043	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.91080664244541	14
+RNA	SRR14611044	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	2.0287109636142	22
+RNA	SRR14611045	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.73089809726627	16
+RNA	SRR14611046	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.63521195264102	16.25
+RNA	SRR14611047	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.27801883715385	17
+RNA	SRR14611048	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.21044911863038	14
+RNA	SRR14611049	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.69488136413497	16.3333333333333
+RNA	SRR14611050	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.46443202043011	20
+RNA	SRR14611051	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	2.0054188923964	20
+RNA	SRR14611052	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.97938270809313	21
+RNA	SRR14611053	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.84082536303908	15.5
+RNA	SRR14611054	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.93665198100421	16
+RNA	SRR14611055	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.95763167673009	18.3333333333333
+RNA	SRR14611056	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	2.13227997582544	22
+RNA	SRR14611057	PRJNA731596	PRJNA731596	Pocillopora acuta	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Pocillopora acuta	1	1.9634335707143	25
+RNA	SRR14611058	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	0.1340583889701	10.2
+RNA	SRR14611059	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	0.723557169726361	11.5
+RNA	SRR14611060	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.82217713660273	12
+RNA	SRR14611062	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.81414210590236	14
+RNA	SRR14611063	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.43017223159051	14
+RNA	SRR14611064	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	0.294214482428785	13.3333333333333
+RNA	SRR14611066	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	0.0848761578941167	5
+RNA	SRR14611067	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.87610644997426	15
+RNA	SRR14611068	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	0.565706160943003	6
+RNA	SRR14611069	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.98308058187719	14
+RNA	SRR14611070	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.71285965898466	19.25
+RNA	SRR14611071	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	0.777973691121744	17.3333333333333
+RNA	SRR14611072	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.4832932213199	18.3333333333333
+RNA	SRR14611074	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	0.0625437809698137	5
+RNA	SRR14611075	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.88709587732284	16
+RNA	SRR14611076	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.85666756613971	14.5
+RNA	SRR14611077	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.94726608404766	18
+RNA	SRR14611080	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.88630656726973	12
+RNA	SRR14611081	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.6667096552099	15.5
+RNA	SRR14611082	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	0.490845036411069	13
+RNA	SRR14611083	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	2.0381776270197	17
+RNA	SRR14611084	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.93015760764537	28
+RNA	SRR14611085	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	0.114632319137196	8.2
+RNA	SRR14611086	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.89644716716055	16.5
+RNA	SRR14611087	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	0.170308611953959	9.5
+RNA	SRR14611088	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.1316906198794	22
+RNA	SRR14611089	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.61698208777506	19
+RNA	SRR14611091	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.96936692110719	18
+RNA	SRR14611093	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.96166651098823	19
+RNA	SRR14611094	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	2.0132088600662	14
+RNA	SRR14611095	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.90350748394829	13
+RNA	SRR14611096	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.89342486692462	17
+RNA	SRR14611099	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.65430715785304	14
+RNA	SRR14611100	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.76941156976395	11
+RNA	SRR14611101	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Montipora capitata	1	1.88299401696031	17
+RNA	SRR14611103	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	0.487095516581233	18.3333333333333
+RNA	SRR14611104	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.16198128288356	17.3333333333333
+RNA	SRR14611106	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	2.02690022455606	15
+RNA	SRR14611107	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.96724895545924	19
+RNA	SRR14611108	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	0.431430615472751	11
+RNA	SRR14611109	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	0.113619889036905	11
+RNA	SRR14611110	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.97468339652365	16.5
+RNA	SRR14611111	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.90169082834804	13
+RNA	SRR14611112	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.90131973460386	17
+RNA	SRR14611115	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	2.00483636553639	15
+RNA	SRR14611116	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.89961531139075	14
+RNA	SRR14611117	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.89949198754673	13
+RNA	SRR14611118	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.47877257565552	16
+RNA	SRR14611119	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	0.0346956461556027	3
+RNA	SRR14611120	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	0.13673218005384	8.25
+RNA	SRR14611121	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	0.0574376512429947	5
+RNA	SRR14611122	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.88449784505749	13
+RNA	SRR14611123	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.7290258755501	17.2
+RNA	SRR14611124	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.92057126374059	15
+RNA	SRR14611125	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.55926018430667	15.3333333333333
+RNA	SRR14611126	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	1.83423583841063	13
+RNA	SRR14611127	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Stressed(Acidification stress)	Stressed(Acidification stress)	Montipora capitata	1	0.168592566869184	8
+RNA	SRR14611128	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	0.0647819307991423	6.33333333333333
+RNA	SRR14611131	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.96027016991005	16.5
+RNA	SRR14611132	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	2.01567124576409	18.5
+RNA	SRR14611133	PRJNA731596	PRJNA731596	Montipora capitata	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Montipora capitata	1	1.41928611708515	20.3333333333333
+RNA	SRR15974336	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Galaxea fascicularis	1	0.467575788304218	7
+RNA	SRR15974337	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Galaxea fascicularis	1	0.414984749888658	4
+RNA	SRR15974338	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Galaxea fascicularis	1	0.176829385366565	4
+RNA	SRR15974339	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Galaxea fascicularis	1	0.558778295514299	5
+RNA	SRR15974340	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Galaxea fascicularis	1	0.871739004327534	5
+RNA	SRR15974341	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Galaxea fascicularis	1	0.80076283218734	5
+RNA	SRR15974342	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Galaxea fascicularis	1	1.03623238622538	9
+RNA	SRR15974343	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Galaxea fascicularis	1	0.941945261707673	6
+RNA	SRR15974344	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Galaxea fascicularis	1	0.306488246178051	4
+RNA	SRR15974345	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Galaxea fascicularis	1	0.373472146386651	5
+RNA	SRR15974346	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Galaxea fascicularis	1	0.924582502273495	7
+RNA	SRR15974347	PRJNA764551	PRJNA764551	Galaxea fascicularis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Galaxea fascicularis	1	1.21070126295461	9
+RNA	SRR18552019	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Bleached	Bleached	Platygyra carnosa	1	1.78615332114161	11
+RNA	SRR18552020	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Bleached	Bleached	Platygyra carnosa	1	1.71340303178409	11
+RNA	SRR18552021	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Bleached	Bleached	Platygyra carnosa	1	1.56526185992877	12
+RNA	SRR18552022	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Bleached	Bleached	Platygyra carnosa	1	1.98828712493222	21
+RNA	SRR18552023	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Platygyra carnosa	1	1.80285183401585	19
+RNA	SRR18552024	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Platygyra carnosa	1	1.77698885640588	11
+RNA	SRR18552025	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Platygyra carnosa	1	1.67469383068825	14
+RNA	SRR18552026	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Platygyra carnosa	1	1.73624309257257	13
+RNA	SRR18552028	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Platygyra carnosa	1	1.99748338997299	17
+RNA	SRR18552029	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Platygyra carnosa	1	1.75240416233598	12
+RNA	SRR18552030	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Platygyra carnosa	1	1.75769715330097	16
+RNA	SRR18552031	PRJNA821612	PRJNA821612	Platygyra carnosa	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Platygyra carnosa	1	1.67408067360901	11
+RNA	SRR23372215	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0.030106175263668	4.5
+RNA	SRR23372216	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0.0314855726379166	11
+RNA	SRR23372223	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Healthy/Normal	Healthy	Montastraea cavernosa	1	0.0287267778894193	3
+RNA	SRR23372224	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Healthy/Normal	Healthy	Montastraea cavernosa	1	0.0790530319963115	5
+RNA	SRR23372225	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Healthy/Normal	Healthy	Montastraea cavernosa	1	0.0392152449388721	3
+RNA	SRR23372226	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Healthy/Normal	Healthy	Montastraea cavernosa	1	0.0143653730434833	2
+RNA	SRR23372227	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Healthy/Normal	Healthy	Montastraea cavernosa	1	0.0932967394678929	13
+RNA	SRR23372228	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0.015744770417732	4
+RNA	SRR23372229	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0.015744770417732	4
+RNA	SRR23372230	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0	1
+RNA	SRR23372231	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0	1
+RNA	SRR23372232	PRJNA931253	PRJNA931253	Montastraea cavernosa	Atlantic Ocean	Mucus-tissue slurry	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0.0203362283796398	2
+RNA	SRR24081683	PRJNA950916	PRJNA950916	Montastraea cavernosa	Atlantic Ocean	Tissue	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0.0725705049727709	6
+RNA	SRR24081684	PRJNA950916	PRJNA950916	Montastraea cavernosa	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Montastraea cavernosa	1	0.015744770417732	4
+RNA	SRR24081685	PRJNA950916	PRJNA950916	Montastraea cavernosa	Atlantic Ocean	Tissue	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0.0236156680473058	7
+RNA	SRR24081686	PRJNA950916	PRJNA950916	Montastraea cavernosa	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Montastraea cavernosa	1	0	1
+RNA	SRR24081687	PRJNA950916	PRJNA950916	Montastraea cavernosa	Atlantic Ocean	Tissue	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0.045843001357828	9
+RNA	SRR24081688	PRJNA950916	PRJNA950916	Montastraea cavernosa	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Montastraea cavernosa	1	0.015744770417732	4
+RNA	SRR24081689	PRJNA950916	PRJNA950916	Montastraea cavernosa	Atlantic Ocean	Tissue	Diseased(SCTLD)	Diseased(SCTLD)	Montastraea cavernosa	1	0.030106175263668	4.5
+RNA	SRR24081690	PRJNA950916	PRJNA950916	Montastraea cavernosa	Atlantic Ocean	Tissue	Healthy/Normal	Healthy	Montastraea cavernosa	1	0.030106175263668	4.5
+RNA	SRR6255880	PRJNA405605	Avila2021	Diploria clivosa	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Diploria clivosa	1	0.709922845102393	15
+RNA	SRR6255882	PRJNA405606	Avila2021	Diploria clivosa	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Diploria clivosa	1	1.95884238975601	31
+RNA	SRR6255886	PRJNA405609	Avila2021	Diploria clivosa	Caribbean Sea	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Diploria clivosa	1	2.28187881744324	30.2
+RNA	SRR6255887	PRJNA405608	Avila2021	Diploria clivosa	Caribbean Sea	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Diploria clivosa	1	0.0706769368762902	17
+RNA	SRR6255888	PRJNA405607	Avila2021	Diploria clivosa	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Diploria clivosa	1	1.91657747324021	32
+RNA	SRR6255889	PRJNA405953	Avila2021	Siderastrea radians	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Siderastrea radians	1	1.19484935614536	8
+RNA	SRR6255890	PRJNA405610	Avila2021	Diploria clivosa	Caribbean Sea	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Diploria clivosa	1	2.29989178301954	43
+RNA	SRR6256312	PRJNA405954	Avila2021	Siderastrea radians	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Siderastrea radians	1	1.67405635786197	19
+RNA	SRR6256322	PRJNA405956	Avila2021	Siderastrea radians	Caribbean Sea	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Siderastrea radians	1	1.09005041885779	8.5
+RNA	SRR6256323	PRJNA405955	Avila2021	Siderastrea radians	Caribbean Sea	Tissue	Healthy/Normal	Healthy	Siderastrea radians	1	1.35331453681528	14
+RNA	SRR6256324	PRJNA405957	Avila2021	Siderastrea radians	Caribbean Sea	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Siderastrea radians	1	0.778677332220227	4
+RNA	SRR6256325	PRJNA405958	Avila2021	Siderastrea radians	Caribbean Sea	Tissue	Stressed(Heat stress)	Stressed(Heat stress)	Siderastrea radians	1	1.26495906956862	12
+RNA	SRR9963822	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora damicornis	1	0.667430093175567	9
+RNA	SRR9963823	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora damicornis	1	1.21053239503897	18.3333333333333
+RNA	SRR9963824	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora damicornis	1	1.3724866526287	17.5
+RNA	SRR9963825	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora damicornis	1	1.34443788729967	17
+RNA	SRR9963826	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora damicornis	1	0.973240897652508	14
+RNA	SRR9963827	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora damicornis	1	0.779802643041658	11.5
+RNA	SRR9963828	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora damicornis	1	1.55819807718862	18
+RNA	SRR9963829	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora damicornis	1	1.57269202749566	13
+RNA	SRR9963830	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora damicornis	1	0.675697359005426	11
+RNA	SRR9963831	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora damicornis	1	0.62927729898072	12
+RNA	SRR9963832	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Stressed(Heat stress)	Stressed(Heat stress)	Pocillopora damicornis	1	0.68654974532037	23
+RNA	SRR9963833	PRJNA559028	PRJNA559028	Pocillopora damicornis	Pacific Ocean	Fragment	Healthy/Normal	Healthy	Pocillopora damicornis	1	0.724008194919786	14

@@ -1,0 +1,8 @@
+"Family","Stable_Degree_Healthy","Stable_Degree_SCTLD","Max_Retention_Healthy","Max_Retention_SCTLD","Display_Exclusion_Only","Healthy_Prevalence","SCTLD_Prevalence","Pooled_Prevalence","Retained_Pooled_Prevalence_Filter","Candidate_Top100"
+"Casjensviridae",0,0,0.332,0.122,TRUE,0.85,0.855072463768116,0.853932584269663,TRUE,TRUE
+"Circoviridae",0,0,0.412,0.064,TRUE,1,1,1,TRUE,TRUE
+"Demerecviridae",0,0,0.042,0.078,TRUE,0.95,1,0.98876404494382,TRUE,TRUE
+"Genomoviridae",0,0,0.412,0.076,TRUE,0.55,0.594202898550725,0.584269662921348,TRUE,TRUE
+"Inoviridae",0,0,0.018,0.074,TRUE,0.45,0.246376811594203,0.292134831460674,TRUE,TRUE
+"Smacoviridae",0,0,0.06,0.074,TRUE,1,1,1,TRUE,TRUE
+"Tectiviridae",0,0,0.052,0.106,TRUE,0.95,0.91304347826087,0.921348314606742,TRUE,TRUE

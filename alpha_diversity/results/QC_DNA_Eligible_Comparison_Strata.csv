@@ -1,0 +1,20 @@
+"Analysis_Project","Ocean_Basin","Clean_Type","Species","Has_Healthy","N_Status"
+"PRJEB48073","Mediterranean Sea","Skeleton","Balanophyllia europaea",TRUE,2
+"PRJEB48073","Mediterranean Sea","Tissue","Balanophyllia europaea",TRUE,2
+"PRJNA1001615","Arabian Gulf","Tissue","Acropora pharaonis",TRUE,3
+"PRJNA1034677","Pacific Ocean","Fragment","Acropora carduus",TRUE,2
+"PRJNA435753","Atlantic Ocean","Mucus","Siderastrea siderea",TRUE,2
+"PRJNA576217","Atlantic Ocean","Tissue","Dichocoenia stokesii",TRUE,2
+"PRJNA576217","Atlantic Ocean","Tissue","Diploria labyrinthiformis",TRUE,2
+"PRJNA576217","Atlantic Ocean","Tissue","Meandrina meandrites",TRUE,2
+"PRJNA576217","Atlantic Ocean","Tissue","Stephanocoenia intersepta",TRUE,2
+"PRJNA647466","Pacific Ocean","Tissue","Pocillopora sp.",TRUE,2
+"PRJNA757245","Red Sea","Endolithic band","Goniastrea edwardsi",TRUE,2
+"PRJNA757245","Red Sea","Endolithic band","Porites lutea",TRUE,2
+"PRJNA757245","Red Sea","Skeleton","Goniastrea edwardsi",TRUE,2
+"PRJNA757245","Red Sea","Skeleton","Porites lutea",TRUE,2
+"PRJNA925892","Atlantic Ocean","Tissue","Orbicella faveolata",TRUE,2
+"PRJNA954896","Pacific Ocean","Tissue","Acropora muricata",TRUE,2
+"PRJNA995890","Pacific Ocean","Fragment","Acropora digitifera",TRUE,2
+"PRJNA995890","Pacific Ocean","Fragment","Galaxea fascicularis",TRUE,2
+"PRJNA995890","Pacific Ocean","Fragment","Porites pukoensis",TRUE,2

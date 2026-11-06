@@ -1,0 +1,204 @@
+Viral_genome	ORF	Level1_Name	Level2_Name	KO_Short
+SRR8664771_k141_782354	SRR8664771_k141_782354-cat_2_12	Brite Hierarchies	Protein families: signaling and cellular processes	ABC.SN.P
+SRR6255889-k141_73656	lcl|ORF128_SRR6255889-k141_73656:3403:2	Brite Hierarchies	Protein families: signaling and cellular processes	ABC-2.A
+SRR5645200_k141_19292	SRR5645200_k141_19292-cat_1_39	Environmental Information Processing	Membrane transport	ecfT
+ERR2193280_k141_61535	ERR2193280_k141_61535-cat_1_19	Environmental Information Processing	Membrane transport	oppA, mppA
+SRR25503025_k141_1213729	SRR25503025_k141_1213729-cat_2_2	Environmental Information Processing	Membrane transport	pstS
+SRR10686945_k141_45804	SRR10686945_k141_45804-cat_2_12	Environmental Information Processing	Membrane transport	pstS
+ERR2193280_k141_62468	ERR2193280_k141_62468-cat_2_5	Environmental Information Processing	Membrane transport	thuE, lpqY
+GCA_002864045.1-85	GCA_002864045.1-85-cat_1_8	Environmental Information Processing	Signal transduction	mcp
+SRR18532245_k141_654274	SRR18532245_k141_654274-cat_1_42	Metabolism	Amino acid metabolism	arcA
+DS4_FC_bin16.5000_filter	DS4_FC_bin16.5000_filter-k141_208583_11	Metabolism	Amino acid metabolism	argJ
+SRR5998774_k141_14267	SRR5998774_k141_14267_4	Metabolism	Amino acid metabolism	argO
+SRR18532176_k141_343222	SRR18532176_k141_343222_27	Metabolism	Amino acid metabolism	AROA1, aroA
+SRR15960045_k141_563419|provirus_56720_97821	SRR15960045_k141_563419|provirus_56720_97821_5	Metabolism	Amino acid metabolism	aroB
+SRR15960045_k141_563419|provirus_56720_97821	SRR15960045_k141_563419|provirus_56720_97821_4	Metabolism	Amino acid metabolism	aroK, aroL
+GCA_022348205.1-13|provirus_1_41546	GCA_022348205.1-13|provirus_1_41546_54	Metabolism	Amino acid metabolism	asnB, ASNS
+SRR18532172_k141_618006|provirus_43898_64517	SRR18532172_k141_618006|provirus_43898_64517_22	Metabolism	Amino acid metabolism	asnB, ASNS
+SRR18532224.metabat2.bin.8.5000_filter	SRR18532224.metabat2.bin.8.5000_filter-k141_33609_12	Metabolism	Amino acid metabolism	asnB, ASNS
+SRR18532176_k141_487850|provirus_198767_356682	SRR18532176_k141_487850|provirus_198767_356682_89	Metabolism	Amino acid metabolism	E1.4.1.9
+SRR18532176_k141_93206	SRR18532176_k141_93206-cat_1_40	Metabolism	Amino acid metabolism	E3.5.99.7
+SRR5644423_k141_21534	SRR5644423_k141_21534_6	Metabolism	Amino acid metabolism	ectC
+DS4_FC_bin16.5000_filter	DS4_FC_bin16.5000_filter-k141_54218_10	Metabolism	Amino acid metabolism	glsA, GLS
+SRR26405835_k141_19768	SRR26405835_k141_19768-cat_2_11	Metabolism	Amino acid metabolism	hisE
+SRR26405835_k141_26812	SRR26405835_k141_26812-cat_2_22	Metabolism	Amino acid metabolism	hisE
+SRR26405835_k141_20639	SRR26405835_k141_20639-cat_1_75	Metabolism	Amino acid metabolism	hisIE
+SRR5998776_k141_26373	SRR5998776_k141_26373_8	Metabolism	Amino acid metabolism	hpaI, hpcH
+D8_JK_NODE_2_length_67959_cov_6.691001_cutoff_0_type_circular	D8_JK_NODE_2_length_67959_cov_6.691001_cutoff_0_type_circular_30	Metabolism	Amino acid metabolism	iaaM
+GCA_003345655.1-6|provirus_1362560_1424380	GCA_003345655.1-6|provirus_1362560_1424380_2	Metabolism	Amino acid metabolism	ltaE
+SRR18532172_k141_783683|provirus_84001_125341	SRR18532172_k141_783683|provirus_84001_125341_6	Metabolism	Amino acid metabolism	metY
+DS4_FC_bin.5.5000_filter	DS4_FC_bin.5.5000_filter-k141_185910_21	Metabolism	Amino acid metabolism	PLOD1
+DS4_FC_bin.5.5000_filter	DS4_FC_bin.5.5000_filter-k141_64176_16	Metabolism	Amino acid metabolism	PLOD1
+SRR18532224.metabat2.bin.8.5000_filter	SRR18532224.metabat2.bin.8.5000_filter-k141_33609_14	Metabolism	Amino acid metabolism	PLOD1
+SRR15960045_k141_522357	SRR15960045_k141_522357_10	Metabolism	Amino acid metabolism	raiI
+GCA_013031245.1-19|provirus_341222_383984	GCA_013031245.1-19|provirus_341222_383984_24	Metabolism	Amino acid metabolism	rhlI, phzI, solI, cepI, tofI
+GCA_013032505.1-23|provirus_662070_698211	GCA_013032505.1-23|provirus_662070_698211_41	Metabolism	Amino acid metabolism	rhlI, phzI, solI, cepI, tofI
+GCA_022347725.1-56|provirus_77280_117358	GCA_022347725.1-56|provirus_77280_117358_40	Metabolism	Amino acid metabolism	rhlI, phzI, solI, cepI, tofI
+SRR15960045_k141_268494	SRR15960045_k141_268494_40	Metabolism	Amino acid metabolism	rhlI, phzI, solI, cepI, tofI
+SRR18532257_k141_662045	SRR18532257_k141_662045-cat_1_73	Metabolism	Amino acid metabolism	rocF, arg
+GCA_017743915.1-11|provirus_282888_363813	GCA_017743915.1-11|provirus_282888_363813_63	Metabolism	Amino acid metabolism	sinI, avsI
+SRR5998777_k141_181747	SRR5998777_k141_181747-cat_1_5	Metabolism	Biosynthesis of other secondary metabolites	besE
+SRR10686945_k141_22906	SRR10686945_k141_22906-cat_1_5	Metabolism	Biosynthesis of other secondary metabolites	pntH, ptlH
+SRR26405835_k141_30431	SRR26405835_k141_30431_124	Metabolism	Biosynthesis of other secondary metabolites	prnA, rebH, ktzQ
+DS4_FC_bin.5.5000_filter	DS4_FC_bin.5.5000_filter-k141_34965_14	Metabolism	Biosynthesis of other secondary metabolites	TR1
+GCA_017744015.1-10|provirus_26778_56182	GCA_017744015.1-10|provirus_26778_56182_8	Metabolism	Carbohydrate metabolism	acmA
+SRR7418766_k141_51102	SRR7418766_k141_51102_83	Metabolism	Carbohydrate metabolism	BDH1, bdhA
+SRR7418768_k141_47443	SRR7418768_k141_47443_12	Metabolism	Carbohydrate metabolism	BDH1, bdhA
+SRR7418770_k141_3393	SRR7418770_k141_3393_53	Metabolism	Carbohydrate metabolism	BDH1, bdhA
+SRR2954667_k141_5680	SRR2954667_k141_5680-cat_1_34	Metabolism	Carbohydrate metabolism	butA, budC
+SRR18532176_k141_487850|provirus_3_192913	SRR18532176_k141_487850|provirus_3_192913_214	Metabolism	Carbohydrate metabolism	croR
+GCA_001418205.1-20	GCA_001418205.1-20_48	Metabolism	Carbohydrate metabolism	E4.1.3.25
+SRR7418770_k141_3393	SRR7418770_k141_3393_46	Metabolism	Carbohydrate metabolism	frmA, ADH5, adhC
+SRR5998778_k141_118442	SRR5998778_k141_118442_15	Metabolism	Carbohydrate metabolism	garL
+SRR18532175_k141_388171	SRR18532175_k141_388171_94	Metabolism	Carbohydrate metabolism	GLO1, gloA
+SRR6784983_k119_2743	SRR6784983_k119_2743_3	Metabolism	Carbohydrate metabolism	gph
+GCA_013106735.1-55|provirus_247517_304473	GCA_013106735.1-55|provirus_247517_304473_83	Metabolism	Carbohydrate metabolism	gpmB
+SRR5998773_k141_41480	SRR5998773_k141_41480-cat_1_42	Metabolism	Carbohydrate metabolism	ICL, aceA
+SRR10686945_k141_7451	SRR10686945_k141_7451_14	Metabolism	Carbohydrate metabolism	INO1, ISYNA1
+SRR8664771_k141_956157	SRR8664771_k141_956157_4	Metabolism	Carbohydrate metabolism	INO1, ISYNA1
+SRR18532180_k141_689545	SRR18532180_k141_689545_60	Metabolism	Carbohydrate metabolism	ppdK
+GCA_017744015.1-10|provirus_26778_56182	GCA_017744015.1-10|provirus_26778_56182_22	Metabolism	Carbohydrate metabolism	ttuC, dmlA
+GCA_017744015.1-10|provirus_26778_56182	GCA_017744015.1-10|provirus_26778_56182_23	Metabolism	Carbohydrate metabolism	ttuC, dmlA
+DS4_FC_bin.4.5000_filter	DS4_FC_bin.4.5000_filter-k141_230674_14	Metabolism	Energy metabolism	cah
+DS4_FC_bin.5.5000_filter	DS4_FC_bin.5.5000_filter-k141_79394_3	Metabolism	Energy metabolism	cah
+SRR26405835_k141_30431	SRR26405835_k141_30431_20	Metabolism	Energy metabolism	cysC
+GCA_900101865.1-12|provirus_83329_101512	GCA_900101865.1-12|provirus_83329_101512_3	Metabolism	Energy metabolism	cysE
+SRR15960045_k141_855399|provirus_3_19220	SRR15960045_k141_855399|provirus_3_19220_2	Metabolism	Energy metabolism	cysE
+SRR8664773_k141_399193	SRR8664773_k141_399193_14	Metabolism	Energy metabolism	cysE
+ERR2192833_k141_120954	ERR2192833_k141_120954_55	Metabolism	Energy metabolism	cysH
+ERR2193280_k141_16977	ERR2193280_k141_16977_2	Metabolism	Energy metabolism	cysH
+GCA_000943375.1-55|provirus_47785_86514	GCA_000943375.1-55|provirus_47785_86514_43	Metabolism	Energy metabolism	cysH
+GCA_013032085.1-1|provirus_106726_149328	GCA_013032085.1-1|provirus_106726_149328_48	Metabolism	Energy metabolism	cysH
+GCA_013106735.1-55|provirus_247517_304473	GCA_013106735.1-55|provirus_247517_304473_3	Metabolism	Energy metabolism	cysH
+GCA_013108145.1-2	GCA_013108145.1-2_10	Metabolism	Energy metabolism	cysH
+GCA_017744175.1-155|provirus_57147_96682	GCA_017744175.1-155|provirus_57147_96682_28	Metabolism	Energy metabolism	cysH
+GCA_022348025.1-44|provirus_151577_245177	GCA_022348025.1-44|provirus_151577_245177_125	Metabolism	Energy metabolism	cysH
+GCA_022348025.1-44|provirus_151577_245177	GCA_022348025.1-44|provirus_151577_245177_152	Metabolism	Energy metabolism	cysH
+GCA_024124705.1-32|provirus_2_48302	GCA_024124705.1-32|provirus_2_48302_36	Metabolism	Energy metabolism	cysH
+GCA_024606265.1-68	GCA_024606265.1-68_21	Metabolism	Energy metabolism	cysH
+SRR1207980_k141_5126	SRR1207980_k141_5126_30	Metabolism	Energy metabolism	cysH
+SRR15960045_k141_168629	SRR15960045_k141_168629_5	Metabolism	Energy metabolism	cysH
+SRR18532172_k141_361123|provirus_32034_79530	SRR18532172_k141_361123|provirus_32034_79530_45	Metabolism	Energy metabolism	cysH
+SRR18532174_k141_239915	SRR18532174_k141_239915_25	Metabolism	Energy metabolism	cysH
+SRR18532179_k141_886595|provirus_5020_63222	SRR18532179_k141_886595|provirus_5020_63222_77	Metabolism	Energy metabolism	cysH
+SRR18532180_k141_686139	SRR18532180_k141_686139_3	Metabolism	Energy metabolism	cysH
+SRR18532188_k141_345146	SRR18532188_k141_345146_42	Metabolism	Energy metabolism	cysH
+SRR18532220_k141_102960	SRR18532220_k141_102960_3	Metabolism	Energy metabolism	cysH
+SRR18532221_k141_604903|provirus_10796_80078	SRR18532221_k141_604903|provirus_10796_80078_42	Metabolism	Energy metabolism	cysH
+SRR18532224_k141_314627	SRR18532224_k141_314627_4	Metabolism	Energy metabolism	cysH
+SRR18532224_k141_716570	SRR18532224_k141_716570_27	Metabolism	Energy metabolism	cysH
+SRR18532244_k141_585695	SRR18532244_k141_585695_16	Metabolism	Energy metabolism	cysH
+SRR18532245_k141_75527	SRR18532245_k141_75527_45	Metabolism	Energy metabolism	cysH
+SRR18532251_k141_462089	SRR18532251_k141_462089_20	Metabolism	Energy metabolism	cysH
+SRR18532252_k141_336809	SRR18532252_k141_336809_81	Metabolism	Energy metabolism	cysH
+SRR18532257_k141_677108	SRR18532257_k141_677108_30	Metabolism	Energy metabolism	cysH
+SRR25343835_k141_114717	SRR25343835_k141_114717_56	Metabolism	Energy metabolism	cysH
+SRR25343838_k141_188395	SRR25343838_k141_188395_6	Metabolism	Energy metabolism	cysH
+SRR25503025_k141_820211	SRR25503025_k141_820211_36	Metabolism	Energy metabolism	cysH
+SRR26405835_k141_1971	SRR26405835_k141_1971_8	Metabolism	Energy metabolism	cysH
+SRR26405836_k141_13040	SRR26405836_k141_13040_49	Metabolism	Energy metabolism	cysH
+SRR26493832_k141_386542	SRR26493832_k141_386542_89	Metabolism	Energy metabolism	cysH
+SRR5644423_k141_3035	SRR5644423_k141_3035_4	Metabolism	Energy metabolism	cysH
+SRR5644425_k141_6405	SRR5644425_k141_6405_2	Metabolism	Energy metabolism	cysH
+SRR5998773_k141_15806	SRR5998773_k141_15806_40	Metabolism	Energy metabolism	cysH
+SRR5998774_k141_62265	SRR5998774_k141_62265_21	Metabolism	Energy metabolism	cysH
+SRR8664773_k141_95659|provirus_3_63871	SRR8664773_k141_95659|provirus_3_63871_76	Metabolism	Energy metabolism	cysH
+GCA_013032305.1-24|provirus_192673_271014	GCA_013032305.1-24|provirus_192673_271014_36	Metabolism	Energy metabolism	dmdC
+SRR7418762_k141_30267|provirus_80117_108079	SRR7418762_k141_30267|provirus_80117_108079_18	Metabolism	Energy metabolism	E4.2.1.1
+DS4_FC_bin.5.5000_filter	DS4_FC_bin.5.5000_filter-k141_186649_2	Metabolism	Energy metabolism	ENO1_2_3, eno
+DS4_FC_bin.5.5000_filter	DS4_FC_bin.5.5000_filter-k141_202935_2	Metabolism	Energy metabolism	glnA, GLUL
+GCA_001463825.1-1|provirus_319725_362182	GCA_001463825.1-1|provirus_319725_362182_45	Metabolism	Energy metabolism	ncd2, npd
+ERR2192838_k141_177498	ERR2192838_k141_177498-cat_2_5	Metabolism	Energy metabolism	petF
+SRR14611007-k141_118365	lcl|ORF6_SRR14611007-k141_118365:3315:4598	Metabolism	Energy metabolism	petH
+SRR26405835_k141_47501	SRR26405835_k141_47501_2	Metabolism	Energy metabolism	ppk2
+DS4_FC_bin.5.5000_filter	DS4_FC_bin.5.5000_filter-k141_186649_1	Metabolism	Energy metabolism	pps, ppsA
+DS4_FC_bin18.5000_filter	DS4_FC_bin18.5000_filter-k141_125653_54	Metabolism	Energy metabolism	pps, ppsA
+SRR5998774_k141_59327	SRR5998774_k141_59327_2	Metabolism	Energy metabolism	psbA
+ERR2193280_k141_105189	ERR2193280_k141_105189_6	Metabolism	Energy metabolism	psbA
+SRR2954667_k141_36718	SRR2954667_k141_36718_4	Metabolism	Energy metabolism	psbA
+SRR2954667_k141_36718	SRR2954667_k141_36718_5	Metabolism	Energy metabolism	psbA
+DS4_FC_bin.2.5000_filter	DS4_FC_bin.2.5000_filter-k141_136318_5	Metabolism	Lipid metabolism	ACER3, YDC1
+DS4_FC_bin16.5000_filter	DS4_FC_bin16.5000_filter-k141_37465_10	Metabolism	Lipid metabolism	GCDH, gcdH
+DS4_FC_bin.6.5000_filter	DS4_FC_bin.6.5000_filter-k141_199482_12	Metabolism	Lipid metabolism	GCDH, gcdH
+DS4_FC_bin.5.5000_filter	DS4_FC_bin.5.5000_filter-k141_194268_3	Metabolism	Lipid metabolism	HPGDS
+DS4_FC_bin16.5000_filter	DS4_FC_bin16.5000_filter-k141_179536_21	Metabolism	Lipid metabolism	MESO1, ERG25
+SRR15960032_k141_443113	SRR15960032_k141_443113_2	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR15960032_k141_443113	SRR15960032_k141_443113_7	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR18532176_k141_487850|provirus_3_192913	SRR18532176_k141_487850|provirus_3_192913_77	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR18532176_k141_487850|provirus_3_192913	SRR18532176_k141_487850|provirus_3_192913_80	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR18532176_k141_487850|provirus_3_192913	SRR18532176_k141_487850|provirus_3_192913_82	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR18532180_k141_700533	SRR18532180_k141_700533_98	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR18532219_k141_405702	SRR18532219_k141_405702_61	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR21856056_k141_10849	SRR21856056_k141_10849_39	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR21856056_k141_26360	SRR21856056_k141_26360_4	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR26405835_k141_72293	SRR26405835_k141_72293_116	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR26493830_k141_431553	SRR26493830_k141_431553_7	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR26493830_k141_598892	SRR26493830_k141_598892_24	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR5998776_k141_156179	SRR5998776_k141_156179_4	Metabolism	Metabolism of cofactors and vitamins	ahbD
+SRR10686946_k141_147893	SRR10686946_k141_147893_2	Metabolism	Metabolism of cofactors and vitamins	cobS
+SRR2954674_k141_63159	SRR2954674_k141_63159_4	Metabolism	Metabolism of cofactors and vitamins	cobS
+SRR5998774_k141_874	SRR5998774_k141_874_3	Metabolism	Metabolism of cofactors and vitamins	cobS
+DS1_CX_NODE_1_length_42971_cov_7.719727_cutoff_0_type_circular	DS1_CX_NODE_1_length_42971_cov_7.719727_cutoff_0_type_circular_48	Metabolism	Metabolism of cofactors and vitamins	cobS
+SRR25343840_k141_274401	SRR25343840_k141_274401_46	Metabolism	Metabolism of cofactors and vitamins	cobS
+SRR25343840_k141_274401	SRR25343840_k141_274401_45	Metabolism	Metabolism of cofactors and vitamins	cobT
+SRR7418770_k141_3393	SRR7418770_k141_3393_50	Metabolism	Metabolism of cofactors and vitamins	dxs
+SRR18532252_k141_208756	SRR18532252_k141_208756_4	Metabolism	Metabolism of cofactors and vitamins	iscS, NFS1
+SRR18532178_k141_119578|provirus_1_35925	SRR18532178_k141_119578|provirus_1_35925_24	Metabolism	Metabolism of cofactors and vitamins	nadE
+SRR18532178_k141_480119|provirus_1_33114	SRR18532178_k141_480119|provirus_1_33114_24	Metabolism	Metabolism of cofactors and vitamins	nadE
+SRR18532252_k141_455218|provirus_1_87271	SRR18532252_k141_455218|provirus_1_87271_87	Metabolism	Metabolism of cofactors and vitamins	nadE
+SRR5644425_k141_18676	SRR5644425_k141_18676_7	Metabolism	Metabolism of cofactors and vitamins	pncC
+SRR18532257_k141_680767	SRR18532257_k141_680767_70	Metabolism	Metabolism of cofactors and vitamins	thiO
+SRR5998778_k141_960	SRR5998778_k141_960_2	Metabolism	Metabolism of other amino acids	panD
+DS4_FC_bin.5.5000_filter	DS4_FC_bin.5.5000_filter-k141_114883_2	Metabolism	Metabolism of other amino acids	pat, bar
+DS4_CX_bin.14.5000_filter	DS4_CX_bin.14.5000_filter-k141_113810_5	Metabolism	Metabolism of other amino acids	phnW
+DS4_FC_bin18.5000_filter	DS4_FC_bin18.5000_filter-k141_125653_8	Metabolism	Metabolism of other amino acids	phnX
+SRR18532224_k141_218826	SRR18532224_k141_218826-cat_2_39	Metabolism	Metabolism of terpenoids and polyketides	pchB
+DS4_FC_bin.2.5000_filter	DS4_FC_bin.2.5000_filter-k141_170762_34	Metabolism	Metabolism of terpenoids and polyketides	ZDS, crtQ
+SRR18532214_k141_223563|provirus_18924_46439	SRR18532214_k141_223563|provirus_18924_46439_3	Metabolism	Xenobiotics biodegradation and metabolism	E2.3.1.318
+SRR5998774_k141_32446	SRR5998774_k141_32446-cat_2_7	Not Included in Pathway or Brite	Unclassified: metabolism	AOX1, AOX2
+SRR21856056_k141_8974	SRR21856056_k141_8974-cat_2_4	Not Included in Pathway or Brite	Unclassified: metabolism	AOX1, AOX2
+SRR5998774_k141_89852	SRR5998774_k141_89852-cat_1_39	Not Included in Pathway or Brite	Unclassified: metabolism	asnO
+SRR18532246_k141_437365	SRR18532246_k141_437365-cat_1_19	Not Included in Pathway or Brite	Unclassified: metabolism	eutL
+SRR5998776_k141_84081	SRR5998776_k141_84081-cat_2_5	Not Included in Pathway or Brite	Unclassified: metabolism	iscU, nifU
+D8_JK_NODE_1_length_26110_cov_5.495131_cutoff_5_type_linears	D8_JK_NODE_1_length_26110_cov_5.495131_cutoff_5_type_linears-cat_1_25	Not Included in Pathway or Brite	Unclassified: metabolism	K07336
+SRR5998776_k141_60091	SRR5998776_k141_60091-cat_2_5	Not Included in Pathway or Brite	Unclassified: metabolism	K07336
+SRR5998776_k141_84081	SRR5998776_k141_84081-cat_2_7	Not Included in Pathway or Brite	Unclassified: metabolism	K07336
+SRR26405835_k141_20639	SRR26405835_k141_20639-cat_1_42	Not Included in Pathway or Brite	Unclassified: metabolism	lldG
+SRR18532171_k141_175635	SRR18532171_k141_175635-cat_1_7	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	nosD
+SRR5998776_k141_59189	SRR5998776_k141_59189-cat_2_4	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH, phoL
+SRR5998778_k141_50856	SRR5998778_k141_50856-cat_2_5	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH, phoL
+SRR2954674_k141_17122	SRR2954674_k141_17122-cat_1_3	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH, phoL
+SRR15959998_k141_106814	SRR15959998_k141_106814-cat_1_11	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH, phoL
+SRR10686945_k141_45804	SRR10686945_k141_45804-cat_2_16	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH, phoL
+SRR15960032_k141_517148	SRR15960032_k141_517148-cat_2_3	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH, phoL
+SRR21856063_k141_15656	SRR21856063_k141_15656-cat_2_11	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH, phoL
+SRR5998773_k141_19356	SRR5998773_k141_19356-cat_1_24	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH, phoL
+SRR5998773_k141_61936	SRR5998773_k141_61936-cat_2_40	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH, phoL
+SRR10686946_k141_47513	SRR10686946_k141_47513-cat_2_4	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH2
+SRR18532250_k141_572857	SRR18532250_k141_572857-cat_1_27	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH2
+SRR8664771_k141_574118	SRR8664771_k141_574118-cat_2_8	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	phoH2
+SRR15960032_k141_736691	SRR15960032_k141_736691_4	Other	VFG	ClpP (VF0072/4)
+SRR21856057_k141_1913	SRR21856057_k141_1913_10	Other	VFG	ClpP (VF0072/4)
+SRR10686933_k141_89594	SRR10686933_k141_89594_10	Other	VFG	ClpP (VF0072/4)
+SRR25343839_k141_1017710|provirus_155760_172454	SRR25343839_k141_1017710|provirus_155760_172454_22	Other	VFG	ClpP (VF0072/4)
+SRR5998776_k141_97915	SRR5998776_k141_97915_1	Other	VFG	ClpP (VF0072/4)
+SRR5998776_k141_97915	SRR5998776_k141_97915_2	Other	VFG	ClpP (VF0072/4)
+SRR8664771_k141_733573	SRR8664771_k141_733573_4	Other	VFG	Zot (VF0129)
+SRR15960042_k141_374587	SRR15960042_k141_374587_1	Other	VFG	Zot (VF0129)
+SRR15960042_k141_804231	SRR15960042_k141_804231_12	Other	VFG	Type IV pili (AI111/VF0075/82/31)
+SRR15960045_k141_457817	SRR15960045_k141_457817_11	Other	VFG	Type IV pili (AI111/VF0075/82/31)
+SRR5998774_k141_5271	SRR5998774_k141_5271_7	Other	VFG	Type IV pili (AI111/VF0075/82/31)
+SRR5998776_k141_126810	SRR5998776_k141_126810_5	Other	VFG	Agf (VF0103)
+DS4_CX_NODE_19_length_28829_cov_9.364887_cutoff_5_type_circular	DS4_CX_NODE_19_length_28829_cov_9.364887_cutoff_5_type_circular_1	Other	VFG	Type 1 fimbriae (VF0221)
+DS4_CX_NODE_19_length_28829_cov_9.364887_cutoff_5_type_circular	DS4_CX_NODE_19_length_28829_cov_9.364887_cutoff_5_type_circular_56	Other	VFG	Type 1 fimbriae (VF0221)
+SRR23162987_k141_549731	SRR23162987_k141_549731_3	Other	VFG	DNase (VF0252)
+SRR18532214_k141_223563|provirus_18924_46439	SRR18532214_k141_223563|provirus_18924_46439_5	Other	VFG	Capsule (VF0003)
+SRR18532214_k141_223563|provirus_18924_46439	SRR18532214_k141_223563|provirus_18924_46439_31	Other	VFG	LOS (VF0326)
+SRR18532224_k141_488886	SRR18532224_k141_488886_1	Other	VFG	LOS (VF0326)
+SRR1207981_k141_3354	SRR1207981_k141_3354_12	Other	VFG	ESX-5 (VF0402)
+SRR18532175_k141_388171	SRR18532175_k141_388171_3	Other	VFG	Type IV pili (AI111/VF0075/82/31)
+SRR7418765_k141_26366	SRR7418765_k141_26366_5	Other	VFG	Bsa T3SS (VF0428)
+SRR15960045_k141_457817	SRR15960045_k141_457817_4	Other	VFG	Flagella (VF0430)
+SRR15960042_k141_655573|provirus_13585_39793	SRR15960042_k141_655573|provirus_13585_39793_11	Other	VFG	Type IV pili (AI111/VF0075/82/31)
+SRR7418763_k141_28407	SRR7418763_k141_28407_58	Other	VFG	Dot/Icm (SS047)
+SRR18532180_k141_935181	SRR18532180_k141_935181_4	Other	VFG	Dot/Icm (SS047)

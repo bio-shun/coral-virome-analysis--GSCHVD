@@ -1,0 +1,2 @@
+"LDA_Family","Comparison_ID","Analysis_Project","Ocean_Basin","Coral_Host_Species","Sample_Type","Locations","Enriched_In","LDA_Signed","LDA_Abs","KW_P","KW_P_BH_within_stratum","Healthy_mean_CPM","Condition_mean_CPM","Healthy_n","Condition_n","LDA_Display_Threshold"
+"Microviridae","D05","PRJNA925892","Atlantic Ocean","Orbicella faveolata","Coral tissue","USA: FL,Looe Key; USA: FL,Middle ECA; USA: FL,North ECA; USA: FL,Sand Key; USA: FL,South ECA","SCTLD",2.98009290485327,2.98009290485327,0.0256620401820787,0.659375059399459,7709.34978304806,9617.74358536543,20,69,2.5

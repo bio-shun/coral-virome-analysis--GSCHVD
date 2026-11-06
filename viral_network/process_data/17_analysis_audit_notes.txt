@@ -1,0 +1,21 @@
+Project-aware robust viral family association network
+
+Project: PRJNA925892
+Sampling region: Atlantic Ocean
+Coral taxon: Orbicella faveolata
+Compartment: Coral tissue
+
+Healthy n = 20
+SCTLD n = 69
+Locations = USA: FL,Looe Key; USA: FL,Middle ECA; USA: FL,North ECA; USA: FL,Sand Key; USA: FL,South ECA
+Healthy location-count vector = 5,3,1,6,5
+
+Preprocessing: formally named viral families only; top 100 by combined mean TPM; pooled prevalence >=20%; CLR transformation.
+Network: Spearman association; |rho| >= 0.7 and BH-adjusted P <= 0.05 across tested family pairs.
+Bootstrap: 500 site-balanced resamples; both groups sampled to the Healthy location-count vector.
+Stable edge: bootstrap retention >= 0.50.
+Permutation: 999 health-label permutations within Location; observed location-specific group counts preserved.
+Topology permutation P values are BH-adjusted across eight prespecified topology metrics, including Active_Nodes (connected families).
+Prevalence sensitivity: 10%, 20%, 30%.
+
+IMPORTANT: all samples entering the network are explicitly restricted to one Project.
