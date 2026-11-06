@@ -6,12 +6,12 @@ Analysis scripts, processed input data, result tables and figures supporting *Gl
 
 | Folder | Contents |
 | --- | --- |
-| [alpha_diversity](alpha_diversity/) | DNA/RNA virus Shannon diversity, Chao1 richness, statistical tests and figures |
+| [alpha_diversity](alpha_diversity/) | DNA/RNA viral Shannon diversity, Chao1 richness, statistical tests and figures |
 | [beta_diversity](beta_diversity/) | PCoA, ecological-factor comparisons and permutation tests |
 | [relative_abundance](relative_abundance/) | DNA/RNA viral and bacterial-family abundance heatmaps |
 | [amg_profiles](amg_profiles/) | Auxiliary metabolic gene abundance summaries and heatmap |
 | [lyso_analysis](lyso_analysis/) | Phage lifestyle composition and figure |
-| [lefse_analysis](lefse_analysis/) | DNA/RNA virus LEfSe analysis, result tables and figures |
+| [lefse_analysis](lefse_analysis/) | DNA/RNA viral LEfSe analysis, result tables and figures |
 | [viral_network](viral_network/) | Viral association networks, network metrics and panel source tables |
 | [virus_host_ratio](virus_host_ratio/) | Virus–host abundance ratios, statistical tests and figures |
 | [source_data](source_data/) | Combined results, statistical summary and figure-specific Source Data |
